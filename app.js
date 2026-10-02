@@ -1678,10 +1678,72 @@
     if (b.dataset.z === 'fit') Web.fit(); else Web.zoomBy(b.dataset.z === 'in' ? 1.3 : 1 / 1.3);
   });
 
+  /* ------------------------------------------------------------------
+     Landing: the spoiler check, until the viewer says which season they've finished.
+     index.html hides it before first paint for viewers who already answered.
+     ------------------------------------------------------------------ */
+  const Landing = (() => {
+    const el = $('#landing');
+    const KEY = 'wire.finished';
+    let open = false;
+    const picks = $('#landingSeasons');
+    picks.innerHTML = SEASONS.map((S, i) =>
+      `<button type="button" class="season-pick" data-season="${S.season}" style="--d:${240 + i * 90}ms" aria-label="I've finished Season ${S.season} (${S.year}, ${S.episodes.length} episodes)">
+        <span class="label">Finished</span>
+        <span class="sp-name">Season ${S.season}</span>
+        <span class="sp-meta">${S.year} &middot; ${S.episodes.length} episodes</span>
+        <span class="sp-go" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span>
+      </button>`).join('');
+    picks.addEventListener('click', e => {
+      const b = e.target.closest('button[data-season]');
+      if (b) enter(+b.dataset.season);
+    });
+
+    const stamp = $('#landingStamp');
+    function hold(on) {
+      el.classList.toggle('is-hold', on);
+      $('#landingAsk').hidden = on;
+      $('#landingHold').hidden = !on;
+      $('#landingStampText').textContent = on ? 'NOT YET' : 'SPOILERS';
+      stamp.classList.remove('slam');
+      void stamp.getBoundingClientRect();
+      stamp.classList.add('slam');
+      (on ? $('#landingBack') : $('.season-pick', picks)).focus();
+    }
+    $('#landingNotYet').addEventListener('click', () => hold(true));
+    $('#landingBack').addEventListener('click', () => hold(false));
+
+    // A shared link into a season the viewer hasn't finished opens their last finished season instead.
+    function enter(n) {
+      store.set(KEY, String(n));
+      const linked = parseHash().season;
+      const target = linked && linked <= n && SEASONS.some(S => S.season === linked) ? linked : n;
+      if (target !== state.season) setSeason(target); else writeHash(true);
+      close();
+    }
+    function show() {
+      open = true;
+      el.hidden = false;
+      $('#app').inert = true;
+      el.tabIndex = -1;   // focus the dialog, not a season, so no answer looks preselected
+      requestAnimationFrame(() => el.focus({ preventScroll: true }));
+    }
+    function close() {
+      open = false;
+      $('#app').inert = false;
+      const done = () => { el.hidden = true; el.classList.remove('is-leaving'); };
+      if (reduced()) done(); else { el.classList.add('is-leaving'); setTimeout(done, 450); }
+      const t = tabs.find(b => b.dataset.view === state.view);
+      if (t) t.focus({ preventScroll: true });
+    }
+    const answered = () => SEASONS.some(S => S.season === +store.get(KEY));
+    return { show, answered, get isOpen() { return open; } };
+  })();
+
   // keyboard
   document.addEventListener('keydown', e => {
     const typing = /^(INPUT|TEXTAREA|SELECT)$/.test(document.activeElement?.tagName || '');
-    if (Palette.isOpen) return;
+    if (Landing.isOpen || Palette.isOpen) return;
     if ((e.key === '/' && !typing) || (e.key.toLowerCase() === 'k' && (e.metaKey || e.ctrlKey))) { e.preventDefault(); Palette.open(); return; }
     if (typing) return;
     if (e.key === 'Escape' && state.sel) { select(null); return; }
@@ -1724,6 +1786,7 @@
   state.ep = MAX_EP;
   state.chart = D.charts[0].id;
   rebuildAll();
+  if (Landing.answered()) $('#landing').hidden = true; else Landing.show();
   const boot = () => { applyHash(); requestAnimationFrame(moveInk); };
   if (document.fonts && document.fonts.ready) document.fonts.ready.then(boot); else boot();
 })();

@@ -5,6 +5,7 @@ A single-page app for exploring who works for whom in HBO's *The Wire*, season b
 ## Layout
 
 - `index.html`, `styles.css`, `app.js`: the app. Views: Board (org charts), Web (relationship network), Ladders (promotion paths), Episodes, Arcs (one person across seasons). The episode scrubber sets "as of episode N"; the season switch, which appears once there are two or more seasons, sets "as of season N".
+- A spoiler-check landing page (`#landing` in `index.html`, `Landing` in `app.js`) asks first-time visitors which season they've finished and remembers it in `localStorage` (`wire.finished`). Its season buttons come from the data, so a new season needs no change there.
 - `schema.js`: shared vocabulary (statuses, relationship types and groups, event types, reserved colors), used by the app and the tools.
 - `data/sN.js`: one hardcoded season per file. `data/s1.js` is the hand-curated Season 1 and the reference for depth and tone.
 - `research/sN/`: research JSON and `curation.js` for seasons built with the pipeline. Season 1 predates it and has none.

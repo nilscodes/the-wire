@@ -1,0 +1,2138 @@
+{
+  "episodes": [
+    {
+      "number": 1,
+      "title": "Ebb Tide",
+      "epigraph": "Ain't never gonna be what it was.",
+      "epigraphSpeaker": "Little Big Roy",
+      "epigraphSpeakerId": "littlebigroy",
+      "epigraphAttribution": null,
+      "airDate": "2003-06-01",
+      "writer": "Story: David Simon & Ed Burns; Teleplay: David Simon",
+      "director": "Ed Bianchi",
+      "summary": "McNulty, now in the Marine Unit, pulls a young woman's body out of the harbor and uses tide charts to push the case back onto Rawls's Homicide unit. At the port, union treasurer Frank Sobotka quietly moves containers for The Greek's people, and in West Baltimore Stringer, running the Barksdale crew while Avon is in prison, loses his New York supplier. The season's case starts when port police officer Beadie Russell opens a container and finds thirteen dead women inside.",
+      "events": [
+        {
+          "type": "other",
+          "primary": "mcnulty",
+          "characters": [
+            "mcnulty",
+            "daniels",
+            "kima",
+            "herc",
+            "rawls"
+          ],
+          "text": "Where the old Barksdale detail stands as the season opens: McNulty is in the Marine Unit, Daniels runs the evidence room, Greggs has a desk job in Asset Forfeiture, Herc is back on street cases and Rawls is now a colonel."
+        },
+        {
+          "type": "death",
+          "primary": "floater",
+          "characters": [
+            "mcnulty",
+            "diggins",
+            "rawls",
+            "landsman",
+            "cole"
+          ],
+          "text": "McNulty and his Marine Unit partner Diggins pull a young woman's body, legs broken, from the harbor. Rawls hands the case to Baltimore County; McNulty's tide-chart report shows she went into the water on the city side, and it comes back to Homicide, where Cole catches it."
+        },
+        {
+          "type": "other",
+          "primary": "bunk",
+          "characters": [
+            "bunk",
+            "mcnulty",
+            "omar",
+            "bird",
+            "daniels"
+          ],
+          "text": "Bunk asks McNulty to find Omar, the key witness in Bird's trial for the Gant murder. Bunk's evidence has gone missing in the basement, and Daniels has the evidence room pulled apart to find it."
+        },
+        {
+          "type": "other",
+          "primary": "bodie",
+          "characters": [
+            "bodie",
+            "shamrock",
+            "stringer"
+          ],
+          "text": "Bodie and Shamrock drive to Philadelphia for a package and find the car empty. Stringer, who had them tailed, clears them; Bodie is now running his own crew in the towers."
+        },
+        {
+          "type": "other",
+          "primary": "roberto",
+          "characters": [
+            "stringer",
+            "roberto",
+            "avon"
+          ],
+          "text": "Stringer learns in New York that Roberto, the Barksdales' supplier, has been targeted by the DEA. The New York people, afraid Avon talked to earn his short sentence, return the money and stop dealing with the Barksdales."
+        },
+        {
+          "type": "other",
+          "primary": "frank",
+          "characters": [
+            "frank",
+            "nick",
+            "ziggy",
+            "horseface",
+            "sergei",
+            "greek"
+          ],
+          "text": "Frank sends his nephew Nick to arrange a container for The Greek's people. When their driver Sergei leaves it sitting on the dock for hours, Frank has Horseface 'lose' it back in the stacks."
+        },
+        {
+          "type": "other",
+          "primary": "valchek",
+          "characters": [
+            "frank",
+            "valchek"
+          ],
+          "text": "Frank's union donates a stained-glass window to the neighborhood church and takes the spot Major Valchek wanted for the police window, starting a feud between them."
+        },
+        {
+          "type": "death",
+          "primary": "janedoes",
+          "characters": [
+            "beadie",
+            "frank"
+          ],
+          "text": "Port police officer Beadie Russell notices the container's broken customs seal, crawls inside and finds thirteen young women dead in a hidden compartment. Frank and the stevedores watch as the police arrive."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Collateral Damage",
+      "epigraph": "They can chew you up, but they gotta spit you out.",
+      "epigraphSpeaker": "McNulty",
+      "epigraphSpeakerId": "mcnulty",
+      "epigraphAttribution": null,
+      "airDate": "2003-06-08",
+      "writer": "Story: David Simon & Ed Burns; Teleplay: David Simon",
+      "director": "Ed Bianchi",
+      "summary": "McNulty ties his floater to the container and points out that its air pipe was pounded shut, so the deaths are ruled homicides; Rawls loses the fight over jurisdiction and the fourteen Jane Does go to Bunk and Freamon. Angry about the church window, Valchek offers to deliver council votes for Burrell's bid to become commissioner in return for a detail on Sobotka, and Frank's men steal Valchek's surveillance van. In Philadelphia, Sergei grabs a crewman named Sam, who confesses to The Greek before Vondas cuts his throat.",
+      "events": [
+        {
+          "type": "other",
+          "primary": "rawls",
+          "characters": [
+            "mcnulty",
+            "beadie",
+            "rawls",
+            "landsman",
+            "cole",
+            "bunk",
+            "freamon"
+          ],
+          "text": "The medical examiner agrees the women were murdered after McNulty and Beadie link the floater to an extra bedroll in the container and find the air pipe deliberately crushed. Rawls loses the jurisdiction fight; the 14 Jane Does go to Landsman's squad, first to Cole and then to Bunk and Freamon."
+        },
+        {
+          "type": "other",
+          "primary": "burrell",
+          "characters": [
+            "burrell",
+            "frazier"
+          ],
+          "text": "With Commissioner Frazier expected to leave for Washington, Deputy Commissioner Burrell is the mayor's choice to succeed him, pending a City Council vote."
+        },
+        {
+          "type": "transfer",
+          "primary": "valchek",
+          "characters": [
+            "valchek",
+            "burrell",
+            "prez",
+            "polk"
+          ],
+          "text": "Valchek offers to swing First District council votes behind Burrell in exchange for a detail on Frank Sobotka. Burrell gives him six men for six weeks, mostly dead weight such as Polk, and Valchek names his son-in-law Prez as lead investigator."
+        },
+        {
+          "type": "arrest",
+          "primary": "carver",
+          "characters": [
+            "carver",
+            "valchek",
+            "ott",
+            "lala",
+            "frank"
+          ],
+          "text": "On Valchek's orders, uniformed Sergeant Carver's officers ticket the stevedores' cars and stop them at an 8 a.m. DWI checkpoint. The dockworkers are taken in and released, though La La is held on an old traffic warrant."
+        },
+        {
+          "type": "other",
+          "primary": "horseface",
+          "characters": [
+            "horseface",
+            "frank",
+            "nick",
+            "lala",
+            "valchek"
+          ],
+          "text": "In retaliation, Horseface steals Valchek's surveillance van from the district lot, and he, Frank, Nick and La La seal it in a container bound out of the port."
+        },
+        {
+          "type": "other",
+          "primary": "avon",
+          "characters": [
+            "avon",
+            "weebey",
+            "tilghman",
+            "stringer",
+            "brianna",
+            "dangelo"
+          ],
+          "text": "In prison, CO Tilghman, a cousin of one of Wee-Bey's victims, harasses Wee-Bey; Avon asks Stringer to help deal with him. Brianna asks Avon to look after D'Angelo, whom Avon finds getting high in his cell."
+        },
+        {
+          "type": "death",
+          "primary": "sam",
+          "characters": [
+            "sergei",
+            "sam",
+            "greek",
+            "vondas"
+          ],
+          "text": "Using fake Coast Guard IDs, Sergei and a partner seize Sam, a crewman who jumped the ship in Philadelphia. Sam tells The Greek that he let the crew pay for the women, one of the men beat one to death, and the others saw. Vondas cuts Sam's throat, and the corpse is to be left with no fingerprints and no face."
+        },
+        {
+          "type": "other",
+          "primary": "daniels",
+          "characters": [
+            "daniels",
+            "marla"
+          ],
+          "text": "Stuck in the evidence room, Daniels tells Marla he will hand in his papers."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Hot Shots",
+      "epigraph": "What they need is a union.",
+      "epigraphSpeaker": "Russell",
+      "epigraphSpeakerId": "beadie",
+      "epigraphAttribution": null,
+      "airDate": "2003-06-15",
+      "writer": "Story: David Simon & Ed Burns; Teleplay: David Simon",
+      "director": "Elodie Keene",
+      "summary": "Bunk and Freamon get nothing from the ship's crew and let the vessel sail, and the container's paperwork proves to be fake. Valchek, furious that his detail is idle, forces Burrell to give him Daniels; Nick and Ziggy steal a container of cameras for The Greeks' fence Glekas, and Omar comes back to Baltimore with a new crew. In prison, a tainted package that Stringer sets up through Butchie reaches CO Tilghman, and inmates die of hot shots while D'Angelo, warned by Avon, stays clean.",
+      "events": [
+        {
+          "type": "other",
+          "primary": "bunk",
+          "characters": [
+            "bunk",
+            "freamon",
+            "beadie",
+            "landsman"
+          ],
+          "text": "Bunk and Freamon interview the Atlantic Light's crew in Philadelphia, get nowhere and let the ship go, and Landsman chews them out. The container's paperwork turns out to be falsified."
+        },
+        {
+          "type": "transfer",
+          "primary": "beadie",
+          "characters": [
+            "beadie",
+            "landsman",
+            "bunk",
+            "freamon"
+          ],
+          "text": "Landsman lets Beadie work in plain clothes while she is detailed to the Jane Doe case."
+        },
+        {
+          "type": "wiretap",
+          "primary": "prez",
+          "characters": [
+            "prez",
+            "grayson",
+            "frank",
+            "valchek"
+          ],
+          "text": "Prez complains to Valchek that the detail's commander, Lt. Grayson, won't authorize monitoring of Frank's phones and that the case is going nowhere."
+        },
+        {
+          "type": "transfer",
+          "primary": "daniels",
+          "characters": [
+            "valchek",
+            "burrell",
+            "daniels"
+          ],
+          "text": "Finding his detail playing poker and its lieutenant missing, Valchek corners Burrell at a fundraiser and threatens his nomination unless he gets a real detail, forcing Burrell to give him Daniels. Daniels has just told McNulty he has put in for early retirement to practice law."
+        },
+        {
+          "type": "other",
+          "primary": "omar",
+          "characters": [
+            "omar",
+            "dante",
+            "kimmy",
+            "tosha"
+          ],
+          "text": "Omar returns with a new boyfriend, Dante, and teams up with stick-up girls Kimmy and Tosha to rob stash houses."
+        },
+        {
+          "type": "other",
+          "primary": "nick",
+          "characters": [
+            "nick",
+            "ziggy",
+            "johnnyfifty",
+            "horseface",
+            "glekas",
+            "vondas"
+          ],
+          "text": "Nick, Ziggy and Johnny Fifty steal a container of cameras and sell them to George 'Double G' Glekas, who tells Vondas that Nick can be trusted."
+        },
+        {
+          "type": "other",
+          "primary": "frank",
+          "characters": [
+            "frank",
+            "dibiago",
+            "davis"
+          ],
+          "text": "At a political evening, lobbyist Bruce DiBiago tells Frank to court legislators like State Senator Clay Davis, who has taken union money without committing; Davis makes clear he expects more."
+        },
+        {
+          "type": "death",
+          "primary": "hotshotinmates",
+          "characters": [
+            "stringer",
+            "butchie",
+            "tilghman",
+            "avon",
+            "dangelo"
+          ],
+          "text": "Confirming to Butchie that this is Avon's call, Stringer has him sell Tilghman a bad package. Tilghman smuggles it into the prison and inmates collapse from hot shots; D'Angelo, told by Avon to stay off drugs for a few days, is untouched. He later says five are dead."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Hard Cases",
+      "epigraph": "If I hear the music, I'm gonna dance.",
+      "epigraphSpeaker": "Greggs",
+      "epigraphSpeakerId": "kima",
+      "epigraphAttribution": null,
+      "airDate": "2003-06-22",
+      "writer": "Story: David Simon & Joy Lusco; Teleplay: Joy Lusco",
+      "director": "Elodie Keene",
+      "summary": "Burrell buys Daniels back from retirement with command of the Sobotka detail; Daniels holds out for a permanent major case unit if he makes a case and for picking his own people, and gets Greggs, Herc and Prez but not McNulty. Avon turns the prison overdoses into an earlier parole hearing by giving investigators CO Tilghman, who is arrested. Bunk and Freamon lean on Horseface and Frank, who is shaken to learn the women in the container were murdered.",
+      "events": [
+        {
+          "type": "transfer",
+          "primary": "daniels",
+          "characters": [
+            "daniels",
+            "burrell",
+            "valchek"
+          ],
+          "text": "Burrell offers Daniels command of the Sobotka detail and a promotion. Daniels accepts on condition that a successful case makes the detail a permanent major case unit in CID and that he chooses his own people."
+        },
+        {
+          "type": "transfer",
+          "primary": "kima",
+          "characters": [
+            "kima",
+            "herc",
+            "prez",
+            "rawls",
+            "mcnulty",
+            "daniels",
+            "cheryl",
+            "marla"
+          ],
+          "text": "Greggs, over Cheryl's objections, and Herc join Prez on the detail. Rawls lets Daniels have most of his picks but refuses to release McNulty from the Marine Unit."
+        },
+        {
+          "type": "informant",
+          "primary": "avon",
+          "characters": [
+            "avon",
+            "levy",
+            "tilghman"
+          ],
+          "text": "Through Levy, Avon gives state investigators the source of the tainted drugs in exchange for having his first parole hearing moved up 12 months and cooperation noted in his file."
+        },
+        {
+          "type": "arrest",
+          "primary": "tilghman",
+          "characters": [
+            "tilghman"
+          ],
+          "text": "Acting on the tip, investigators search CO Tilghman's car and find drugs. He and three inmates face drug distribution charges."
+        },
+        {
+          "type": "other",
+          "primary": "dangelo",
+          "characters": [
+            "dangelo",
+            "avon"
+          ],
+          "text": "D'Angelo refuses to join Avon's deal, accuses him of the overdose deaths and says he wants nothing more to do with the business."
+        },
+        {
+          "type": "informant",
+          "primary": "bubbles",
+          "characters": [
+            "mcnulty",
+            "bubbles",
+            "johnny",
+            "omar",
+            "kimmy"
+          ],
+          "text": "McNulty catches Bubbles and Johnny shoplifting in the county and makes them find Omar for him. Kimmy overhears Bubbles asking around, and Omar sets a trap to find out why."
+        },
+        {
+          "type": "other",
+          "primary": "frank",
+          "characters": [
+            "bunk",
+            "freamon",
+            "beadie",
+            "horseface",
+            "frank"
+          ],
+          "text": "Bunk and Freamon question Horseface about the container and then hassle Frank at the stevedores' bar; Frank is shaken to learn the women were murdered."
+        },
+        {
+          "type": "other",
+          "primary": "nick",
+          "characters": [
+            "frank",
+            "nick",
+            "ziggy",
+            "glekas",
+            "maui"
+          ],
+          "text": "Frank finds out about the stolen cameras and argues with Nick about his own smuggling. Glekas asks Nick and Ziggy to get him chemicals, and the checker Maui starts humiliating Ziggy."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Undertow",
+      "epigraph": "They used to make steel there, no?",
+      "epigraphSpeaker": "Spiros Vondas",
+      "epigraphSpeakerId": "vondas",
+      "epigraphAttribution": null,
+      "airDate": "2003-06-29",
+      "writer": "Story: David Simon & Ed Burns; Teleplay: Ed Burns",
+      "director": "Steve Shill",
+      "summary": "Freamon and Carver join Daniels's detail, which starts with DNRs and finance checks to keep Valchek happy, while Bunk's grand jury summonses on the checkers turn up little and Maui tips Beadie that the union's computers record every container move. Prop Joe's nephew Cheese beats Ziggy over a drug debt and torches his car, and Nick learns the chemicals The Greeks want are for processing drugs. Frank refuses The Greek's offer of double, then triple, pay to keep the smuggling going during the investigation.",
+      "events": [
+        {
+          "type": "transfer",
+          "primary": "freamon",
+          "characters": [
+            "freamon",
+            "rawls",
+            "bunk",
+            "daniels"
+          ],
+          "text": "Rawls details Freamon to Daniels's Sobotka detail and tells Bunk to find a fresh partner for the Jane Does. Freamon recognizes Frank from the detail's board and links him to the dead women."
+        },
+        {
+          "type": "transfer",
+          "primary": "carver",
+          "characters": [
+            "carver",
+            "daniels",
+            "kima",
+            "herc"
+          ],
+          "text": "Daniels brings in Sergeant Carver, despite Carver having informed on him to Burrell during the Barksdale case, on condition that his stripes count for nothing on the detail and he reports to Greggs."
+        },
+        {
+          "type": "wiretap",
+          "primary": "daniels",
+          "characters": [
+            "daniels",
+            "frank",
+            "valchek",
+            "kima",
+            "herc",
+            "carver"
+          ],
+          "text": "Daniels orders DNRs on Sobotka and quick finance checks to placate Valchek, and puts Greggs, Herc and Carver on the drug trade around the port."
+        },
+        {
+          "type": "other",
+          "primary": "bunk",
+          "characters": [
+            "bunk",
+            "beadie",
+            "cole",
+            "horseface",
+            "johnnyfifty",
+            "frank"
+          ],
+          "text": "Bunk, Beadie and Cole serve grand jury summonses on the checkers who worked the Atlantic Light, Horseface and Johnny Fifty among them. Frank is enraged, and the hearings produce little."
+        },
+        {
+          "type": "informant",
+          "primary": "maui",
+          "characters": [
+            "beadie",
+            "maui"
+          ],
+          "text": "Beadie tries to recruit Maui, an old flame, as an informant. He won't talk about union men but tells her the union computers keep permanent records of container moves."
+        },
+        {
+          "type": "informant",
+          "primary": "bubbles",
+          "characters": [
+            "bubbles",
+            "mcnulty",
+            "omar",
+            "nathan"
+          ],
+          "text": "Bubbles finds Omar for McNulty, who brings him to ASA Nathan to prepare for Bird's trial."
+        },
+        {
+          "type": "other",
+          "primary": "ziggy",
+          "characters": [
+            "cheese",
+            "ziggy",
+            "frog",
+            "nick",
+            "lala"
+          ],
+          "text": "Cheese and his men beat Ziggy over a drug debt, take his car and give him until Friday to pay; when Nick and La La try to negotiate, Cheese shows them the car already torched."
+        },
+        {
+          "type": "other",
+          "primary": "frank",
+          "characters": [
+            "frank",
+            "nick",
+            "vondas",
+            "greek",
+            "sergei"
+          ],
+          "text": "Nick asks Vondas to pause the smuggling while the Jane Doe case runs and learns the chemicals Vondas wants are used to process drugs. The Greek offers to double, then triple, Frank's pay to keep going; Frank refuses."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "All Prologue",
+      "epigraph": "It don't matter that some fool say he different...",
+      "epigraphSpeaker": "D'Angelo",
+      "epigraphSpeakerId": "dangelo",
+      "epigraphAttribution": null,
+      "airDate": "2003-07-06",
+      "writer": "Story: David Simon & Ed Burns; Teleplay: David Simon",
+      "director": "Steve Shill",
+      "summary": "Omar's testimony convicts Bird of the Gant murder despite Levy's cross-examination, and the detail finds the struggling union has paid $70,000 in political contributions and ties the missing containers to Horseface. Sergei backs Nick against Cheese, and Prop Joe pays Ziggy for his car. Stringer pays a contact from D.C. for a killing that can't come back on him, and D'Angelo, who has cut himself off from his family, is strangled in the prison library and left to look like a suicide.",
+      "events": [
+        {
+          "type": "trial",
+          "primary": "bird",
+          "characters": [
+            "omar",
+            "bird",
+            "levy",
+            "nathan",
+            "phelan",
+            "mcnulty",
+            "stringer"
+          ],
+          "text": "Omar testifies against Bird and turns Levy's attack back on him. The jury convicts; Judge Phelan denies an appeal bond and signals a life sentence. Nathan gives Omar a pass on any future charge up to aggravated assault."
+        },
+        {
+          "type": "other",
+          "primary": "freamon",
+          "characters": [
+            "freamon",
+            "prez",
+            "beadie",
+            "daniels",
+            "kima",
+            "bunk",
+            "horseface"
+          ],
+          "text": "Freamon and Prez find the union has routed about $70,000 to political causes. Beadie argues the money comes from smuggling; Daniels puts Greggs and Prez on the vice angle and Freamon with Beadie and Bunk on container movements, which they tie to Horseface."
+        },
+        {
+          "type": "other",
+          "primary": "kima",
+          "characters": [
+            "kima",
+            "shardene",
+            "cheryl",
+            "prez"
+          ],
+          "text": "Greggs asks Shardene for help; a dancer friend tells her imported Eastern European women are being run by a madam and kept under guard."
+        },
+        {
+          "type": "other",
+          "primary": "nick",
+          "characters": [
+            "sergei",
+            "cheese",
+            "propjoe",
+            "nick",
+            "ziggy",
+            "vondas"
+          ],
+          "text": "Sergei draws guns on Cheese's crew; Prop Joe agrees to pay Ziggy for his car and tells Nick the cousins would be dead without the Greeks behind them."
+        },
+        {
+          "type": "other",
+          "primary": "nick",
+          "characters": [
+            "nick",
+            "ziggy",
+            "johnnyfifty",
+            "vondas",
+            "eton"
+          ],
+          "text": "Nick delivers the chemicals to Vondas and Eton and takes half his payment in drugs."
+        },
+        {
+          "type": "other",
+          "primary": "stringer",
+          "characters": [
+            "stringer"
+          ],
+          "text": "Stringer hands a contact from Washington, D.C. an envelope of cash for a job inside the prison, saying he can't go through his own people; the contact promises nothing will come back on Stringer and says his 'cousin up in there' will handle it."
+        },
+        {
+          "type": "other",
+          "primary": "dangelo",
+          "characters": [
+            "dangelo",
+            "brianna",
+            "avon",
+            "stringer",
+            "donette"
+          ],
+          "text": "D'Angelo refuses Brianna's plea to use Avon's Tilghman setup to cut his time, and asks her to tell Avon, Stringer and Donette to leave him alone."
+        },
+        {
+          "type": "death",
+          "primary": "dangelo",
+          "characters": [
+            "dangelo"
+          ],
+          "text": "In the prison library, another inmate strangles D'Angelo with a belt, ties it to a doorknob and leaves the body posed as a suicide."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Backwash",
+      "epigraph": "Don't worry, kid. You're still on the clock.",
+      "epigraphSpeaker": "Horseface",
+      "epigraphSpeakerId": "horseface",
+      "epigraphAttribution": null,
+      "airDate": "2003-07-13",
+      "writer": "Story: David Simon & Rafael Alvarez; Teleplay: Rafael Alvarez",
+      "director": "Thomas J. Wright",
+      "summary": "D'Angelo is buried; in prison Avon and Wee-Bey take his death for a suicide, while Stringer settles with his D.C. contact and warns him to keep it from Avon. Freamon and Beadie follow a container Horseface 'loses' to The Greeks' warehouse, where Greggs photographs Sergei with Prop Joe, and Daniels agrees to take the Jane Doe murders in return for Rawls's backing. Frank begs Nat for one more year as treasurer and brings cash to the family of New Charles, who loses a leg on the docks.",
+      "events": [
+        {
+          "type": "other",
+          "primary": "avon",
+          "characters": [
+            "avon",
+            "weebey",
+            "dangelo",
+            "brianna",
+            "bodie",
+            "stringer",
+            "donette"
+          ],
+          "text": "D'Angelo is waked and buried. In prison, Avon and Wee-Bey treat his death as a suicide, and Avon calls him weak."
+        },
+        {
+          "type": "other",
+          "primary": "stringer",
+          "characters": [
+            "stringer",
+            "avon",
+            "dangelo"
+          ],
+          "text": "Stringer meets the D.C. contact again. The prison is calling D'Angelo's death a hanging; the contact says his cousin 'always works clean' and asks whether Avon knew, and Stringer warns him to keep it out of Avon's ear."
+        },
+        {
+          "type": "other",
+          "primary": "propjoe",
+          "characters": [
+            "propjoe",
+            "stringer",
+            "avon"
+          ],
+          "text": "After the funeral, Prop Joe offers to share his better supply in exchange for a share of Barksdale territory. Stringer takes the idea to Avon, who refuses."
+        },
+        {
+          "type": "wiretap",
+          "primary": "herc",
+          "characters": [
+            "herc",
+            "carver",
+            "frog",
+            "nick"
+          ],
+          "text": "Herc and Carver borrow a $1,250 bug on Carver's credit card and hide it in a tennis ball near the dealer Frog, who throws it into the street, where a truck crushes it."
+        },
+        {
+          "type": "other",
+          "primary": "freamon",
+          "characters": [
+            "freamon",
+            "beadie",
+            "horseface",
+            "kima",
+            "prez",
+            "sergei",
+            "propjoe",
+            "glekas"
+          ],
+          "text": "Watching the port's container system, Freamon and Beadie see Horseface 'lose' a container and follow it to Glekas's warehouse, where Greggs photographs Sergei meeting Prop Joe. Greggs and Prez also trace the foreign dancers to an apartment building."
+        },
+        {
+          "type": "other",
+          "primary": "daniels",
+          "characters": [
+            "daniels",
+            "rawls",
+            "marla",
+            "freamon",
+            "bunk",
+            "beadie"
+          ],
+          "text": "Persuaded by Freamon, Daniels agrees to take the Jane Doe murders into his detail in return for Rawls's full support. He tells Marla he is staying in the department and playing their game."
+        },
+        {
+          "type": "other",
+          "primary": "nick",
+          "characters": [
+            "nick",
+            "frog",
+            "ziggy"
+          ],
+          "text": "Nick sets himself up as Frog's supplier and gives Ziggy a share of the first profits."
+        },
+        {
+          "type": "other",
+          "primary": "frank",
+          "characters": [
+            "frank",
+            "coxson",
+            "newcharles",
+            "dibiago"
+          ],
+          "text": "Frank asks Nat to let him serve another year as secretary-treasurer, against the union's rotation, and pushes DiBiago harder on the canal. When New Charles loses a leg in an accident on the docks, Frank brings his family cash and won't tell Nat where it came from."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Duck and Cover",
+      "epigraph": "How come they don't fly away?",
+      "epigraphSpeaker": "Ziggy",
+      "epigraphSpeakerId": "ziggy",
+      "epigraphAttribution": null,
+      "airDate": "2003-07-27",
+      "writer": "Story: David Simon & George Pelecanos; Teleplay: George Pelecanos",
+      "director": "Dan Attias",
+      "summary": "With phone records tying Glekas's warehouse to Sergei, White Mike and Prop Joe, the detail gets wiretaps on Sergei's cell phone and the warehouse line, and Rawls finally lets McNulty join. Frank learns his cell phone is flagged, spots Greggs on the docks and sends out a clean decoy container, which gives the detail Vondas's number while Frank and Nick meet The Greek in person. Ziggy loses a fight with Maui and buys a duck, and Bodie and Poot run a rival crew off their corner.",
+      "events": [
+        {
+          "type": "wiretap",
+          "primary": "pearlman",
+          "characters": [
+            "pearlman",
+            "daniels",
+            "sergei",
+            "herc",
+            "carver",
+            "whitemike",
+            "propjoe"
+          ],
+          "text": "Phone records and truck-rental papers show Sergei calls the warehouse every day a container goes missing. Pearlman finds probable cause and a judge signs wiretaps on Sergei's cell and the warehouse phone, after making Herc and Carver do chores at his house."
+        },
+        {
+          "type": "informant",
+          "primary": "herc",
+          "characters": [
+            "herc",
+            "carver",
+            "daniels"
+          ],
+          "text": "To explain how they tied Nick to Frog and to recoup the cost of the lost bug, Herc and Carver invent an informant, 'Fuzzy Dunlop', with Herc's cousin Bernard posing for the photo; Daniels signs off."
+        },
+        {
+          "type": "transfer",
+          "primary": "mcnulty",
+          "characters": [
+            "mcnulty",
+            "rawls",
+            "daniels",
+            "bunk",
+            "freamon"
+          ],
+          "text": "Pressed by Freamon and Bunk, Daniels goes back to Rawls, who lets McNulty leave the Marine Unit for the detail because he wants the Jane Does cleared. McNulty is put on the brothel as a would-be john."
+        },
+        {
+          "type": "wiretap",
+          "primary": "frank",
+          "characters": [
+            "frank",
+            "kima",
+            "beadie"
+          ],
+          "text": "Frank learns his overdue cell phone account is 'flagged' not to be cut off, spots Greggs posing as an engineer on the docks, and finds out Beadie has been detailed to the city police."
+        },
+        {
+          "type": "wiretap",
+          "primary": "vondas",
+          "characters": [
+            "frank",
+            "horseface",
+            "mcnulty",
+            "beadie",
+            "glekas",
+            "sergei",
+            "vondas",
+            "freamon"
+          ],
+          "text": "Frank sends out a clean container as a decoy and calls The Greeks from an untapped office phone. When Glekas and Sergei open the empty can they call Vondas on the tapped warehouse line, giving the detail Vondas's number."
+        },
+        {
+          "type": "other",
+          "primary": "frank",
+          "characters": [
+            "frank",
+            "nick",
+            "greek",
+            "vondas"
+          ],
+          "text": "Frank and Nick meet The Greek in person. He agrees to move only clean containers for a while and still pay in full, and taunts Frank about Ziggy's spending."
+        },
+        {
+          "type": "other",
+          "primary": "ziggy",
+          "characters": [
+            "ziggy",
+            "maui",
+            "louis",
+            "frank"
+          ],
+          "text": "Egged on by the stevedores, Ziggy fights Maui and ends up stranded on top of a container; he then buys a duck and shows it off at the bar. Louis turns down Frank's offer of a port advisory board seat."
+        },
+        {
+          "type": "other",
+          "primary": "bodie",
+          "characters": [
+            "bodie",
+            "poot",
+            "puddin"
+          ],
+          "text": "With their weak product not selling, Bodie and Poot gather a crew and drive an independent crew off their corner, expecting retaliation."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Stray Rounds",
+      "epigraph": "The world is a smaller place now.",
+      "epigraphSpeaker": "The Greek",
+      "epigraphSpeakerId": "greek",
+      "epigraphAttribution": null,
+      "airDate": "2003-08-03",
+      "writer": "Story: David Simon & Ed Burns; Teleplay: David Simon",
+      "director": "Tim Van Patten",
+      "summary": "A nine-year-old boy is killed by a stray bullet when the rival crew comes back at Bodie's corner, bringing a Western District sweep under Major Colvin and a Homicide bluff that Bodie sees through. McNulty's undercover visit leads to a raid on the brothel, an FBI agent named Koutris warns The Greeks that the Bureau is asking about Glekas, and The Greek repays him with a Colombian cocaine shipment. Stringer agrees to Prop Joe's deal behind Avon's back just as Avon brings in Brother Mouzone from New York.",
+      "events": [
+        {
+          "type": "raid",
+          "primary": "mcnulty",
+          "characters": [
+            "mcnulty",
+            "kima",
+            "pearlman",
+            "ilona",
+            "daniels"
+          ],
+          "text": "Posing as an English john, McNulty gets into the brothel; the detail raids it and finds him in bed with two women. Immigration holds the women, and the madam, Ilona Petrovich, makes bail."
+        },
+        {
+          "type": "informant",
+          "primary": "koutris",
+          "characters": [
+            "fitzhugh",
+            "koutris",
+            "vondas",
+            "glekas",
+            "greek",
+            "mcnulty"
+          ],
+          "text": "Fitzhugh's check on Glekas reaches FBI Agent Koutris, who dismisses Glekas as a 'mope' and warns the Greeks. The Greek, angry at Colombian partners, gives Koutris their cocaine shipment, and the FBI makes the seizure."
+        },
+        {
+          "type": "death",
+          "primary": "strayboy",
+          "characters": [
+            "bodie"
+          ],
+          "text": "The rival crew returns with guns, and in the shootout a nine-year-old boy is killed by a stray bullet through his bedroom window."
+        },
+        {
+          "type": "seizure",
+          "primary": "bodie",
+          "characters": [
+            "bodie",
+            "shamrock",
+            "stringer"
+          ],
+          "text": "Stringer, angry at the attention the killing will bring, has Bodie and Shamrock get rid of the guns; Bodie throws the bag off the Hanover Street Bridge, but it lands on a passing barge and ends up with the police."
+        },
+        {
+          "type": "arrest",
+          "primary": "bodie",
+          "characters": [
+            "colvin",
+            "rawls",
+            "norris",
+            "cole",
+            "bodie"
+          ],
+          "text": "Major Colvin's Western District sweeps everyone in the Pit into custody. Norris and Cole bring Bodie in and claim his prints are on a gun; he sees through the bluff, asks for a lawyer and is back on the towers the next episode."
+        },
+        {
+          "type": "promotion",
+          "primary": "burrell",
+          "characters": [
+            "burrell",
+            "valchek",
+            "rawls",
+            "daniels"
+          ],
+          "text": "At a meeting with Rawls and Daniels, Valchek complains that now the council votes are in and Burrell is moving into the commissioner's office, he is being frozen out of his own case."
+        },
+        {
+          "type": "other",
+          "primary": "stringer",
+          "characters": [
+            "stringer",
+            "propjoe",
+            "avon",
+            "brianna",
+            "mouzone",
+            "lamar"
+          ],
+          "text": "Stringer accepts Prop Joe's partnership without Avon's approval; Avon instead sends word that he is bringing in Brother Mouzone from New York, and Mouzone arrives the next day."
+        },
+        {
+          "type": "other",
+          "primary": "ziggy",
+          "characters": [
+            "vondas",
+            "nick",
+            "whitemike",
+            "eton",
+            "ziggy",
+            "glekas",
+            "johnnyfifty"
+          ],
+          "text": "Vondas moves Nick's drug supply to White Mike. Ziggy, grieving a duck he killed with liquor, pitches Glekas on cars stolen from the docks."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Storm Warnings",
+      "epigraph": "It pays to go with the union card every time.",
+      "epigraphSpeaker": "Ziggy",
+      "epigraphSpeakerId": "ziggy",
+      "epigraphAttribution": null,
+      "airDate": "2003-08-10",
+      "writer": "Story: David Simon & Ed Burns; Teleplay: Ed Burns",
+      "director": "Rob Bailey",
+      "summary": "Cheated by Glekas over a load of stolen cars, Ziggy shoots him dead, wounds a young clerk and signs a confession for Landsman. Valchek, furious that the case has moved past Sobotka, brings in the FBI and gets punched by Prez, while Koutris warns The Greek and Vondas orders the operation shut down, so the detail prepares to raid. On the west side, Stringer gives Cheese three of the six towers, and Brother Mouzone runs Cheese off with a load of rat shot.",
+      "events": [
+        {
+          "type": "death",
+          "primary": "glekas",
+          "characters": [
+            "ziggy",
+            "glekas",
+            "johnnyfifty"
+          ],
+          "text": "After Ziggy and Johnny Fifty steal cars from the docks, Glekas cuts Ziggy's share and throws him out. Ziggy returns with a gun, kills Glekas and wounds a young clerk."
+        },
+        {
+          "type": "arrest",
+          "primary": "ziggy",
+          "characters": [
+            "ziggy",
+            "landsman",
+            "nick",
+            "frank"
+          ],
+          "text": "Ziggy breaks down outside the store and is arrested. He signs Landsman's confession, correcting only that Glekas 'begged' rather than 'said', and is charged with murder."
+        },
+        {
+          "type": "other",
+          "primary": "valchek",
+          "characters": [
+            "valchek",
+            "fitzhugh",
+            "daniels",
+            "pearlman"
+          ],
+          "text": "Angry that the case has moved off Sobotka, Valchek takes it to the FBI. The Bureau agrees to work it with Daniels and Pearlman as a RICO case, on condition that the focus stays on the union."
+        },
+        {
+          "type": "other",
+          "primary": "prez",
+          "characters": [
+            "prez",
+            "valchek",
+            "daniels"
+          ],
+          "text": "Valchek storms into the detail and orders Prez off it. When Valchek insults him, Prez punches him, then hands Daniels his gun."
+        },
+        {
+          "type": "informant",
+          "primary": "koutris",
+          "characters": [
+            "koutris",
+            "greek",
+            "vondas",
+            "eton",
+            "sergei"
+          ],
+          "text": "Koutris sees the FBI's case on the Bureau's computer and tells The Greek how he is being tracked. Told of Glekas's murder, Vondas has Eton and Sergei clean out the store and warehouse."
+        },
+        {
+          "type": "wiretap",
+          "primary": "vondas",
+          "characters": [
+            "bunk",
+            "mcnulty",
+            "diggins",
+            "fitzhugh",
+            "vondas",
+            "eton",
+            "daniels",
+            "kima",
+            "freamon"
+          ],
+          "text": "From Diggins's boat, Bunk and McNulty watch Vondas and Eton throw away their phones. With FBI help the detail traces Vondas's last text, which is in Greek and translates as 'shut down immediately', and Daniels orders warrants for a raid."
+        },
+        {
+          "type": "other",
+          "primary": "frank",
+          "characters": [
+            "frank",
+            "ott"
+          ],
+          "text": "Frank decides to run again for secretary-treasurer despite the deal that Ott, who is Black, would take the post next under the union's rotation."
+        },
+        {
+          "type": "shooting",
+          "primary": "cheese",
+          "characters": [
+            "mouzone",
+            "cheese",
+            "stringer",
+            "bodie",
+            "propjoe",
+            "butchie",
+            "omar"
+          ],
+          "text": "Under the deal with Prop Joe, Stringer gives Cheese three of the six towers. Mouzone tells Cheese to leave and, when he swings, shoots him in the arm with rat shot. Prop Joe, unwilling to cross Mouzone, asks Butchie to set up a meeting between Stringer and Omar."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Bad Dreams",
+      "epigraph": "I need to get clean.",
+      "epigraphSpeaker": "Sobotka",
+      "epigraphSpeakerId": "frank",
+      "epigraphAttribution": null,
+      "airDate": "2003-08-17",
+      "writer": "Story: David Simon & George Pelecanos; Teleplay: George Pelecanos",
+      "director": "Ernest Dickerson",
+      "summary": "The detail and the FBI raid: Eton, Sergei, White Mike and the madam are arrested, Nick's drugs and cash are seized while he is away, and the FBI arrests Frank and Horseface at the union hall, waiting until the press arrives to walk them out. Vondas is left loose to lead them higher and McNulty unknowingly photographs The Greek; Frank, urged by Beadie, agrees to cooperate, but Koutris tips off The Greek and Frank goes alone to meet The Greek and Vondas under the bridge. Stringer convinces Omar that Brother Mouzone killed Brandon, and Omar shoots Mouzone before realizing he was lied to and calling an ambulance.",
+      "events": [
+        {
+          "type": "raid",
+          "primary": "daniels",
+          "characters": [
+            "daniels",
+            "kima",
+            "bunk",
+            "freamon",
+            "beadie",
+            "mcnulty",
+            "fitzhugh",
+            "herc",
+            "carver",
+            "eton",
+            "sergei",
+            "whitemike",
+            "ilona",
+            "nick",
+            "aimee",
+            "prissy"
+          ],
+          "text": "Warrants are served across the case: the warehouse has been stripped, guns are found at Eton's home, and Eton, Sergei, White Mike and the madam are arrested. Herc and Carver find heroin and cash in Nick's room, but Nick spent the night with Prissy and is now wanted."
+        },
+        {
+          "type": "arrest",
+          "primary": "frank",
+          "characters": [
+            "frank",
+            "horseface",
+            "reese",
+            "valchek"
+          ],
+          "text": "The FBI arrests Frank and Horseface at the union hall as Valchek watches; Reese holds them until the press arrives. Frank is charged with a single customs count and released after a detention hearing."
+        },
+        {
+          "type": "other",
+          "primary": "daniels",
+          "characters": [
+            "daniels",
+            "landsman",
+            "ziggy",
+            "glekas"
+          ],
+          "text": "The detail learns from the newspaper that one of its targets, Glekas, was murdered by Frank's son, and Daniels tears into Landsman for not telling him."
+        },
+        {
+          "type": "informant",
+          "primary": "whitemike",
+          "characters": [
+            "whitemike",
+            "kima",
+            "mcnulty",
+            "sergei",
+            "eton"
+          ],
+          "text": "Played his own voice on the wiretap, White Mike gives up Eton and Sergei and says Sergei's people killed a dealer called Mau Mau Willis for welshing on Eton. Sergei, Eton and the madam say nothing."
+        },
+        {
+          "type": "other",
+          "primary": "vondas",
+          "characters": [
+            "daniels",
+            "beadie",
+            "kima",
+            "mcnulty",
+            "bunk",
+            "vondas",
+            "greek"
+          ],
+          "text": "Daniels leaves Vondas on the street, hoping he will lead to whoever is above him. Beadie tails him on foot to a hotel room, and McNulty unknowingly photographs The Greek, though the detail takes Vondas's lawyer for the boss."
+        },
+        {
+          "type": "informant",
+          "primary": "frank",
+          "characters": [
+            "beadie",
+            "frank",
+            "pearlman",
+            "daniels",
+            "ziggy",
+            "nick",
+            "louis",
+            "dibiago"
+          ],
+          "text": "Shunned at the union and told by DiBiago that his political support is gone, Frank is urged by Beadie to save himself. He agrees to cooperate in return for probation for himself and Nick and a safer jail for Ziggy, as long as he gives up no union men."
+        },
+        {
+          "type": "informant",
+          "primary": "koutris",
+          "characters": [
+            "koutris",
+            "greek",
+            "vondas",
+            "frank",
+            "nick"
+          ],
+          "text": "Vondas tells Nick he can get the wounded clerk to back a self-defense story for Ziggy, and Frank goes alone to meet The Greek and Vondas under the Key Bridge. Koutris has already told The Greek that Frank is cooperating, and as Frank walks up The Greek tells Vondas his way will not work."
+        },
+        {
+          "type": "shooting",
+          "primary": "mouzone",
+          "characters": [
+            "stringer",
+            "omar",
+            "mouzone",
+            "lamar",
+            "kimmy",
+            "tosha",
+            "butchie"
+          ],
+          "text": "At Butchie's bar, Stringer tells Omar that Brother Mouzone tortured and killed Brandon. Omar's crew knocks out Lamar and Omar shoots Mouzone at his motel door; persuaded that he was misled, Omar calls an ambulance on his way out."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Port in a Storm",
+      "epigraph": "Business. Always business.",
+      "epigraphSpeaker": "The Greek",
+      "epigraphSpeakerId": "greek",
+      "epigraphAttribution": null,
+      "airDate": "2003-08-24",
+      "writer": "Story: David Simon & Ed Burns; Teleplay: David Simon",
+      "director": "Robert F. Colesberry",
+      "summary": "Frank's body is pulled from the harbor with his throat cut; Nick turns himself in and tells the detail everything he knows, Sergei breaks on the crewman's murder, and the detail reaches The Greek's hotel just after he and Vondas leave Baltimore. The union re-elects its dead treasurer in defiance of the FBI, Fitzhugh traces the leak to an FBI agent now in counterterrorism, and Burrell agrees to keep Daniels's crew together as a major case squad. Stringer gets Avon to accept the Prop Joe deal; Mouzone ends his agreement with Avon and leaves, and Omar works out that Stringer lied to him.",
+      "events": [
+        {
+          "type": "death",
+          "primary": "frank",
+          "characters": [
+            "frank",
+            "diggins",
+            "nick",
+            "louis",
+            "greek",
+            "vondas"
+          ],
+          "text": "Frank's body is pulled from the harbor with his throat cut. Later The Greek and Vondas note that the body was weighted down and came up anyway, and decide to leave Nick alone and walk away from Baltimore."
+        },
+        {
+          "type": "arrest",
+          "primary": "nick",
+          "characters": [
+            "nick",
+            "louis",
+            "freamon",
+            "pearlman",
+            "daniels",
+            "aimee",
+            "greek",
+            "vondas",
+            "eton",
+            "sergei"
+          ],
+          "text": "Louis makes Nick turn himself in on his drug warrant. Nick tells the detail what he knows about Vondas, Eton and Sergei and picks The Greek out of McNulty's photo; the FBI puts him, Aimee and their daughter in a motel under protection."
+        },
+        {
+          "type": "raid",
+          "primary": "sergei",
+          "characters": [
+            "bunk",
+            "freamon",
+            "beadie",
+            "sergei",
+            "vondas",
+            "daniels",
+            "greek",
+            "rawls",
+            "landsman"
+          ],
+          "text": "Philadelphia port video puts Sergei at the crewman's abduction; he names Vondas as the killer and gives up a place The Greek uses for meetings. The detail raids it too late: The Greek and Vondas are already flying out. The Jane Doe murders are cleared."
+        },
+        {
+          "type": "informant",
+          "primary": "koutris",
+          "characters": [
+            "fitzhugh",
+            "koutris",
+            "daniels"
+          ],
+          "text": "Fitzhugh finds that Koutris has been at FBI counterterrorism in Washington for over a year and tells Daniels the leak came from the Bureau, guessing The Greeks were useful to the counterterrorism people."
+        },
+        {
+          "type": "other",
+          "primary": "ott",
+          "characters": [
+            "ott",
+            "coxson",
+            "horseface",
+            "reese",
+            "frank"
+          ],
+          "text": "Federal agents warn that the local will be decertified unless it elects new officers. Ott withdraws, the members re-elect the dead Frank, and U.S. Marshals padlock the union hall."
+        },
+        {
+          "type": "arrest",
+          "primary": "bubbles",
+          "characters": [
+            "bubbles",
+            "johnny",
+            "santangelo",
+            "kima",
+            "mcnulty",
+            "mouzone",
+            "cheese",
+            "stringer",
+            "propjoe"
+          ],
+          "text": "Officer Santangelo arrests Bubbles and Johnny for stealing from an ambulance. To get the charges dropped, Bubbles tells Greggs and McNulty about Mouzone shooting Cheese and about the east-side crew working the Barksdale towers."
+        },
+        {
+          "type": "promotion",
+          "primary": "daniels",
+          "characters": [
+            "daniels",
+            "burrell",
+            "kima",
+            "mcnulty",
+            "stringer",
+            "propjoe",
+            "avon",
+            "mouzone",
+            "omar",
+            "butchie"
+          ],
+          "text": "Burrell commits to keeping Daniels's crew together as a major case squad in CID, and Greggs and McNulty pitch Stringer and Prop Joe as its next target with photos of their meeting. Avon has grudgingly approved the deal; Mouzone, recovering, tells Stringer their agreement is \"absolved\" and that he will take care of the shooters himself, then leaves town, and Omar, told by Butchie that Mouzone had nothing to do with Brandon, vows revenge on Stringer."
+        },
+        {
+          "type": "transfer",
+          "primary": "prez",
+          "characters": [
+            "prez",
+            "valchek",
+            "daniels",
+            "carver",
+            "herc",
+            "colvin"
+          ],
+          "text": "Daniels uses the witness statements to get Valchek to drop charges against Prez: two months on the Southeastern midnight desk and a letter of apology, after which he can return. Carver, fed up with surveillance duty, says he will apply for a sergeant's slot under Major Colvin in the Western, and Herc walks out with him."
+        }
+      ]
+    }
+  ],
+  "deaths": [
+    {
+      "victim": "floater",
+      "ep": 0,
+      "discoveredEp": 1,
+      "killer": null,
+      "orderedBy": null,
+      "accomplices": [],
+      "how": "A young Eastern European woman smuggled aboard the Atlantic Light. Per Sam's confession (ep 2), a crewman 'got rough with her' after the crew paid to use the women, and she died; she was dumped overboard and found by McNulty in the harbor in ep 1 with broken legs. The crewman who killed her is not named or shown."
+    },
+    {
+      "victim": "janedoes",
+      "ep": 0,
+      "discoveredEp": 1,
+      "count": 13,
+      "killer": "sam",
+      "orderedBy": null,
+      "accomplices": [],
+      "how": "Thirteen women suffocated in a hidden compartment of The Greeks' container. The ME first suspected an accident (crushed air pipe), but McNulty and the ME find the pipe pounded in several spots and rule it homicide (ep 2). Sam's ep 2 confession says the other women saw the first killing; The Greek sums it up as 'You kill one, then you kill them all'. In ep 12 Sergei's statement and Nick's account tie the killings to the crewman, and Homicide clears the 14 Jane Does."
+    },
+    {
+      "victim": "sam",
+      "ep": 2,
+      "killer": "vondas",
+      "orderedBy": null,
+      "accomplices": [
+        "sergei"
+      ],
+      "how": "Sergei and a partner, using fake Coast Guard IDs, grab Sam in Philadelphia after he jumps ship. He confesses to The Greek, who has promised him he will be 'done' afterward, and Vondas cuts his throat. The corpse is to be left with no fingerprints and no face. The Greek is present, but no scene shows him ordering the killing. In ep 12 Sergei names Vondas as the killer."
+    },
+    {
+      "victim": "hotshotinmates",
+      "ep": 3,
+      "count": 5,
+      "killer": null,
+      "orderedBy": "avon",
+      "accomplices": [
+        "stringer",
+        "butchie",
+        "tilghman"
+      ],
+      "how": "Tainted heroin ('hot shots') smuggled into the prison by CO Tilghman, who did not know it was bad. Stringer had Butchie sell Tilghman the bad package; asked 'Avon's call?', Stringer answered 'Wouldn't be here otherwise' (ep 3); Avon then traded Tilghman's name for parole credit (ep 4) while denying to D'Angelo that he was involved. D'Angelo says 'Five dead. More in the infirmary.' None of the dead are named."
+    },
+    {
+      "victim": "dangelo",
+      "ep": 6,
+      "killer": "mugs",
+      "orderedBy": "stringer",
+      "accomplices": [
+        "leech"
+      ],
+      "how": "Strangled with a belt by another inmate in the prison library, who tied the strap to a doorknob so it looked like a hanging. In ep 6 Stringer pays a D.C. contact (credited as Leech) for an untraceable killing that the contact's 'cousin up in there' will carry out; in ep 7 Leech says the prison is calling it a suicide, says his cousin 'always works clean' and asks whether Avon knew, and Stringer tells him to keep it from Avon. Avon and Wee-Bey believe it was suicide. The killer is not named on screen; he is credited as Mugs."
+    },
+    {
+      "victim": "strayboy",
+      "ep": 9,
+      "killer": null,
+      "orderedBy": null,
+      "accomplices": [],
+      "how": "A nine-year-old boy hit in his bedroom by a stray bullet during a shootout between Bodie's crew and the independent crew they had run off the corner in ep 8. The shooter is not identified."
+    },
+    {
+      "victim": "glekas",
+      "ep": 10,
+      "killer": "ziggy",
+      "orderedBy": null,
+      "accomplices": [],
+      "how": "Shot several times in his store by Ziggy after cutting Ziggy's share of the stolen-car deal and throwing him out. A young clerk is also shot and survives; in ep 11 Vondas proposes getting him to say Glekas had the gun."
+    },
+    {
+      "victim": "frank",
+      "ep": 12,
+      "killer": null,
+      "orderedBy": "greek",
+      "accomplices": [],
+      "how": "Frank goes alone at the end of ep 11 to meet The Greek and Vondas under the Key Bridge; his body is pulled from the harbor in ep 12 with his throat cut. The killing itself is not shown. In ep 11 The Greek tells Vondas there is 'only one sure way' to keep the Sobotkas quiet, and after Koutris's tip he tells Vondas 'Your way, it won't work' as Frank walks up. In ep 12 one of them says 'We weighted him down... Sergei would've done better', so The Greek's people disposed of the body. Who cut his throat is not shown."
+    },
+    {
+      "victim": "maumau",
+      "ep": 0,
+      "mentionedEp": 11,
+      "offscreen": true,
+      "killer": "sergei",
+      "orderedBy": null,
+      "accomplices": [],
+      "how": "Off-screen killing, timing not given. In ep 11 White Mike tells Greggs and McNulty that 'Sergei and them' killed a dealer called Mau Mau Willis for welshing on Eton."
+    }
+  ],
+  "arrests": [
+    {
+      "who": "roberto",
+      "ep": 1,
+      "offscreen": true,
+      "charge": "DEA narcotics case",
+      "context": "The Barksdales' New York supplier; Stringer learns of the arrest in New York, and the suppliers cut the Barksdales off."
+    },
+    {
+      "who": "ott",
+      "ep": 2,
+      "charge": "DWI checkpoint stop (harassment ordered by Valchek)",
+      "context": "Stevedores riding to work are stopped at an 8 a.m. checkpoint run by Carver's officers, taken in and released. Who else was in the car is not clearly shown."
+    },
+    {
+      "who": "lala",
+      "ep": 2,
+      "charge": "Old traffic warrant",
+      "context": "Held after the DWI checkpoint sweep while the other stevedores are released."
+    },
+    {
+      "who": "tilghman",
+      "ep": 4,
+      "charge": "Drug distribution in the prison",
+      "context": "Searched on Avon's tip through Levy; drugs found in his car. Three inmates are also charged. Wikipedia describes the package as planted; the episode shows only Levy's confidence that it will be found."
+    },
+    {
+      "who": "ilona",
+      "ep": 9,
+      "charge": "Brothel raid (prostitution)",
+      "context": "The madam is taken in during the raid on the Greeks' brothel and released on bail; Immigration holds the women."
+    },
+    {
+      "who": "bodie",
+      "ep": 9,
+      "charge": null,
+      "context": "Brought in by Norris and Cole over the stray-bullet killing after Colvin's sweep of the Pit; sees through their fingerprint bluff, asks for a lawyer and is free by ep 10."
+    },
+    {
+      "who": "ziggy",
+      "ep": 10,
+      "charge": "Murder (Glekas) and the shooting of the clerk",
+      "context": "Arrested at the scene and signs a confession for Landsman; held without bail and beaten by other inmates (ep 11)."
+    },
+    {
+      "who": "eton",
+      "ep": 11,
+      "charge": null,
+      "context": "Arrested in the detail's raids; guns found at his home. He refuses to give even his name. Shown being prosecuted in the ep 12 montage."
+    },
+    {
+      "who": "sergei",
+      "ep": 11,
+      "charge": null,
+      "context": "Arrested at home after a struggle with McNulty and Fitzhugh; silent until ep 12, when Philadelphia video breaks him and he names Vondas for the crewman's murder."
+    },
+    {
+      "who": "whitemike",
+      "ep": 11,
+      "charge": "Drug dealing (caught on the wiretap)",
+      "context": "Arrested at home; gives up Eton and Sergei; Pearlman suggests a long probation if he testifies against his suppliers."
+    },
+    {
+      "who": "ilona",
+      "ep": 11,
+      "charge": null,
+      "context": "Arrested again in the raids; gives Greggs and Beadie nothing but abuse."
+    },
+    {
+      "who": "frank",
+      "ep": 11,
+      "charge": "One count of federal customs violations",
+      "context": "Arrested by the FBI at the union hall, shown to the press, and released after a detention hearing. Agents threaten racketeering, wire fraud, heroin importation and white-slavery charges."
+    },
+    {
+      "who": "horseface",
+      "ep": 11,
+      "charge": null,
+      "context": "Arrested with Frank by the FBI; facing a pending indictment in ep 12 and shown being prosecuted in the closing montage."
+    },
+    {
+      "who": "nick",
+      "ep": 12,
+      "charge": "Southeastern District drug warrant",
+      "context": "Avoided the ep 11 raid by sleeping at Prissy's; turns himself in at his father's insistence and cooperates."
+    },
+    {
+      "who": "bubbles",
+      "ep": 12,
+      "charge": "Theft from an ambulance",
+      "context": "Arrested by Officer Santangelo; charges dropped after he informs on Mouzone and the east-west arrangement at the towers."
+    },
+    {
+      "who": "johnny",
+      "ep": 12,
+      "charge": "Theft from an ambulance",
+      "context": "Arrested with Bubbles; released with him."
+    }
+  ],
+  "investigationTimeline": [
+    {
+      "ep": 1,
+      "text": "McNulty finds a woman in the harbor and uses tide charts to push the case back to city Homicide; Beadie Russell finds 13 dead women in a container at the port."
+    },
+    {
+      "ep": 2,
+      "text": "The ME rules the container deaths homicides; Rawls loses the jurisdiction fight and Bunk and Freamon get the 14 Jane Does. Separately, Valchek gets a six-man, six-week detail aimed at Frank Sobotka out of Burrell."
+    },
+    {
+      "ep": 3,
+      "text": "Bunk and Freamon let the Atlantic Light sail; the container's paperwork is fake, and the FBI explains the international vice trade. Lt. Grayson won't authorize phone monitoring on Sobotka, and Valchek forces Burrell to give him Daniels."
+    },
+    {
+      "ep": 4,
+      "text": "Daniels takes command on condition that a successful case becomes a permanent major case unit and that he picks his own people (Greggs, Herc, Prez); Rawls keeps McNulty in the Marine Unit."
+    },
+    {
+      "ep": 5,
+      "text": "Freamon and Carver join; Daniels orders DNRs and finance checks on Sobotka. Grand jury summonses on the checkers produce little. Maui tells Beadie the union computers record every container move. Valchek gets a fingerprint off a photo of his stolen van."
+    },
+    {
+      "ep": 6,
+      "text": "The paper trail shows about $70,000 in union political contributions. Beadie argues for smuggling; a terminal tied to the port's container system is set up at the detail, and the missing containers are tied to Horseface. Greggs and Prez start on the vice angle."
+    },
+    {
+      "ep": 7,
+      "text": "Daniels takes the Jane Doe murders. Freamon and Beadie follow a 'lost' container to Glekas's warehouse, where Greggs photographs Sergei with Prop Joe. Herc and Carver's tennis-ball bug is destroyed."
+    },
+    {
+      "ep": 8,
+      "text": "Phone records link the warehouse to Sergei, White Mike and Prop Joe; a judge signs wiretaps on Sergei's cell and the warehouse phone. McNulty joins. Frank finds his phone flagged and sends a decoy container; the tapped warehouse line gives the detail Vondas's number."
+    },
+    {
+      "ep": 9,
+      "text": "The smugglers change their routine. The detail raids the brothel. Fitzhugh's query about Glekas reaches Agent Koutris, who tips the Greeks; The Greek rewards him with a Colombian cocaine shipment."
+    },
+    {
+      "ep": 10,
+      "text": "Ziggy kills Glekas, and Homicide doesn't tell the detail. Valchek brings in the FBI, which joins on condition the focus is the union. With GPS trackers on the targets' cars, the detail watches Vondas dump his phone and decodes his 'shut down immediately' text after Koutris warns The Greek; raids are planned."
+    },
+    {
+      "ep": 11,
+      "text": "Raids: Eton, Sergei, White Mike and the madam are arrested, Nick is wanted, and the FBI arrests Frank and Horseface. White Mike flips. Vondas is left loose and tailed, and McNulty photographs The Greek without knowing it. Frank agrees to cooperate; Koutris tells The Greek."
+    },
+    {
+      "ep": 12,
+      "text": "Frank is found murdered. Nick cooperates and identifies The Greek's photo; Philadelphia video breaks Sergei, who names Vondas for the crewman's murder and gives up a meeting place. The Greek and Vondas escape by plane. The Jane Does are cleared, the leak is traced to Koutris, the union faces decertification, and Burrell commits to a permanent major case squad, which Greggs and McNulty want to point at Stringer and Prop Joe."
+    }
+  ],
+  "finale": [
+    {
+      "id": "avon",
+      "status": "imprisoned",
+      "text": "In prison, with his first parole hearing moved up a year for giving up Tilghman. He has grudgingly accepted the Prop Joe deal but is unhappy with Stringer, and believes D'Angelo killed himself."
+    },
+    {
+      "id": "stringer",
+      "status": "active",
+      "text": "Runs the Barksdale organization and shares the towers with Prop Joe's crew. Greggs and McNulty have photographed him with Joe, Mouzone noticed his slip, and Omar knows Stringer set him up."
+    },
+    {
+      "id": "dangelo",
+      "status": "dead",
+      "text": "Strangled in prison in ep 6 and staged as a suicide."
+    },
+    {
+      "id": "weebey",
+      "status": "imprisoned",
+      "text": "Serving life; harassed by CO Tilghman early in the season."
+    },
+    {
+      "id": "bird",
+      "status": "convicted",
+      "text": "Convicted of the Gant murder in ep 6 on Omar's testimony; the judge signals life without parole."
+    },
+    {
+      "id": "bodie",
+      "status": "active",
+      "text": "Runs the Barksdale crew in the towers, now sharing them with Cheese's crew; questioned over the stray-bullet killing and released."
+    },
+    {
+      "id": "poot",
+      "status": "active",
+      "text": "Still dealing for the Barksdales; watches police patrol their corner in the closing montage."
+    },
+    {
+      "id": "puddin",
+      "status": "active",
+      "text": "Bodie's second in the towers."
+    },
+    {
+      "id": "shamrock",
+      "status": "active",
+      "text": "Stringer's driver and aide; helped Bodie dump the guns in ep 9."
+    },
+    {
+      "id": "brianna",
+      "status": "active",
+      "text": "Grieving D'Angelo; the go-between for Stringer and Avon on the Prop Joe deal."
+    },
+    {
+      "id": "donette",
+      "status": "active",
+      "text": "D'Angelo's girlfriend, involved with Stringer."
+    },
+    {
+      "id": "levy",
+      "status": "active",
+      "text": "Barksdale attorney; lost Bird's trial and brokered Avon's parole deal."
+    },
+    {
+      "id": "mouzone",
+      "status": "gone",
+      "text": "Shot by Omar in ep 11; from his hospital bed he refuses Stringer's help, and by the end he has left Baltimore."
+    },
+    {
+      "id": "lamar",
+      "status": "active",
+      "text": "Mouzone's assistant; knocked out by Omar in ep 11."
+    },
+    {
+      "id": "leech",
+      "status": "active",
+      "text": "Stringer's D.C. contact who arranged D'Angelo's killing; not under investigation."
+    },
+    {
+      "id": "mugs",
+      "status": "imprisoned",
+      "text": "The inmate who strangled D'Angelo; not identified by anyone in the story."
+    },
+    {
+      "id": "tilghman",
+      "status": "arrested",
+      "text": "Arrested in ep 4 on drug distribution charges after Avon gave him up."
+    },
+    {
+      "id": "omar",
+      "status": "active",
+      "text": "Free, with Nathan's pass in his pocket; shot Mouzone on Stringer's lie, then learned the truth from Butchie and vows to get Stringer."
+    },
+    {
+      "id": "butchie",
+      "status": "active",
+      "text": "Omar's banker and adviser; brokered the Stringer-Omar meeting for Prop Joe."
+    },
+    {
+      "id": "dante",
+      "status": "active",
+      "text": "Omar's boyfriend and partner."
+    },
+    {
+      "id": "kimmy",
+      "status": "active",
+      "text": "Stick-up partner in Omar's crew."
+    },
+    {
+      "id": "tosha",
+      "status": "active",
+      "text": "Stick-up partner in Omar's crew."
+    },
+    {
+      "id": "propjoe",
+      "status": "active",
+      "text": "Partnered with Stringer and supplied by The Greek's organization; Vondas tells him new people are coming, and the montage shows him taking a shipment."
+    },
+    {
+      "id": "cheese",
+      "status": "active",
+      "text": "Prop Joe's nephew; working towers given to him under the deal after Mouzone shot him in the arm with rat shot in ep 10."
+    },
+    {
+      "id": "bubbles",
+      "status": "active",
+      "text": "Arrested in ep 12 and released after informing for Greggs and McNulty."
+    },
+    {
+      "id": "johnny",
+      "status": "active",
+      "text": "Arrested with Bubbles in ep 12 and released."
+    },
+    {
+      "id": "frank",
+      "status": "dead",
+      "text": "Murdered after his ep 11 meeting with The Greek and Vondas; body found in the harbor in ep 12. The union re-elected him after his death."
+    },
+    {
+      "id": "nick",
+      "status": "cooperating",
+      "text": "Turned himself in and cooperating; in FBI protection in a motel with Aimee and their daughter, and still can't get work on the docks."
+    },
+    {
+      "id": "ziggy",
+      "status": "imprisoned",
+      "text": "Jailed and charged with Glekas's murder after signing a confession."
+    },
+    {
+      "id": "horseface",
+      "status": "arrested",
+      "text": "Arrested by the FBI in ep 11 and facing indictment; shown being prosecuted in the montage."
+    },
+    {
+      "id": "ott",
+      "status": "active",
+      "text": "Withdrew from the treasurer's race in favor of the dead Frank; the local faces decertification and its hall is padlocked."
+    },
+    {
+      "id": "coxson",
+      "status": "active",
+      "text": "President of a local now under federal decertification."
+    },
+    {
+      "id": "johnnyfifty",
+      "status": "active",
+      "text": "Ziggy's partner in the car theft; not charged on screen."
+    },
+    {
+      "id": "maui",
+      "status": "active",
+      "text": "Checker; Ziggy's tormentor and Beadie's source of the container-records tip."
+    },
+    {
+      "id": "lala",
+      "status": "active",
+      "text": "Checker; tells Nick there is no work for him."
+    },
+    {
+      "id": "littlebigroy",
+      "status": "active",
+      "text": "Senior stevedore; lent Frank his union card in ep 11."
+    },
+    {
+      "id": "newcharles",
+      "status": "injured",
+      "text": "Lost a leg in a dock accident in ep 7."
+    },
+    {
+      "id": "delores",
+      "status": "active",
+      "text": "Runs the stevedores' bar, where she paid out Frank's cash."
+    },
+    {
+      "id": "louis",
+      "status": "active",
+      "text": "Nick's father; made him turn himself in."
+    },
+    {
+      "id": "joan",
+      "status": "active",
+      "text": "Nick's mother."
+    },
+    {
+      "id": "aimee",
+      "status": "active",
+      "text": "Nick's girlfriend; in FBI protection with him and their daughter."
+    },
+    {
+      "id": "dibiago",
+      "status": "active",
+      "text": "Union lobbyist; the arrests have cost him all of Frank's political support."
+    },
+    {
+      "id": "prissy",
+      "status": "active",
+      "text": "Ziggy's ex; Nick stayed with her the night of the raids."
+    },
+    {
+      "id": "greek",
+      "status": "gone",
+      "text": "Left the country by plane in ep 12; unidentified, and by his own account not even Greek."
+    },
+    {
+      "id": "vondas",
+      "status": "gone",
+      "text": "Fled with The Greek; named by Sergei as the crewman's killer and under an interstate flight warrant."
+    },
+    {
+      "id": "sergei",
+      "status": "cooperating",
+      "text": "In custody since ep 11; gave up Vondas and a meeting place of The Greek's."
+    },
+    {
+      "id": "eton",
+      "status": "arrested",
+      "text": "Arrested in ep 11; shown being prosecuted in the montage."
+    },
+    {
+      "id": "glekas",
+      "status": "dead",
+      "text": "Killed by Ziggy in ep 10."
+    },
+    {
+      "id": "glekasclerk",
+      "status": "injured",
+      "text": "Wounded by Ziggy; a likely prosecution witness."
+    },
+    {
+      "id": "ilona",
+      "status": "arrested",
+      "text": "The madam; arrested in ep 9 (bailed) and again in ep 11."
+    },
+    {
+      "id": "whitemike",
+      "status": "cooperating",
+      "text": "Arrested in ep 11; gave up Eton and Sergei."
+    },
+    {
+      "id": "frog",
+      "status": "active",
+      "text": "Still dealing in the Southeastern; his crew drives an old woman to sell her house in the montage."
+    },
+    {
+      "id": "koutris",
+      "status": "active",
+      "text": "FBI agent at counterterrorism in Washington who leaked to The Greek; Fitzhugh suspects him but nothing is done."
+    },
+    {
+      "id": "daniels",
+      "status": "active",
+      "text": "Still a lieutenant, but Burrell has committed to keeping his crew as a major case squad in CID; Greggs and McNulty want it pointed at Stringer and Prop Joe."
+    },
+    {
+      "id": "mcnulty",
+      "status": "active",
+      "text": "Off the Marine Unit since ep 8 and working with Daniels; photographed Stringer and Joe together."
+    },
+    {
+      "id": "kima",
+      "status": "active",
+      "text": "On Daniels's detail; uneasy about Cheryl's pregnancy."
+    },
+    {
+      "id": "freamon",
+      "status": "active",
+      "text": "On Daniels's detail; takes down the case board but leaves The Greek's photo up."
+    },
+    {
+      "id": "bunk",
+      "status": "active",
+      "text": "Homicide; the 14 Jane Does are cleared."
+    },
+    {
+      "id": "prez",
+      "status": "desk",
+      "text": "Spared charges for punching Valchek in exchange for two months on the Southeastern midnight desk and an apology letter; can return to Daniels's unit afterward."
+    },
+    {
+      "id": "herc",
+      "status": "active",
+      "text": "Walks out of the detail with Carver, frustrated at surveillance work."
+    },
+    {
+      "id": "carver",
+      "status": "active",
+      "text": "Says he will apply for a sergeant's slot under Major Colvin in the Western; the move is announced, not shown."
+    },
+    {
+      "id": "beadie",
+      "status": "reassigned",
+      "text": "Back at the Port Authority police after her detail to the city ends."
+    },
+    {
+      "id": "valchek",
+      "status": "active",
+      "text": "Major, Southeastern District; still getting photos of his stolen van from ports abroad, the latest from Australia."
+    },
+    {
+      "id": "burrell",
+      "status": "promoted",
+      "text": "Commissioner after the council vote (Valchek says the votes are in by ep 9); backs Daniels's major case squad."
+    },
+    {
+      "id": "rawls",
+      "status": "active",
+      "text": "Colonel; celebrates the clearance of the 14 Jane Does."
+    },
+    {
+      "id": "landsman",
+      "status": "active",
+      "text": "Homicide sergeant; criticized by Daniels over the Glekas case; celebrates the Jane Doe clearances."
+    },
+    {
+      "id": "cole",
+      "status": "active",
+      "text": "Homicide detective."
+    },
+    {
+      "id": "norris",
+      "status": "active",
+      "text": "Homicide detective; caught the stray-bullet case."
+    },
+    {
+      "id": "colvin",
+      "status": "active",
+      "text": "Major, Western District commander."
+    },
+    {
+      "id": "mello",
+      "status": "active",
+      "text": "Lieutenant, Western District."
+    },
+    {
+      "id": "santangelo",
+      "status": "active",
+      "text": "Patrol officer; arrested Bubbles and Johnny."
+    },
+    {
+      "id": "diggins",
+      "status": "active",
+      "text": "Marine Unit; recovered Frank's body."
+    },
+    {
+      "id": "fitzhugh",
+      "status": "active",
+      "text": "FBI agent; told Daniels the leak was the Bureau's."
+    },
+    {
+      "id": "reese",
+      "status": "active",
+      "text": "FBI supervisor; the union case gives the Bureau leverage to force out the local's leadership."
+    },
+    {
+      "id": "pearlman",
+      "status": "active",
+      "text": "ASA on the case; shown prosecuting Eton and Horseface in the montage."
+    },
+    {
+      "id": "nathan",
+      "status": "active",
+      "text": "ASA; won Bird's conviction."
+    },
+    {
+      "id": "davis",
+      "status": "active",
+      "text": "State senator who took union money; shown at the groundbreaking for condominiums on the grain pier site."
+    },
+    {
+      "id": "krawczyk",
+      "status": "active",
+      "text": "Property developer eyeing the grain pier site (ep 6 dialogue); appears uncredited in ep 12, when politicians break ground on condominiums there."
+    },
+    {
+      "id": "cheryl",
+      "status": "active",
+      "text": "Pregnant; at odds with Greggs over parenthood."
+    },
+    {
+      "id": "marla",
+      "status": "active",
+      "text": "Angry that Daniels gave up his ambitions to stay in the department."
+    },
+    {
+      "id": "elena",
+      "status": "active",
+      "text": "Divorcing McNulty after rejecting his attempt at reconciliation."
+    },
+    {
+      "id": "shardene",
+      "status": "active",
+      "text": "Living with Freamon and in nursing school; helped Greggs on the vice angle."
+    }
+  ],
+  "newIds": [
+    {
+      "id": "colvin",
+      "name": "Howard \"Bunny\" Colvin",
+      "actor": "Robert Wisdom",
+      "note": "Major, Western District commander; first seen ep 9."
+    },
+    {
+      "id": "mello",
+      "name": "Dennis Mello",
+      "actor": "Jay Landsman",
+      "note": "Lieutenant, Western District, Colvin's right hand; uncredited in ep 9."
+    },
+    {
+      "id": "grayson",
+      "name": "Lt. Grayson",
+      "actor": null,
+      "note": "Commander of Valchek's original Sobotka detail (ep 2-3); named in dialogue, not clearly seen."
+    },
+    {
+      "id": "sam",
+      "name": "Sam",
+      "actor": "Gerard Ender",
+      "note": "Turkish crewman of the Atlantic Light; killed by Vondas in ep 2. Fandom gives his surname as Choksey."
+    },
+    {
+      "id": "leech",
+      "name": "Leech",
+      "actor": "Jacques Derosena",
+      "note": "Stringer's D.C. contact who arranges D'Angelo's killing (ep 6-7); name from the credits."
+    },
+    {
+      "id": "mugs",
+      "name": "Mugs",
+      "actor": "Dakota Anderson",
+      "note": "Inmate, Leech's cousin, who strangles D'Angelo (ep 6); name from the credits only."
+    },
+    {
+      "id": "butchie",
+      "name": "Butchie",
+      "actor": "S. Robert Morgan",
+      "note": "Blind bar owner, Omar's banker; sold Tilghman the bad package."
+    },
+    {
+      "id": "dante",
+      "name": "Dante",
+      "actor": "Ernest Waddell",
+      "note": "Omar's boyfriend and partner."
+    },
+    {
+      "id": "kimmy",
+      "name": "Kimmy",
+      "actor": "Kelli R. Brown",
+      "note": "Stick-up artist in Omar's crew."
+    },
+    {
+      "id": "tosha",
+      "name": "Tosha Mitchell",
+      "actor": "Edwina Findley",
+      "note": "Stick-up artist in Omar's crew."
+    },
+    {
+      "id": "whitemike",
+      "name": "\"White\" Mike McArdle",
+      "actor": "Brook Yeaton",
+      "note": "Southeast drug dealer; supplies Nick from ep 9; arrested ep 11 and flips."
+    },
+    {
+      "id": "ilona",
+      "name": "Ilona Petrovich",
+      "actor": "Gordana Rashovich",
+      "note": "Madam of the Greeks' brothel; credited Petrovich, called Petrovna in dialogue."
+    },
+    {
+      "id": "newcharles",
+      "name": "New Charles",
+      "actor": "Stan Stewart",
+      "note": "Stevedore who loses a leg in ep 7."
+    },
+    {
+      "id": "prissy",
+      "name": "Prissy",
+      "actor": "Merritt Wever",
+      "note": "Ziggy's ex-girlfriend; Nick stays with her the night of the raids."
+    },
+    {
+      "id": "krawczyk",
+      "name": "Andy Krawczyk",
+      "actor": "Michael Willis",
+      "note": "Property developer and political fundraiser; condominiums on the grain pier site."
+    },
+    {
+      "id": "floater",
+      "name": "Jane Doe (harbor)",
+      "actor": null,
+      "note": "Not a character card: the woman McNulty finds in the harbor in ep 1."
+    },
+    {
+      "id": "janedoes",
+      "name": "The 13 container women",
+      "actor": null,
+      "note": "Not a character card: the women found dead in the container in ep 1."
+    },
+    {
+      "id": "hotshotinmates",
+      "name": "Five inmates",
+      "actor": null,
+      "note": "Not a character card: the inmates killed by the tainted heroin in ep 3."
+    },
+    {
+      "id": "strayboy",
+      "name": "Nine-year-old boy",
+      "actor": null,
+      "note": "Not a character card: killed by a stray bullet in ep 9; unnamed on screen (fandom calls him T.T.)."
+    },
+    {
+      "id": "glekasclerk",
+      "name": "Glekas's clerk",
+      "actor": null,
+      "note": "Not a character card: young employee wounded by Ziggy in ep 10; survives."
+    },
+    {
+      "id": "maumau",
+      "name": "Mau Mau Willis",
+      "actor": null,
+      "note": "Not a character card: dealer killed off-screen by Sergei's people, per White Mike in ep 11."
+    }
+  ],
+  "uncertainties": [
+    "Air dates of eps 8 and 9: the 'Stray Rounds' Wikipedia article gives July 27, 2003, which clashes with 'Duck and Cover' (also July 27). Nielsen figures cited in both articles put 'Duck and Cover' in the week ending July 27 and 'Stray Rounds' in the week ending August 3, and TheTVDB and the season article agree. I used 2003-07-27 and 2003-08-03. Fandom has July 20 and July 27 instead.",
+    "'All Prologue' (ep 6) credit: the current Wikipedia episode article lists a story by David Simon, Ed Burns, Joy Kecken and Rafael Alvarez and gives no teleplay credit. The season article, fandom and the episode article's own text from 2007 to 2012 all say 'Story: David Simon & Ed Burns; Teleplay: David Simon', which I used. I couldn't check the on-screen credit (IMDb and HBO archive pages were blocked).",
+    "Epigraph wording: ep 2's on-screen text is 'They can chew you up, but they gotta spit you out.' (Wikipedia and fandom), while the spoken line is 'Chew you up, they gotta spit you back out.' Ep 7 is given as 'Don't worry, kid. You're still on the clock.' (Wikipedia); fandom punctuates it differently.",
+    "Ep 10 epigraph speaker: Wikipedia and fandom both credit Ziggy; in the subtitles the line sits next to Johnny Fifty's lines in the car-theft scene, so the speaker can't be confirmed from the transcript alone.",
+    "Ep 5 epigraph credit: sources give 'Spiros Vondas'; the exact on-screen form (for example just 'Vondas') wasn't verified. No S2 epigraph seems to have a credit that differs from the speaker, so epigraphAttribution is null throughout.",
+    "D'Angelo's death: season 2 itself establishes Stringer's role (ep 6: he pays a D.C. contact for a killing that 'can't come back' on him, and the contact's 'cousin up in there' will do it; ep 7: the contact says the prison is calling it a hanging, that his cousin 'works clean', and asks whether Avon knew, and Stringer says to keep it from Avon). The ep 6 scene doesn't name the target; ep 7 makes it clear. The killer and the contact are named only in the credits (Mugs, Leech).",
+    "Frank's death: the killing isn't shown. orderedBy 'greek' rests on The Greek's ep 11 lines ('There is only one sure way'; 'Your way, it won't work' as Frank arrives, after Koutris's tip) and the ep 12 exchange ('We weighted him down... Sergei would've done better'). The subtitles don't show whether The Greek or Vondas says that line, and nobody is shown cutting Frank's throat. If only an explicit order counts, the curator may prefer orderedBy null.",
+    "Container women: Sam's confession is elliptical ('The other ones saw. I didn't know what to do.' / The Greek: 'You kill one, then you kill them all.'). That Sam crushed the air pipe is inferred from this, the ME's finding that the pipe was pounded in several spots, and ep 12 statements that 'whoever did that to them girls' was dealt with in Philly. The crewman who killed the floater is unnamed.",
+    "Sam's surname (Choksey) comes from fandom and the season article; on screen he is only called 'Sam'.",
+    "Five-inmate death toll: from D'Angelo's line in ep 4 ('Five dead. More in the infirmary.'). orderedBy 'avon' rests on Stringer telling Butchie the setup is 'Avon's call' (ep 3); Avon denies involvement to D'Angelo, and whether the plan was meant to kill or just to frame Tilghman isn't spelled out. Fandom calls the drug cocaine; the ep 4 dialogue says tainted heroin.",
+    "Glekas's clerk: fandom's ep 10 page says 'both men died', but the ep 10 dialogue ('He kills George... leaves the boy to bleed') and ep 11-12 references to the wounded clerk as a witness show the clerk survived.",
+    "Burrell's title: Wikipedia and fandom call him 'Acting Commissioner' through ep 12, but dialogue sets a council vote for the week after ep 4 and has Valchek say in ep 9 that 'the votes are in' and Burrell is moving into the commissioner's office. I logged the promotion in ep 9. Commissioner Frazier's departure for Washington is only anticipated in ep 2 dialogue.",
+    "Daniels's promised promotion (ep 4) isn't realized on screen; he is still addressed as lieutenant in ep 12. What is realized in ep 12 is Burrell's commitment to keep his crew as a major case squad in CID.",
+    "Carver's (and Herc's) move to the Western District is only announced in ep 12; no transfer is shown. Herc's intentions are less explicit than Carver's.",
+    "Prez's status: the ep 10 punch and Valchek's ep 12 terms (two months on the midnight desk plus an apology letter) are clear; whether he is formally suspended in between isn't stated. He is credited but absent in eps 11-12.",
+    "Bodie in ep 9: shown in custody and questioned, but no formal charge is mentioned; he is back on the towers in ep 10.",
+    "DWI checkpoint (ep 2): Ott is clearly among the stevedores taken in, and La La is held on an old warrant. Fandom says Ott was giving Nick a ride, but the subtitles don't confirm who was in the car.",
+    "Tilghman: Wikipedia says the drugs found in his car were planted; the episode shows only Levy's confidence that a search will find evidence.",
+    "Stray-bullet victim: unnamed in the subtitles (fandom names him T.T.); the shooter isn't identified.",
+    "Mau Mau Willis: known only from White Mike's ep 11 statement; when and how he was killed isn't given (logged as ep 0, off-screen).",
+    "Koutris: Fitzhugh learns he has been at FBI counterterrorism in Washington for over a year; the idea that The Greek or Vondas were assets to the counterterrorism side is Fitzhugh's guess, not established fact.",
+    "Union outcome: agents threaten decertification unless the local elects new officers; per Wikipedia and fandom, Ott withdraws and the members re-elect the dead Frank, and the montage shows U.S. Marshals padlocking the hall. The vote itself isn't in the subtitles I could check.",
+    "Mouzone: Avon says 'Mouzone booked out' in ep 12, so he has left Baltimore; his destination isn't stated beyond Butchie noting he usually works New York and Philadelphia. Lamar's whereabouts at the end aren't clear.",
+    "Ilona's surname: credited as Petrovich (Wikipedia credits list) but called 'Petrovna' in dialogue and on fandom.",
+    "Horseface's and Eton's charges aren't spelled out; Horseface is under a 'pending indictment' in ep 12, and the montage shows Pearlman, a state prosecutor, prosecuting both, though the FBI arrested Horseface."
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/The_Wire_season_2",
+    "https://en.wikipedia.org/wiki/Ebb_Tide_(The_Wire)",
+    "https://en.wikipedia.org/wiki/Collateral_Damage_(The_Wire)",
+    "https://en.wikipedia.org/wiki/Hot_Shots_(The_Wire)",
+    "https://en.wikipedia.org/wiki/Hard_Cases",
+    "https://en.wikipedia.org/wiki/Undertow_(The_Wire)",
+    "https://en.wikipedia.org/wiki/All_Prologue",
+    "https://en.wikipedia.org/wiki/Backwash_(The_Wire)",
+    "https://en.wikipedia.org/wiki/Duck_and_Cover_(The_Wire)",
+    "https://en.wikipedia.org/wiki/Stray_Rounds",
+    "https://en.wikipedia.org/wiki/Storm_Warnings",
+    "https://en.wikipedia.org/wiki/Bad_Dreams_(The_Wire)",
+    "https://en.wikipedia.org/wiki/Port_in_a_Storm",
+    "https://en.wikipedia.org/wiki/Stringer_Bell (season 2 section)",
+    "https://en.wikipedia.org/wiki/Frank_Sobotka",
+    "https://thewire.fandom.com/wiki/Ebb_Tide (and the other 11 S2 episode pages, via the MediaWiki API)",
+    "https://thewire.fandom.com/wiki/Leech",
+    "https://thewire.fandom.com/wiki/Mugs",
+    "https://thewire.fandom.com/wiki/Kristos_Koutris",
+    "https://thewire.fandom.com/wiki/Frank_Sobotka",
+    "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=the-wire&episode=s02e01 (through s02e12; subtitle transcripts used to verify dialogue)",
+    "https://thetvdb.com/series/the-wire/seasons/official/2"
+  ]
+}

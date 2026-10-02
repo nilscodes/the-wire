@@ -1,0 +1,12 @@
+# Playwright screenshots and snapshots from browser checks
+.playwright-mcp/
+
+# Stale bundle of the original single-season build
+index.zip
+
+# Personal Claude Code settings
+.claude/settings.local.json
+
+# OS cruft
+.DS_Store
+Thumbs.db

@@ -1,0 +1,2158 @@
+{
+  "characters": [
+    {
+      "id": "avon",
+      "name": "Avon Barksdale",
+      "alias": null,
+      "full": null,
+      "actor": "Wood Harris",
+      "faction": "barksdale",
+      "unit": "In prison",
+      "returning": true,
+      "roleStart": "Kingpin, serving his sentence and running the organization through Stringer's prison visits",
+      "roleEnd": "Still the kingpin, in prison; first parole hearing moved up 12 months; lets Stringer partner with Prop Joe",
+      "reportsTo": null,
+      "statusEnd": "imprisoned",
+      "statusEp": 0,
+      "firstEp": 1,
+      "bio": "Serving his sentence in the same state prison as D'Angelo and Wee-Bey, Avon still makes the big calls through Stringer and Brianna. When the guard Tilghman insults him and harasses Wee-Bey, Avon has the guard's drug supply poisoned, then gives Tilghman up to investigators to get his first parole hearing moved forward. He refuses to share the towers with Prop Joe and sends for Brother Mouzone, but after Mouzone is shot and leaves, he lets Stringer run things his way until he gets home.",
+      "keyMoments": [
+        {
+          "ep": 1,
+          "text": "Tells Stringer the missing New York package is on Roberto and to be firm with the suppliers; says a man in prison only does two days, the day he goes in and the day he comes out."
+        },
+        {
+          "ep": 3,
+          "text": "The bad package Stringer arranged on \"Avon's call\" kills inmates; Avon listens to music as they are carried out."
+        },
+        {
+          "ep": 4,
+          "text": "Through Levy, trades information on Tilghman for a first parole hearing 12 months earlier; D'Angelo blames him for the deaths and cuts him off."
+        },
+        {
+          "ep": 7,
+          "text": "Calls D'Angelo's apparent suicide weak and rejects Prop Joe's offer to share the towers: \"It's not even a thought.\""
+        },
+        {
+          "ep": 12,
+          "text": "Angry that Mouzone was ambushed and left, he tells Stringer to go to Prop Joe: \"You run it as you see fit. At least until I get home.\""
+        }
+      ],
+      "careerMoves": [
+        {
+          "ep": 4,
+          "from": "First parole hearing due at 28 months",
+          "to": "Hearing moved forward 12 months; credited with cooperation",
+          "kind": "restructure",
+          "text": "Levy's deal with the state after Avon names Tilghman as the source of the poisoned drugs."
+        },
+        {
+          "ep": 12,
+          "from": "Vetoes any deal with Prop Joe",
+          "to": "Gives Stringer a free hand until he is released",
+          "kind": "restructure",
+          "text": "Agrees, grudgingly, to Stringer's partnership with Joe."
+        }
+      ]
+    },
+    {
+      "id": "stringer",
+      "name": "Stringer Bell",
+      "alias": null,
+      "full": "Russell Bell",
+      "actor": "Idris Elba",
+      "faction": "barksdale",
+      "unit": "Leadership",
+      "returning": true,
+      "roleStart": "Second-in-command; runs the organization outside while Avon is in prison, from an office in a funeral home",
+      "roleEnd": "Runs the organization in partnership with Prop Joe, now with Avon's approval",
+      "reportsTo": "avon",
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 1,
+      "bio": "With Avon inside, Stringer runs the business from a funeral home and takes economics classes at a community college. He loses the New York supplier, struggles with weak Atlanta product and rebrands it, and starts an affair with D'Angelo's girlfriend Donette. In episode 6 he pays a contact from Washington, D.C. for a killing inside a prison that must not trace back to him; later he gives Prop Joe three towers behind Avon's back and lies to Omar to turn him on Brother Mouzone.",
+      "keyMoments": [
+        {
+          "ep": 1,
+          "text": "Has Tank and Country tail Bodie and Shamrock on the Philadelphia run, then quizzes them; learns the New York connection has dropped the Barksdales."
+        },
+        {
+          "ep": 3,
+          "text": "Invoking Avon, gets Butchie to sell the guard Tilghman a poisoned package; begins an affair with Donette."
+        },
+        {
+          "ep": 5,
+          "text": "Asks his economics teacher how to sell an inferior product, then runs a class for his dealers: new names, new cap colors, fake competition."
+        },
+        {
+          "ep": 6,
+          "text": "Pays a D.C. contact for a killing \"up in there\" that must not come back on him; the target is not named. D'Angelo is strangled in prison the same episode."
+        },
+        {
+          "ep": 9,
+          "text": "Secretly agrees to buy Prop Joe's product and give his crew towers 734, 770 and 221, despite Avon's refusal."
+        },
+        {
+          "ep": 11,
+          "text": "Meets Omar at Butchie's bar and tells him Brother Mouzone did the \"extras\" to Brandon, pointing him at Mouzone."
+        }
+      ],
+      "careerMoves": [
+        {
+          "ep": 9,
+          "from": "Bound by Avon's veto on Prop Joe",
+          "to": "Secret partner of Prop Joe",
+          "kind": "restructure",
+          "text": "Gives Joe three of the six towers in return for product at Joe's cost."
+        },
+        {
+          "ep": 12,
+          "from": "Partner of Joe behind Avon's back",
+          "to": "Partner of Joe with Avon's approval",
+          "kind": "restructure",
+          "text": "Avon tells him to run it as he sees fit until he gets home; their next meeting with Joe is photographed by Kima and McNulty."
+        }
+      ]
+    },
+    {
+      "id": "shamrock",
+      "name": "Shamrock",
+      "alias": null,
+      "full": null,
+      "actor": "Richard Burton",
+      "faction": "barksdale",
+      "unit": "Leadership",
+      "returning": false,
+      "roleStart": "Barksdale lieutenant and Stringer's aide",
+      "roleEnd": "Stringer's lieutenant",
+      "reportsTo": "stringer",
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 1,
+      "bio": "Stringer's right hand on the street. He drives with Bodie to Philadelphia for a package that never arrives, tails the guard Tilghman to his supplier, and later drives Bodie to dump the guns from the turf war. He is at the towers with Bodie while Brother Mouzone keeps the East Side dealers away.",
+      "keyMoments": [
+        {
+          "ep": 1,
+          "text": "Goes to Philadelphia with Bodie; Stringer had them tailed and questions them separately."
+        },
+        {
+          "ep": 3,
+          "text": "Tails Tilghman with Country, sees him buy from Butchie, and sits in Butchie's bar when Tilghman collects the poisoned package."
+        },
+        {
+          "ep": 4,
+          "text": "As the charges against Tilghman are announced on the news, tells Stringer, \"I was subtle with that.\""
+        },
+        {
+          "ep": 9,
+          "text": "Drives Bodie to throw the bag of guns off the Hanover Street Bridge; it lands on a passing barge."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "country",
+      "name": "Country",
+      "alias": null,
+      "full": null,
+      "actor": "Addison Switzer",
+      "faction": "barksdale",
+      "unit": "Muscle",
+      "returning": false,
+      "roleStart": "Soldier; home about a month and still on parole",
+      "roleEnd": "Soldier",
+      "reportsTo": "stringer",
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 1,
+      "bio": "A Barksdale soldier recently released and back in the business while still on parole. Stringer uses him with Tank to tail Bodie and Shamrock to Philadelphia, and with Shamrock to follow the guard Tilghman to his drug supplier.",
+      "keyMoments": [
+        {
+          "ep": 1,
+          "text": "Tails Bodie and Shamrock to Philadelphia with Tank, on Stringer's orders."
+        },
+        {
+          "ep": 3,
+          "text": "Follows Tilghman with Shamrock and watches him buy a package from Butchie."
+        }
+      ],
+      "careerMoves": [
+        {
+          "ep": 1,
+          "from": "In prison",
+          "to": "Back in the organization on parole",
+          "kind": "release",
+          "text": "Stringer tells Avon he has been home a month."
+        }
+      ]
+    },
+    {
+      "id": "tank",
+      "name": "Tank",
+      "alias": null,
+      "full": null,
+      "actor": "Jonathan D. Wray",
+      "faction": "barksdale",
+      "unit": "Muscle",
+      "returning": false,
+      "roleStart": "Soldier",
+      "roleEnd": "Soldier",
+      "reportsTo": "stringer",
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 1,
+      "bio": "A Barksdale soldier. With Country he tails Bodie and Shamrock on the Philadelphia run so Stringer can check their stories.",
+      "keyMoments": [
+        {
+          "ep": 1,
+          "text": "Tails Bodie and Shamrock to Philadelphia with Country."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "rico",
+      "name": "Rico",
+      "alias": null,
+      "full": null,
+      "actor": "Rico Whelchel",
+      "faction": "barksdale",
+      "unit": "Muscle",
+      "returning": true,
+      "roleStart": "Muscle; security at the funeral home",
+      "roleEnd": "Muscle",
+      "reportsTo": "stringer",
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 1,
+      "bio": "A Barksdale enforcer who keeps security at the funeral home Stringer uses as his office (credited in episode 1).",
+      "keyMoments": [],
+      "careerMoves": []
+    },
+    {
+      "id": "perry",
+      "name": "Perry",
+      "alias": null,
+      "full": null,
+      "actor": "Perry Blackmon",
+      "faction": "barksdale",
+      "unit": "Muscle",
+      "returning": true,
+      "roleStart": "Muscle",
+      "roleEnd": "Stringer's bodyguard",
+      "reportsTo": "stringer",
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 1,
+      "bio": "Barksdale muscle. He guards Stringer at the sit-down with Omar in Butchie's bar.",
+      "keyMoments": [
+        {
+          "ep": 11,
+          "text": "Stringer's bodyguard at the meeting with Omar."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "cherry",
+      "name": "Cherry",
+      "alias": null,
+      "full": null,
+      "actor": "Stanley \"Scoogie\" Boyd",
+      "faction": "barksdale",
+      "unit": "Cut house",
+      "returning": true,
+      "roleStart": "Runs the cut house where the package is diluted",
+      "roleEnd": "Runs the cut house",
+      "reportsTo": "stringer",
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 4,
+      "bio": "Manages the house where the Barksdale package is cut. He complains that the Atlanta product costs more and is weaker, and Stringer tells him to cut it anyway.",
+      "keyMoments": [
+        {
+          "ep": 4,
+          "text": "Reports that the second Atlanta package is weaker than the first; Stringer orders it diluted regardless."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "bodie",
+      "name": "Bodie Broadus",
+      "alias": null,
+      "full": "Preston Broadus",
+      "actor": "J. D. Williams",
+      "faction": "barksdale",
+      "unit": "The towers",
+      "returning": true,
+      "roleStart": "Crew chief running a tower crew",
+      "roleEnd": "Tower crew chief, sharing the towers with Prop Joe's dealers",
+      "reportsTo": "stringer",
+      "statusEnd": "active",
+      "statusEp": 9,
+      "firstEp": 1,
+      "bio": "Now running his own crew in the Franklin Terrace towers, Bodie is trusted with a package run to Philadelphia, which comes back empty. Hurt by the weak product, he and Poot drive off an independent crew, and the gunfight that follows kills a nine-year-old boy; he is questioned and released. When Stringer lets Prop Joe's dealers into the towers, he adapts and starts undercutting them.",
+      "keyMoments": [
+        {
+          "ep": 1,
+          "text": "Drives to Philadelphia with Shamrock to collect a car that should hold the package; it is empty."
+        },
+        {
+          "ep": 7,
+          "text": "Orders funeral flowers for D'Angelo shaped like a tower, with \"221\" on the front."
+        },
+        {
+          "ep": 8,
+          "text": "With Poot, gathers a crew and drives an independent crew off their territory."
+        },
+        {
+          "ep": 9,
+          "text": "The rival crew returns with guns and a stray round kills a boy; his gun disposal fails and Detectives Cole and Norris question him, but he sees through their bluff and asks for a lawyer."
+        },
+        {
+          "ep": 10,
+          "text": "Told to welcome Prop Joe's dealers into the towers, he undercuts Cheese's crew for a sale; later watches Brother Mouzone keep the East Side away just by sitting and reading."
+        }
+      ],
+      "careerMoves": [
+        {
+          "ep": 9,
+          "from": "Tower crew chief",
+          "to": "Questioned over the boy's killing",
+          "kind": "arrest",
+          "text": "Brought in by Cole and Norris with the recovered guns."
+        },
+        {
+          "ep": 9,
+          "from": "Questioned",
+          "to": "Released; back on the towers",
+          "kind": "release",
+          "text": "He had wiped the guns himself and catches the detectives lying about his prints."
+        },
+        {
+          "ep": 10,
+          "from": "Sole Barksdale crew in his tower",
+          "to": "Shares the towers with Cheese's East Side crew",
+          "kind": "restructure",
+          "text": "Stringer's deal with Prop Joe."
+        }
+      ]
+    },
+    {
+      "id": "poot",
+      "name": "Poot Carr",
+      "alias": null,
+      "full": "Malik Carr",
+      "actor": "Tray Chaney",
+      "faction": "barksdale",
+      "unit": "The Pit",
+      "returning": true,
+      "roleStart": "Runs the Pit crew",
+      "roleEnd": "Runs the Pit crew",
+      "reportsTo": "bodie",
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 5,
+      "bio": "Poot works the Pit, where the weak product has addicts complaining and his young dealers beating them for it. He and Bodie organize the crew that runs off an independent crew, the start of the turf war in which a child is killed.",
+      "keyMoments": [
+        {
+          "ep": 5,
+          "text": "Tries to stop his young dealers beating an addict who badmouthed the \"Death Grip\" brand."
+        },
+        {
+          "ep": 8,
+          "text": "Helps Bodie gather a crew to drive an independent crew off their corner."
+        },
+        {
+          "ep": 12,
+          "text": "Watches the police patrol their territory with Puddin' in the closing montage."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "puddin",
+      "name": "Puddin'",
+      "alias": null,
+      "full": null,
+      "actor": "De'Rodd Hearns",
+      "faction": "barksdale",
+      "unit": "The towers",
+      "returning": true,
+      "roleStart": "Bodie's second in the tower crew",
+      "roleEnd": "Bodie's second",
+      "reportsTo": "bodie",
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 1,
+      "bio": "Bodie's second in the towers, handling the count and the resupply. He calls Bodie over when trouble starts in the Pit over the weak product.",
+      "keyMoments": [
+        {
+          "ep": 1,
+          "text": "Checks the count and the stash with Bodie."
+        },
+        {
+          "ep": 5,
+          "text": "Fetches Bodie when the Pit dealers beat an addict over the product."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "dangelo",
+      "name": "D'Angelo Barksdale",
+      "alias": null,
+      "full": null,
+      "actor": "Lawrence Gilliard Jr.",
+      "faction": "barksdale",
+      "unit": "In prison",
+      "returning": true,
+      "roleStart": "Inmate serving 20 years; Avon's nephew",
+      "roleEnd": "Dead: strangled in the prison library; the death was staged to look like a hanging",
+      "reportsTo": null,
+      "statusEnd": "dead",
+      "statusEp": 6,
+      "firstEp": 2,
+      "bio": "Serving 20 years in the same prison as Avon, D'Angelo is using drugs and working in the prison library. After the poisoned-drug deaths that Avon uses to win an earlier parole hearing, he refuses any part of it and cuts himself off from his uncle, telling his mother to keep Avon, Stringer and Donette away. In episode 6 an inmate strangles him in the library and stages it as a hanging; his family and the prison treat it as suicide.",
+      "keyMoments": [
+        {
+          "ep": 3,
+          "text": "Avon tells him to stay off drugs for a few days; he does, and is spared when the poisoned package kills other inmates."
+        },
+        {
+          "ep": 4,
+          "text": "Refuses to believe Avon had nothing to do with the deaths: \"I don't want no part of what you do no more.\""
+        },
+        {
+          "ep": 5,
+          "text": "Tells Donette that Stringer's support for her and promises for him are about business."
+        },
+        {
+          "ep": 6,
+          "text": "Discusses The Great Gatsby in a prison book group; tells Brianna to have Avon, Stringer and Donette leave him be; strangled in the library and posed to look like he hanged himself from a doorknob."
+        }
+      ],
+      "careerMoves": [
+        {
+          "ep": 4,
+          "from": "Avon's nephew, still tied to the family business",
+          "to": "Cuts himself off from Avon and the business",
+          "kind": "exit",
+          "text": "Rejects Avon's plan to shave years off their sentences."
+        },
+        {
+          "ep": 6,
+          "from": "Inmate",
+          "to": "Dead",
+          "kind": "death",
+          "text": "Strangled in the prison library; staged as a suicide."
+        }
+      ]
+    },
+    {
+      "id": "weebey",
+      "name": "Wee-Bey Brice",
+      "alias": null,
+      "full": "Roland Brice",
+      "actor": "Hassan Johnson",
+      "faction": "barksdale",
+      "unit": "In prison",
+      "returning": true,
+      "roleStart": "Inmate for the murders he confessed to; Avon's friend",
+      "roleEnd": "Inmate",
+      "reportsTo": "avon",
+      "statusEnd": "imprisoned",
+      "statusEp": 0,
+      "firstEp": 2,
+      "bio": "Locked up for the murders he confessed to, Wee-Bey keeps a tank of plastic fish in his cell. The guard Tilghman targets him because Wee-Bey took the charge for killing Tilghman's cousin, and Avon takes up the problem. After D'Angelo's death he tells Avon it was not his fault, adding that D'Angelo might have rolled on him again.",
+      "keyMoments": [
+        {
+          "ep": 2,
+          "text": "Tilghman tears up his cell and upends his fish tank; he asks Avon to deal with it."
+        },
+        {
+          "ep": 7,
+          "text": "Consoles Avon over D'Angelo's \"suicide\" and suggests it may have been for the best, since D'Angelo almost rolled once."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "bird",
+      "name": "Bird",
+      "alias": null,
+      "full": "Marquis Hilton",
+      "actor": "Fredro Starr",
+      "faction": "barksdale",
+      "unit": "In prison",
+      "returning": true,
+      "roleStart": "Jailed awaiting trial for the murder of William Gant",
+      "roleEnd": "Convicted of Gant's murder; the judge signals a life sentence",
+      "reportsTo": null,
+      "statusEnd": "convicted",
+      "statusEp": 6,
+      "firstEp": 6,
+      "bio": "Tried for the murder of the witness William Gant, with Levy defending him. Omar's testimony convicts him, and Judge Phelan says only proof that Bird is Jesus Christ would spare him a life sentence. On his way out he threatens Omar.",
+      "keyMoments": [
+        {
+          "ep": 6,
+          "text": "Lunges at Omar on the stand, is convicted, and threatens him: \"Come see me down the Cut.\""
+        }
+      ],
+      "careerMoves": [
+        {
+          "ep": 6,
+          "from": "Awaiting trial",
+          "to": "Convicted of murder",
+          "kind": "exit",
+          "text": "Guilty of killing William Gant."
+        }
+      ]
+    },
+    {
+      "id": "tilghman",
+      "name": "Dwight Tilghman",
+      "alias": null,
+      "full": null,
+      "actor": "Antonio D. Charity",
+      "faction": "prison",
+      "unit": "Correctional officers",
+      "returning": false,
+      "roleStart": "Correctional officer on J-tier who smuggles drugs into the prison",
+      "roleEnd": "Arrested and charged after the poisoned drugs he brought in kill inmates",
+      "reportsTo": null,
+      "statusEnd": "arrested",
+      "statusEp": 4,
+      "firstEp": 2,
+      "bio": "A day-shift guard who harasses Wee-Bey because Wee-Bey took the charge for killing his cousin, and who brushes Avon off. He buys drugs from Butchie and sells them inside; Stringer has Butchie sell him a poisoned package, and the deaths that follow are pinned on him when Avon informs and drugs are found in his car.",
+      "keyMoments": [
+        {
+          "ep": 2,
+          "text": "Trashes Wee-Bey's cell and refuses to talk to Avon: \"Off the steps.\""
+        },
+        {
+          "ep": 3,
+          "text": "Collects a package from Butchie and smuggles it into the prison; inmates start dying."
+        },
+        {
+          "ep": 4,
+          "text": "Arrested after Avon names him and the search of his car turns up drugs; officials promise the maximum penalties."
+        }
+      ],
+      "careerMoves": [
+        {
+          "ep": 4,
+          "from": "Correctional officer",
+          "to": "Charged with drug distribution",
+          "kind": "arrest",
+          "text": "Named by Avon; drugs found in his car."
+        }
+      ]
+    },
+    {
+      "id": "reynolds",
+      "name": "Kevin Reynolds",
+      "alias": null,
+      "full": null,
+      "actor": "Leslie Elliard",
+      "faction": "prison",
+      "unit": "Overdose investigation",
+      "returning": false,
+      "roleStart": "Investigator on the prison overdose deaths",
+      "roleEnd": "Closes the case on Tilghman despite suspecting Avon",
+      "reportsTo": null,
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 2,
+      "bio": "One of the officials investigating the overdose deaths in the prison (his exact agency is not clear in the sources). The investigators suspect Avon of being behind the bad package, but take his information on Tilghman in exchange for an earlier parole hearing.",
+      "keyMoments": [
+        {
+          "ep": 4,
+          "text": "The investigators take Levy's deal: an earlier parole hearing for Avon in return for the guard."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "mugs",
+      "name": "Mugs",
+      "alias": null,
+      "full": null,
+      "actor": "Dakota Anderson",
+      "faction": "prison",
+      "unit": "Inmates",
+      "returning": false,
+      "roleStart": "Inmate",
+      "roleEnd": "Inmate; not caught",
+      "reportsTo": null,
+      "statusEnd": "imprisoned",
+      "statusEp": 0,
+      "firstEp": 6,
+      "bio": "An inmate (named only in the end credits) who comes to the prison library, follows D'Angelo into the back room and strangles him with a strap, then ties it to a doorknob so the death looks like a hanging. He leaves undetected.",
+      "keyMoments": [
+        {
+          "ep": 6,
+          "text": "Strangles D'Angelo in the prison library and stages it as a suicide."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "brianna",
+      "name": "Brianna Barksdale",
+      "alias": null,
+      "full": null,
+      "actor": "Michael Hyatt",
+      "faction": "barksdale",
+      "unit": "Family",
+      "returning": true,
+      "roleStart": "Avon's sister and D'Angelo's mother; family adviser",
+      "roleEnd": "Grieving D'Angelo; carries Stringer's case to Avon",
+      "reportsTo": null,
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 2,
+      "bio": "Brianna presses Avon to look after D'Angelo, who took 20 years for the family, and urges her son to use Avon's set-up of the guard to cut his time. He refuses and asks her to keep the family away. After his death she is inconsolable, and when Stringer asks her to win Avon over to the Prop Joe deal, she carries back Avon's refusal and the news that he is sending for Brother Mouzone.",
+      "keyMoments": [
+        {
+          "ep": 2,
+          "text": "Visits Avon: look out for D'Angelo; the New York money has come back but the Dominicans won't deal."
+        },
+        {
+          "ep": 6,
+          "text": "Urges D'Angelo to go along with the Tilghman scheme; he refuses and asks her to keep everyone away."
+        },
+        {
+          "ep": 7,
+          "text": "Inconsolable at D'Angelo's wake."
+        },
+        {
+          "ep": 9,
+          "text": "Takes Stringer's case for Prop Joe to Avon and returns with his no, and with word that Brother Mouzone is coming."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "donette",
+      "name": "Donette",
+      "alias": null,
+      "full": null,
+      "actor": "Shamyl Brown",
+      "faction": "civilian",
+      "unit": "Family",
+      "returning": true,
+      "roleStart": "D'Angelo's girlfriend and the mother of his son",
+      "roleEnd": "Stringer's lover",
+      "reportsTo": null,
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 3,
+      "bio": "Avon and Brianna notice Donette has stopped visiting D'Angelo, so Stringer goes to see her, and the two begin an affair. She visits D'Angelo with their son, tells him Stringer is supporting her, and reports his mood back to Stringer.",
+      "keyMoments": [
+        {
+          "ep": 3,
+          "text": "Stringer comes to ask her to visit D'Angelo; they sleep together."
+        },
+        {
+          "ep": 5,
+          "text": "Visits D'Angelo with their son and says Stringer is looking after them; later tells Stringer that D'Angelo wants to be left alone."
+        },
+        {
+          "ep": 7,
+          "text": "At D'Angelo's wake, more composed than Brianna."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "levy",
+      "name": "Maurice Levy",
+      "alias": null,
+      "full": null,
+      "actor": "Michael Kostroff",
+      "faction": "law",
+      "unit": "Defense bar",
+      "returning": true,
+      "roleStart": "Barksdale defense attorney",
+      "roleEnd": "Barksdale defense attorney",
+      "reportsTo": null,
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 4,
+      "bio": "Levy negotiates Avon's deal with the state: information on the guard who brought the poisoned drugs into the prison, in exchange for moving Avon's first parole hearing forward by 12 months. He defends Bird in the Gant murder trial, where Omar turns his cross-examination around on him.",
+      "keyMoments": [
+        {
+          "ep": 4,
+          "text": "Gets Avon's first parole hearing moved forward 12 months in return for naming Tilghman."
+        },
+        {
+          "ep": 6,
+          "text": "Calls Omar a parasite on the drug trade; Omar answers, \"I got the shotgun. You got the briefcase.\" Bird is convicted."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "mouzone",
+      "name": "Brother Mouzone",
+      "alias": null,
+      "full": null,
+      "actor": "Michael Potts",
+      "faction": "barksdale",
+      "unit": "Hired muscle (New York)",
+      "returning": false,
+      "roleStart": "New York enforcer brought in by Avon on retainer to hold the towers",
+      "roleEnd": "Shot by Omar; ends the arrangement with Avon and leaves",
+      "reportsTo": "avon",
+      "statusEnd": "gone",
+      "statusEp": 12,
+      "firstEp": 9,
+      "bio": "A soft-spoken, bow-tied enforcer from New York whom Avon sends for to protect the towers. He arrives sooner than Stringer expected, shoots Cheese with rat shot to clear the East Side dealers out, and keeps them away just by sitting and reading. Omar, told by Stringer that Mouzone killed Brandon, shoots him in his motel room; from the hospital Mouzone tells Stringer the agreement with Avon is \"absolved\" and that he will take care of the shooters himself.",
+      "keyMoments": [
+        {
+          "ep": 9,
+          "text": "Avon sends for him from New York; he arrives the next day."
+        },
+        {
+          "ep": 10,
+          "text": "Shoots Cheese with rat shot and warns that the next round is a hollow point; the East Side crew leaves the towers."
+        },
+        {
+          "ep": 11,
+          "text": "Shot by Omar at his motel door; convinces Omar he had nothing to do with Brandon, and Omar calls an ambulance."
+        },
+        {
+          "ep": 12,
+          "text": "Turns down Stringer's help from his hospital bed and releases Avon from their agreement."
+        }
+      ],
+      "careerMoves": [
+        {
+          "ep": 9,
+          "from": "Outside the organization",
+          "to": "Avon's contract enforcer at the towers",
+          "kind": "assignment",
+          "text": "Hired on retainer."
+        },
+        {
+          "ep": 12,
+          "from": "Contract enforcer",
+          "to": "Gone; agreement \"absolved\"",
+          "kind": "exit",
+          "text": "Leaves after being shot; Avon complains the Barksdales are worse off than before he came."
+        }
+      ]
+    },
+    {
+      "id": "lamar",
+      "name": "Lamar",
+      "alias": null,
+      "full": null,
+      "actor": "DeAndre McCullough",
+      "faction": "barksdale",
+      "unit": "Hired muscle (New York)",
+      "returning": false,
+      "roleStart": "Brother Mouzone's assistant",
+      "roleEnd": "Brother Mouzone's assistant",
+      "reportsTo": "mouzone",
+      "statusEnd": "gone",
+      "statusEp": 12,
+      "firstEp": 10,
+      "bio": "Mouzone's assistant, regularly scolded for forgetting his magazines. Guarding Mouzone's motel room, he is lured by Omar's crew with a dog and knocked out, which lets Omar get to the door.",
+      "keyMoments": [
+        {
+          "ep": 10,
+          "text": "Mouzone chides him for forgetting Harper's and The Nation."
+        },
+        {
+          "ep": 11,
+          "text": "Distracted by a dog and knocked out outside Mouzone's motel room."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "leech",
+      "name": "Leech",
+      "alias": null,
+      "full": null,
+      "actor": "Jacques Derosena",
+      "faction": "street",
+      "unit": "Washington, D.C.",
+      "returning": false,
+      "roleStart": "Stringer's contact from Washington, D.C.",
+      "roleEnd": "Stringer's contact from Washington, D.C.",
+      "reportsTo": null,
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 6,
+      "bio": "A contact from Washington, D.C. (named only in the credits) who takes Stringer's cash for a killing that must not come back on Stringer. He says \"my cousin up in there\" will handle it.",
+      "keyMoments": [
+        {
+          "ep": 6,
+          "text": "Takes an envelope of cash from Stringer for the job."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "roberto",
+      "name": "Roberto",
+      "alias": null,
+      "full": "Roberto Castellano y Silva",
+      "actor": null,
+      "faction": "street",
+      "unit": "Supply",
+      "returning": true,
+      "roleStart": "The Barksdales' New York supplier",
+      "roleEnd": "Targeted by the DEA; his people stop dealing with the Barksdales",
+      "reportsTo": null,
+      "statusEnd": "gone",
+      "statusEp": 1,
+      "firstEp": 1,
+      "bio": "Never seen. His package fails to arrive on Bodie's Philadelphia run, and a lawyer for his people tells Stringer that Roberto has been targeted by the DEA. Because Avon's sentence looked light, they suspect he cooperated and stop dealing with the Barksdales.",
+      "keyMoments": [
+        {
+          "ep": 1,
+          "text": "The Dominicans' lawyer tells Stringer the money will be returned but the business is over."
+        }
+      ],
+      "careerMoves": [
+        {
+          "ep": 1,
+          "from": "Supplier",
+          "to": "Cut off",
+          "kind": "exit",
+          "text": "Targeted by the DEA."
+        }
+      ]
+    },
+    {
+      "id": "vargas",
+      "name": "Vargas",
+      "alias": null,
+      "full": null,
+      "actor": null,
+      "faction": "street",
+      "unit": "Supply",
+      "returning": false,
+      "roleStart": "Atlanta contact who owns a rim shop; Avon's replacement source",
+      "roleEnd": "Supplying weak product",
+      "reportsTo": null,
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 2,
+      "bio": "Never seen. Avon recommends this Atlanta contact after the New York connection ends, but each Atlanta package is weaker and costs more than the last.",
+      "keyMoments": [
+        {
+          "ep": 2,
+          "text": "Avon suggests him; Stringer reports the Atlanta connection is set up."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "propjoe",
+      "name": "Proposition Joe",
+      "alias": "Prop Joe",
+      "full": null,
+      "actor": "Robert F. Chew",
+      "faction": "eastside",
+      "unit": "East Side",
+      "returning": true,
+      "roleStart": "East Side drug boss with the best product in town, supplied through the Greeks",
+      "roleEnd": "Supplies the Barksdale towers in partnership with Stringer, with Avon's approval",
+      "reportsTo": null,
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 6,
+      "bio": "Joe runs the East Side from an appliance and electronics shop and gets his heroin through the Greeks. He has product but not enough territory, so he offers Stringer a share of his supply for a slice of the towers, and gets three of them. When Brother Mouzone shoots his dealer Cheese, he refuses to move on Mouzone and instead has Butchie set up the meeting where Stringer turns Omar on him.",
+      "keyMoments": [
+        {
+          "ep": 6,
+          "text": "At Sergei's request, agrees to compensate Ziggy for the car Cheese burned, warning that only the Greeks are keeping Ziggy and Nick alive."
+        },
+        {
+          "ep": 7,
+          "text": "Pulls Stringer aside at D'Angelo's funeral to offer his supply for a share of the towers."
+        },
+        {
+          "ep": 9,
+          "text": "Gets towers 734, 770 and 221 in Stringer's secret deal; refuses to send his people against Mouzone."
+        },
+        {
+          "ep": 10,
+          "text": "Tells Cheese not to retaliate and asks Butchie to broker a sit-down between Stringer and Omar."
+        },
+        {
+          "ep": 12,
+          "text": "Vondas tells him new suppliers will find him; Stringer brings Avon's approval, and the meeting is photographed by Kima and McNulty."
+        }
+      ],
+      "careerMoves": [
+        {
+          "ep": 9,
+          "from": "East Side boss",
+          "to": "Partner in the Barksdale towers",
+          "kind": "restructure",
+          "text": "Three towers in exchange for supplying the Barksdales at his cost."
+        },
+        {
+          "ep": 12,
+          "from": "Secret partner",
+          "to": "Partner approved by Avon",
+          "kind": "restructure",
+          "text": "Avon agrees to the arrangement."
+        }
+      ]
+    },
+    {
+      "id": "cheese",
+      "name": "Cheese",
+      "alias": null,
+      "full": null,
+      "actor": "Method Man",
+      "faction": "eastside",
+      "unit": "East Side",
+      "returning": false,
+      "roleStart": "Prop Joe's dealer and enforcer on the East Side",
+      "roleEnd": "Back on the East Side after Mouzone shoots him",
+      "reportsTo": "propjoe",
+      "statusEnd": "injured",
+      "statusEp": 10,
+      "firstEp": 5,
+      "bio": "One of Prop Joe's people on the East Side. He has Ziggy beaten and his car burned over a drug debt, and backs down when the Greeks' muscle gets involved. Under Stringer's deal he moves a crew into the Barksdale towers, until Brother Mouzone shoots him in the shoulder with rat shot and drives him out.",
+      "keyMoments": [
+        {
+          "ep": 5,
+          "text": "Has Ziggy beaten over a debt, takes his car and later shows Nick it has been torched."
+        },
+        {
+          "ep": 6,
+          "text": "Backs down when Sergei's men draw guns on his crew."
+        },
+        {
+          "ep": 10,
+          "text": "Trades insults with Bodie while their crews share the towers; mocks Mouzone and is shot with rat shot, then leaves."
+        }
+      ],
+      "careerMoves": [
+        {
+          "ep": 10,
+          "from": "East Side dealer",
+          "to": "Running Joe's crew in three Barksdale towers",
+          "kind": "assignment",
+          "text": "Arrives with Stringer under the deal."
+        },
+        {
+          "ep": 10,
+          "from": "Working the towers",
+          "to": "Driven out of the towers",
+          "kind": "exit",
+          "text": "Shot with rat shot by Brother Mouzone."
+        }
+      ]
+    },
+    {
+      "id": "omar",
+      "name": "Omar Little",
+      "alias": null,
+      "full": null,
+      "actor": "Michael K. Williams",
+      "faction": "street",
+      "unit": "Omar's crew",
+      "returning": true,
+      "roleStart": "Stick-up man, back in Baltimore with a new partner",
+      "roleEnd": "Stick-up man; vows to go after Stringer",
+      "reportsTo": null,
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 3,
+      "bio": "Omar returns to Baltimore with a new boyfriend, Dante, and teams up with the stick-up pair Kimmy and Tosha. Found through Bubbles, he testifies against Bird for the Gant murder, wins the courtroom over and later hints to McNulty that he did not actually see it. Stringer persuades him that Brother Mouzone tortured Brandon; Omar shoots Mouzone, realizes he was lied to, calls an ambulance, and vows to get Stringer.",
+      "keyMoments": [
+        {
+          "ep": 3,
+          "text": "Back in town with Dante; takes Kimmy and Tosha's haul, then joins forces with them."
+        },
+        {
+          "ep": 6,
+          "text": "Testifies against Bird; to Levy: \"I got the shotgun. You got the briefcase.\" Asked by McNulty if he really saw it: \"You really askin'?\""
+        },
+        {
+          "ep": 11,
+          "text": "Takes Stringer's tip, gets past Lamar and shoots Mouzone, then believes Mouzone's denial and calls 911."
+        },
+        {
+          "ep": 12,
+          "text": "With Butchie, works out that Stringer set him up, and swears the man \"got to be got\"."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "dante",
+      "name": "Dante",
+      "alias": null,
+      "full": null,
+      "actor": "Ernest Waddell",
+      "faction": "street",
+      "unit": "Omar's crew",
+      "returning": false,
+      "roleStart": "Omar's new boyfriend and stick-up partner",
+      "roleEnd": "Omar's boyfriend and partner",
+      "reportsTo": "omar",
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 3,
+      "bio": "Omar's new boyfriend and partner in robbing stash houses. He is jealous when Omar teams up with Kimmy and Tosha until Omar reassures him.",
+      "keyMoments": [
+        {
+          "ep": 3,
+          "text": "Jealous of the new partners until Omar reassures him."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "kimmy",
+      "name": "Kimmy",
+      "alias": null,
+      "full": null,
+      "actor": "Kelli R. Brown",
+      "faction": "street",
+      "unit": "Omar's crew",
+      "returning": false,
+      "roleStart": "Stick-up woman, partnered with Tosha",
+      "roleEnd": "In Omar's crew",
+      "reportsTo": "omar",
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 3,
+      "bio": "Robs drug dealers with her partner Tosha until Omar takes their haul and recruits them. She hears Bubbles asking around for Omar, and helps lure Mouzone's guard Lamar away from the motel door.",
+      "keyMoments": [
+        {
+          "ep": 3,
+          "text": "She and Tosha beat Omar to a stash; Omar takes the haul and they team up."
+        },
+        {
+          "ep": 4,
+          "text": "Overhears Bubbles asking for Omar."
+        },
+        {
+          "ep": 11,
+          "text": "With Tosha, uses a dog to distract Lamar outside Mouzone's room."
+        }
+      ],
+      "careerMoves": [
+        {
+          "ep": 3,
+          "from": "Independent stick-up crew",
+          "to": "Omar's crew",
+          "kind": "assignment",
+          "text": "Joins Omar with Tosha."
+        }
+      ]
+    },
+    {
+      "id": "tosha",
+      "name": "Tosha Mitchell",
+      "alias": null,
+      "full": null,
+      "actor": "Edwina Findley",
+      "faction": "street",
+      "unit": "Omar's crew",
+      "returning": false,
+      "roleStart": "Stick-up woman, partnered with Kimmy",
+      "roleEnd": "In Omar's crew",
+      "reportsTo": "omar",
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 3,
+      "bio": "Kimmy's partner in robbing dealers; the two join Omar's crew. She poses as a caring neighbor in one stash-house robbery and helps distract Lamar before Omar shoots Mouzone.",
+      "keyMoments": [
+        {
+          "ep": 3,
+          "text": "Poses as a neighbor to help Omar's crew hit a stash house."
+        },
+        {
+          "ep": 11,
+          "text": "Helps distract Lamar with a dog."
+        }
+      ],
+      "careerMoves": [
+        {
+          "ep": 3,
+          "from": "Independent stick-up crew",
+          "to": "Omar's crew",
+          "kind": "assignment",
+          "text": "Joins Omar with Kimmy."
+        }
+      ]
+    },
+    {
+      "id": "butchie",
+      "name": "Butchie",
+      "alias": null,
+      "full": null,
+      "actor": "S. Robert Morgan",
+      "faction": "street",
+      "unit": "Butchie's bar",
+      "returning": false,
+      "roleStart": "Bar owner; sells drugs to the guard Tilghman and banks Omar's money",
+      "roleEnd": "Omar's banker and adviser",
+      "reportsTo": null,
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 3,
+      "bio": "A bar owner who sells Tilghman the drugs he smuggles into the prison. When Stringer comes \"on Avon's call\" and promises to make him whole, he reluctantly sells Tilghman a poisoned package. He also holds Omar's money and advises him, brokers the Stringer–Omar sit-down at Prop Joe's request, and afterwards helps Omar see that Stringer played him.",
+      "keyMoments": [
+        {
+          "ep": 3,
+          "text": "Agrees, reluctantly, to sell Tilghman the bad package."
+        },
+        {
+          "ep": 10,
+          "text": "Takes Omar's money for safekeeping; agrees to Joe's request for a Stringer–Omar parley if his nephew handles security."
+        },
+        {
+          "ep": 12,
+          "text": "Tells Omar that Mouzone works up north and would never have stopped coming; regrets saying yes to Joe."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "bubbles",
+      "name": "Bubbles",
+      "alias": null,
+      "full": null,
+      "actor": "Andre Royo",
+      "faction": "street",
+      "unit": "Informants",
+      "returning": true,
+      "roleStart": "Addict and occasional informant",
+      "roleEnd": "Informant for Kima and McNulty",
+      "reportsTo": null,
+      "statusEnd": "active",
+      "statusEp": 12,
+      "firstEp": 4,
+      "bio": "Caught shoplifting by McNulty, Bubbles is told his \"tax\" is finding Omar for Bird's trial, and he does, after a tense run-in with Omar. Arrested later for stealing from an ambulance, he buys his way out by telling Kima and McNulty about Mouzone shooting Cheese and the East Side dealers sharing the Barksdale towers.",
+      "keyMoments": [
+        {
+          "ep": 4,
+          "text": "McNulty catches him and Johnny shoplifting and sends them to find Omar; Omar finds Bubbles first."
+        },
+        {
+          "ep": 5,
+          "text": "Reports to McNulty at the marine unit that he has found Omar."
+        },
+        {
+          "ep": 12,
+          "text": "Arrested by Officer Santangelo; tips Kima and McNulty to the Barksdale–East Side arrangement in the towers."
+        }
+      ],
+      "careerMoves": [
+        {
+          "ep": 12,
+          "from": "On the street",
+          "to": "Arrested",
+          "kind": "arrest",
+          "text": "Caught taking supplies from an ambulance."
+        },
+        {
+          "ep": 12,
+          "from": "Arrested",
+          "to": "Released for information",
+          "kind": "release",
+          "text": "Charges dropped after he talks."
+        }
+      ]
+    },
+    {
+      "id": "johnny",
+      "name": "Johnny Weeks",
+      "alias": null,
+      "full": null,
+      "actor": "Leo Fitzpatrick",
+      "faction": "street",
+      "unit": "Addicts",
+      "returning": true,
+      "roleStart": "Addict; Bubbles' partner",
+      "roleEnd": "Addict; Bubbles' partner",
+      "reportsTo": null,
+      "statusEnd": "active",
+      "statusEp": 12,
+      "firstEp": 4,
+      "bio": "Still hustling alongside Bubbles. He is caught shoplifting with him by McNulty, keeps watch while Bubbles robs an ambulance, and in the interrogation room reminds Bubbles about Mouzone shooting Cheese.",
+      "keyMoments": [
+        {
+          "ep": 4,
+          "text": "Caught shoplifting with Bubbles by McNulty."
+        },
+        {
+          "ep": 12,
+          "text": "Arrested with Bubbles; prompts him to mention the Mouzone shooting."
+        }
+      ],
+      "careerMoves": [
+        {
+          "ep": 12,
+          "from": "On the street",
+          "to": "Arrested and released with Bubbles",
+          "kind": "arrest",
+          "text": "Caught at the ambulance."
+        }
+      ]
+    },
+    {
+      "id": "tt",
+      "name": "T.T.",
+      "alias": null,
+      "full": null,
+      "actor": "Luke Montgomery III",
+      "faction": "civilian",
+      "unit": "Residents",
+      "returning": false,
+      "roleStart": "Nine-year-old boy near the towers",
+      "roleEnd": "Killed by a stray bullet",
+      "reportsTo": null,
+      "statusEnd": "dead",
+      "statusEp": 9,
+      "firstEp": 9,
+      "bio": "A nine-year-old boy (called T.T. on screen) killed in his bedroom by a stray bullet during the gunfight between Bodie's crew and the independent crew they had run off. Who fired the fatal shot is not shown.",
+      "keyMoments": [
+        {
+          "ep": 9,
+          "text": "Killed by a stray round through his bedroom window."
+        }
+      ],
+      "careerMoves": [
+        {
+          "ep": 9,
+          "from": "Alive",
+          "to": "Dead",
+          "kind": "death",
+          "text": "Stray bullet in the turf-war gunfight."
+        }
+      ]
+    },
+    {
+      "id": "nathan",
+      "name": "Ilene Nathan",
+      "alias": null,
+      "full": null,
+      "actor": "Susan Rome",
+      "faction": "law",
+      "unit": "State's Attorney's Office",
+      "returning": true,
+      "roleStart": "Assistant State's Attorney prosecuting Bird",
+      "roleEnd": "Won Bird's conviction",
+      "reportsTo": null,
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 5,
+      "bio": "Prosecutes Bird for the Gant murder. She worries about putting Omar on the stand, gives McNulty a voucher to buy him court clothes, and after the guilty verdict gives Omar a one-time pass on any charge up to aggravated assault.",
+      "keyMoments": [
+        {
+          "ep": 5,
+          "text": "Interviews Omar and calls him a sociopath, but keeps him as her witness."
+        },
+        {
+          "ep": 6,
+          "text": "Wins the conviction; gives Omar her card as a \"get out of jail free\" pass."
+        }
+      ],
+      "careerMoves": [],
+      "crossDomain": "Law; included because she is central to Omar's season. Another agent may also profile her."
+    },
+    {
+      "id": "phelan",
+      "name": "Daniel Phelan",
+      "alias": null,
+      "full": null,
+      "actor": "Peter Gerety",
+      "faction": "law",
+      "unit": "Circuit Court",
+      "returning": true,
+      "roleStart": "Circuit Court judge presiding at Bird's trial",
+      "roleEnd": "Judge",
+      "reportsTo": null,
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 6,
+      "bio": "Presides at Bird's trial (uncredited this season). He refuses Levy's request for an appeal bond and tells Bird he will get life unless he proves to be Jesus Christ returned.",
+      "keyMoments": [
+        {
+          "ep": 6,
+          "text": "Promises Bird a life sentence at the coming sentencing."
+        }
+      ],
+      "careerMoves": [],
+      "crossDomain": "Law; one appearance in this domain."
+    },
+    {
+      "id": "santangelo",
+      "name": "Michael Santangelo",
+      "alias": null,
+      "full": null,
+      "actor": "Michael Salconi",
+      "faction": "police",
+      "unit": "Patrol",
+      "returning": true,
+      "roleStart": "Uniformed officer",
+      "roleEnd": "Uniformed officer",
+      "reportsTo": null,
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 12,
+      "bio": "Back in uniform, he arrests Bubbles and Johnny for stealing from an ambulance and gives up the arrest so Kima and McNulty can use Bubbles.",
+      "keyMoments": [
+        {
+          "ep": 12,
+          "text": "Arrests Bubbles and Johnny, then gives up the arrest so Kima and McNulty can use Bubbles."
+        }
+      ],
+      "careerMoves": [],
+      "crossDomain": "Police; single appearance. The police agent may also profile him."
+    }
+  ],
+  "relationships": [
+    {
+      "source": "stringer",
+      "target": "avon",
+      "type": "command",
+      "label": "Stringer runs the organization outside for Avon"
+    },
+    {
+      "source": "shamrock",
+      "target": "stringer",
+      "type": "command",
+      "label": "Stringer's lieutenant",
+      "ep": 1
+    },
+    {
+      "source": "country",
+      "target": "stringer",
+      "type": "command",
+      "label": "Soldier; tails people on Stringer's orders",
+      "ep": 1
+    },
+    {
+      "source": "tank",
+      "target": "stringer",
+      "type": "command",
+      "label": "Soldier; tails people on Stringer's orders",
+      "ep": 1
+    },
+    {
+      "source": "rico",
+      "target": "stringer",
+      "type": "command",
+      "label": "Muscle; security at the funeral home",
+      "ep": 1
+    },
+    {
+      "source": "perry",
+      "target": "stringer",
+      "type": "command",
+      "label": "Muscle; Stringer's bodyguard at the Omar sit-down",
+      "ep": 1
+    },
+    {
+      "source": "cherry",
+      "target": "stringer",
+      "type": "command",
+      "label": "Runs the cut house for Stringer",
+      "ep": 4
+    },
+    {
+      "source": "bodie",
+      "target": "stringer",
+      "type": "command",
+      "label": "Tower crew chief; Stringer tests him on the Philadelphia run",
+      "ep": 1
+    },
+    {
+      "source": "puddin",
+      "target": "bodie",
+      "type": "command",
+      "label": "Bodie's second in the tower crew",
+      "ep": 1
+    },
+    {
+      "source": "poot",
+      "target": "bodie",
+      "type": "command",
+      "label": "Runs the Pit; brings problems to Bodie",
+      "ep": 5
+    },
+    {
+      "source": "mouzone",
+      "target": "avon",
+      "type": "command",
+      "label": "Hired by Avon on retainer to hold the towers; ends the deal in ep 12",
+      "ep": 9
+    },
+    {
+      "source": "lamar",
+      "target": "mouzone",
+      "type": "command",
+      "label": "Mouzone's assistant",
+      "ep": 10
+    },
+    {
+      "source": "weebey",
+      "target": "avon",
+      "type": "friendship",
+      "label": "Old friends inside; Avon takes up Wee-Bey's problem with Tilghman",
+      "ep": 2
+    },
+    {
+      "source": "cheese",
+      "target": "propjoe",
+      "type": "command",
+      "label": "Joe's dealer; \"my boy Cheese\"",
+      "ep": 6
+    },
+    {
+      "source": "dante",
+      "target": "omar",
+      "type": "romance",
+      "label": "Omar's new boyfriend and stick-up partner",
+      "ep": 3
+    },
+    {
+      "source": "kimmy",
+      "target": "omar",
+      "type": "partner",
+      "label": "Stick-up crew",
+      "ep": 3
+    },
+    {
+      "source": "tosha",
+      "target": "omar",
+      "type": "partner",
+      "label": "Stick-up crew",
+      "ep": 3
+    },
+    {
+      "source": "kimmy",
+      "target": "tosha",
+      "type": "romance",
+      "label": "A couple, and partners robbing dealers",
+      "ep": 3
+    },
+    {
+      "source": "dangelo",
+      "target": "avon",
+      "type": "family",
+      "label": "Avon is D'Angelo's uncle"
+    },
+    {
+      "source": "dangelo",
+      "target": "brianna",
+      "type": "family",
+      "label": "Brianna is D'Angelo's mother"
+    },
+    {
+      "source": "brianna",
+      "target": "avon",
+      "type": "family",
+      "label": "Brother and sister"
+    },
+    {
+      "source": "donette",
+      "target": "dangelo",
+      "type": "romance",
+      "label": "D'Angelo's girlfriend and the mother of his son"
+    },
+    {
+      "source": "stringer",
+      "target": "donette",
+      "type": "romance",
+      "label": "Affair while D'Angelo is in prison",
+      "ep": 3
+    },
+    {
+      "source": "dangelo",
+      "target": "avon",
+      "type": "conflict",
+      "label": "D'Angelo blames Avon for the poisoned drugs and cuts him off",
+      "ep": 4
+    },
+    {
+      "source": "stringer",
+      "target": "dangelo",
+      "type": "conflict",
+      "label": "Stringer doubts D'Angelo's loyalty; D'Angelo wants him kept away",
+      "ep": 2
+    },
+    {
+      "source": "stringer",
+      "target": "avon",
+      "type": "conflict",
+      "label": "Stringer cuts the Prop Joe deal behind Avon's back",
+      "ep": 9
+    },
+    {
+      "source": "stringer",
+      "target": "brianna",
+      "type": "alliance",
+      "label": "Stringer asks her to win Avon over to the Prop Joe deal",
+      "ep": 9
+    },
+    {
+      "source": "bodie",
+      "target": "dangelo",
+      "type": "friendship",
+      "label": "Former crew chief; Bodie sends tower-shaped flowers to his funeral",
+      "ep": 7
+    },
+    {
+      "source": "bodie",
+      "target": "poot",
+      "type": "friendship",
+      "label": "Friends and crewmates"
+    },
+    {
+      "source": "bodie",
+      "target": "shamrock",
+      "type": "partner",
+      "label": "Paired on the Philadelphia run and the gun disposal",
+      "ep": 1
+    },
+    {
+      "source": "tilghman",
+      "target": "weebey",
+      "type": "conflict",
+      "label": "Tilghman harasses Wee-Bey, who took the charge for killing Tilghman's cousin",
+      "ep": 2
+    },
+    {
+      "source": "avon",
+      "target": "tilghman",
+      "type": "conflict",
+      "label": "Tilghman rebuffs Avon; Avon has him sold poisoned drugs and then names him",
+      "ep": 2
+    },
+    {
+      "source": "butchie",
+      "target": "tilghman",
+      "type": "business",
+      "label": "Butchie supplies the drugs Tilghman smuggles into the prison",
+      "ep": 3
+    },
+    {
+      "source": "stringer",
+      "target": "butchie",
+      "type": "business",
+      "label": "On Avon's call, Stringer has Butchie sell Tilghman a poisoned package",
+      "ep": 3
+    },
+    {
+      "source": "shamrock",
+      "target": "tilghman",
+      "type": "conflict",
+      "label": "Tails Tilghman and watches him collect the bad package",
+      "ep": 3
+    },
+    {
+      "source": "country",
+      "target": "tilghman",
+      "type": "conflict",
+      "label": "Tails Tilghman to his supplier",
+      "ep": 3
+    },
+    {
+      "source": "avon",
+      "target": "reynolds",
+      "type": "informant",
+      "label": "Through Levy, names Tilghman to the overdose investigators",
+      "ep": 4
+    },
+    {
+      "source": "reynolds",
+      "target": "tilghman",
+      "type": "investigates",
+      "label": "Overdose investigation ends in Tilghman's arrest",
+      "ep": 4
+    },
+    {
+      "source": "levy",
+      "target": "avon",
+      "type": "legal",
+      "label": "Lawyer; wins Avon an earlier parole hearing for naming Tilghman",
+      "ep": 4
+    },
+    {
+      "source": "stringer",
+      "target": "leech",
+      "type": "business",
+      "label": "Stringer pays Leech for a prison killing; the target is not named",
+      "ep": 6
+    },
+    {
+      "source": "mugs",
+      "target": "dangelo",
+      "type": "killed",
+      "label": "Strangled him in the prison library and staged it as a hanging",
+      "ep": 6
+    },
+    {
+      "source": "levy",
+      "target": "bird",
+      "type": "legal",
+      "label": "Defends Bird in the Gant murder trial",
+      "ep": 6
+    },
+    {
+      "source": "nathan",
+      "target": "bird",
+      "type": "legal",
+      "label": "Prosecutes Bird for the Gant murder",
+      "ep": 6
+    },
+    {
+      "source": "phelan",
+      "target": "bird",
+      "type": "legal",
+      "label": "Presides at Bird's trial; promises a life sentence",
+      "ep": 6
+    },
+    {
+      "source": "nathan",
+      "target": "omar",
+      "type": "legal",
+      "label": "Omar is her witness; she gives him a one-time pass",
+      "ep": 5
+    },
+    {
+      "source": "omar",
+      "target": "bird",
+      "type": "conflict",
+      "label": "Omar's testimony convicts Bird; Bird threatens him",
+      "ep": 6
+    },
+    {
+      "source": "levy",
+      "target": "omar",
+      "type": "conflict",
+      "label": "Levy cross-examines Omar: \"I got the shotgun, you got the briefcase\"",
+      "ep": 6
+    },
+    {
+      "source": "mcnulty",
+      "target": "omar",
+      "type": "legal",
+      "label": "McNulty finds Omar through Bubbles and brings him in to testify",
+      "ep": 5
+    },
+    {
+      "source": "bubbles",
+      "target": "mcnulty",
+      "type": "informant",
+      "label": "Finds Omar for McNulty to work off a shoplifting pinch",
+      "ep": 4
+    },
+    {
+      "source": "bubbles",
+      "target": "kima",
+      "type": "informant",
+      "label": "Tips Kima and McNulty to the Barksdale–East Side deal to get charges dropped",
+      "ep": 12
+    },
+    {
+      "source": "bubbles",
+      "target": "johnny",
+      "type": "partner",
+      "label": "Addicts who hustle together"
+    },
+    {
+      "source": "santangelo",
+      "target": "bubbles",
+      "type": "legal",
+      "label": "Arrests him stealing from an ambulance",
+      "ep": 12
+    },
+    {
+      "source": "santangelo",
+      "target": "johnny",
+      "type": "legal",
+      "label": "Arrests him with Bubbles",
+      "ep": 12
+    },
+    {
+      "source": "bodie",
+      "target": "bubbles",
+      "type": "business",
+      "label": "Bodie undercuts Cheese's crew to win Bubbles' sale",
+      "ep": 10
+    },
+    {
+      "source": "avon",
+      "target": "roberto",
+      "type": "business",
+      "label": "New York supplier until his DEA trouble ends the connection (ep 1)"
+    },
+    {
+      "source": "vargas",
+      "target": "stringer",
+      "type": "business",
+      "label": "Atlanta connection; each package weaker than the last",
+      "ep": 2
+    },
+    {
+      "source": "propjoe",
+      "target": "stringer",
+      "type": "business",
+      "label": "Joe offers his supply for a slice of the towers",
+      "ep": 7
+    },
+    {
+      "source": "propjoe",
+      "target": "stringer",
+      "type": "alliance",
+      "label": "Secret deal: product at Joe's cost for towers 734, 770 and 221",
+      "ep": 9
+    },
+    {
+      "source": "avon",
+      "target": "propjoe",
+      "type": "conflict",
+      "label": "Avon refuses to give up the towers and sends for Mouzone",
+      "ep": 7
+    },
+    {
+      "source": "avon",
+      "target": "propjoe",
+      "type": "business",
+      "label": "Avon finally agrees to the partnership",
+      "ep": 12
+    },
+    {
+      "source": "propjoe",
+      "target": "sergei",
+      "type": "business",
+      "label": "Sergei brings the Greeks' product and arranges the Ziggy settlement",
+      "ep": 6
+    },
+    {
+      "source": "propjoe",
+      "target": "vondas",
+      "type": "business",
+      "label": "The Greeks' operation supplies Joe; Vondas promises new suppliers",
+      "ep": 12
+    },
+    {
+      "source": "propjoe",
+      "target": "nick",
+      "type": "business",
+      "label": "Compensates Ziggy for his car as a favor to the Greeks",
+      "ep": 6
+    },
+    {
+      "source": "propjoe",
+      "target": "butchie",
+      "type": "business",
+      "label": "Joe asks Butchie to broker a Stringer–Omar sit-down",
+      "ep": 10
+    },
+    {
+      "source": "bodie",
+      "target": "cheese",
+      "type": "business",
+      "label": "Rival crews sharing the towers, competing on price",
+      "ep": 10
+    },
+    {
+      "source": "cheese",
+      "target": "ziggy",
+      "type": "conflict",
+      "label": "Has Ziggy beaten over a drug debt and burns his car",
+      "ep": 5
+    },
+    {
+      "source": "sergei",
+      "target": "cheese",
+      "type": "conflict",
+      "label": "Sergei's men draw guns to settle Ziggy's debt",
+      "ep": 6
+    },
+    {
+      "source": "mouzone",
+      "target": "cheese",
+      "type": "conflict",
+      "label": "Shoots Cheese in the shoulder with rat shot to clear the towers",
+      "ep": 10
+    },
+    {
+      "source": "propjoe",
+      "target": "mouzone",
+      "type": "conflict",
+      "label": "Joe fears Mouzone and looks for someone else to move on him",
+      "ep": 10
+    },
+    {
+      "source": "stringer",
+      "target": "omar",
+      "type": "conflict",
+      "label": "Stringer lies that Mouzone tortured Brandon; Omar vows revenge (ep 12)",
+      "ep": 11
+    },
+    {
+      "source": "stringer",
+      "target": "mouzone",
+      "type": "conflict",
+      "label": "Stringer points Omar at Mouzone, then visits him in hospital",
+      "ep": 11
+    },
+    {
+      "source": "omar",
+      "target": "mouzone",
+      "type": "conflict",
+      "label": "Omar shoots Mouzone, believes his denial and calls an ambulance",
+      "ep": 11
+    },
+    {
+      "source": "omar",
+      "target": "lamar",
+      "type": "conflict",
+      "label": "Omar's crew lures Lamar away and knocks him out",
+      "ep": 11
+    },
+    {
+      "source": "butchie",
+      "target": "omar",
+      "type": "business",
+      "label": "Butchie holds Omar's money and advises him",
+      "ep": 10
+    },
+    {
+      "source": "butchie",
+      "target": "stringer",
+      "type": "business",
+      "label": "Hosts the Stringer–Omar sit-down at his bar",
+      "ep": 11
+    },
+    {
+      "source": "cole",
+      "target": "bodie",
+      "type": "investigates",
+      "label": "Questions Bodie over the boy's killing with the recovered guns",
+      "ep": 9
+    },
+    {
+      "source": "norris",
+      "target": "bodie",
+      "type": "investigates",
+      "label": "Questions Bodie over the boy's killing with the recovered guns",
+      "ep": 9
+    },
+    {
+      "source": "kima",
+      "target": "propjoe",
+      "type": "investigates",
+      "label": "Photographs Joe with Sergei (ep 7) and with Stringer (ep 12)",
+      "ep": 7
+    },
+    {
+      "source": "kima",
+      "target": "stringer",
+      "type": "investigates",
+      "label": "Photographs Stringer's meeting with Prop Joe",
+      "ep": 12
+    },
+    {
+      "source": "mcnulty",
+      "target": "stringer",
+      "type": "investigates",
+      "label": "Photographs Stringer's meeting with Prop Joe",
+      "ep": 12
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "lookouts",
+      "org": "barksdale",
+      "title": "Lookouts",
+      "description": "The youngest workers (\"young'uns\") watching and hollering for the crews in the towers and the Pit. None is named this season.",
+      "members": [],
+      "startMembers": [],
+      "endMembers": []
+    },
+    {
+      "id": "stash",
+      "org": "barksdale",
+      "title": "Stash & runners",
+      "description": "Hold the package and bring resupply to the crews. Only named in dialogue: Moe Man holds the re-up \"up top\" (ep 1, ep 10) and Mace carries a smaller stash (ep 1).",
+      "members": [],
+      "startMembers": [],
+      "endMembers": []
+    },
+    {
+      "id": "dealers",
+      "org": "barksdale",
+      "title": "Hand-to-hand",
+      "description": "Sell the package under brand names Stringer keeps changing because the product is weak (\"Death Grip\" in ep 5, \"bin Laden\" then \"WMD\" in ep 9). Puddin' is Bodie's second, handling the count and the resupply.",
+      "members": [
+        "puddin"
+      ],
+      "startMembers": [
+        "puddin"
+      ],
+      "endMembers": [
+        "puddin"
+      ]
+    },
+    {
+      "id": "crewchief",
+      "org": "barksdale",
+      "title": "Crew chiefs",
+      "description": "Bodie runs a tower crew and Poot runs the Pit. From ep 10, Cheese's East Side crew works three of the six towers (734, 770, 221) alongside them under the Stringer–Joe deal.",
+      "members": [
+        "bodie",
+        "poot"
+      ],
+      "startMembers": [
+        "bodie",
+        "poot"
+      ],
+      "endMembers": [
+        "bodie",
+        "poot"
+      ]
+    },
+    {
+      "id": "cuthouse",
+      "org": "barksdale",
+      "newTier": true,
+      "title": "Cut house",
+      "description": "Proposed new tier. Cherry dilutes and packages the product for Stringer; he reports directly to Stringer rather than to a crew chief.",
+      "members": [
+        "cherry"
+      ],
+      "startMembers": [],
+      "endMembers": [
+        "cherry"
+      ]
+    },
+    {
+      "id": "soldiers",
+      "org": "barksdale",
+      "title": "Soldiers",
+      "description": "Muscle used for surveillance, security and protection: Country and Tank tail Bodie and Shamrock, Country tails Tilghman with Shamrock, Rico guards the funeral home, Perry guards Stringer. Stringer complains he has no real muscle left (\"I don't got Wee-Bey, Stinkum, Bird\", ep 9). Lamar serves under the contract enforcer Mouzone in eps 10-12.",
+      "members": [
+        "country",
+        "tank",
+        "rico",
+        "perry",
+        "lamar"
+      ],
+      "startMembers": [
+        "country",
+        "tank",
+        "rico",
+        "perry"
+      ],
+      "endMembers": [
+        "country",
+        "tank",
+        "rico",
+        "perry"
+      ]
+    },
+    {
+      "id": "enforcer",
+      "org": "barksdale",
+      "title": "Chief enforcer",
+      "description": "Vacant at the start: Wee-Bey is serving life, Stinkum is dead and Bird is on trial. Avon fills the gap with outside talent, Brother Mouzone from New York, on retainer (eps 9-11). After Omar shoots him, Mouzone ends the arrangement and the post is empty again.",
+      "members": [
+        "mouzone"
+      ],
+      "startMembers": [],
+      "endMembers": []
+    },
+    {
+      "id": "lieutenant",
+      "org": "barksdale",
+      "newTier": true,
+      "title": "Lieutenant",
+      "description": "Proposed new tier. Shamrock is Stringer's right hand outside: he goes on the test runs, tails the guard, watches the towers and drives the gun disposal. Summaries describe him as Stringer's new second in command; on screen he is simply always at Stringer's side.",
+      "members": [
+        "shamrock"
+      ],
+      "startMembers": [
+        "shamrock"
+      ],
+      "endMembers": [
+        "shamrock"
+      ]
+    },
+    {
+      "id": "second",
+      "org": "barksdale",
+      "title": "Second-in-command",
+      "description": "Stringer runs the organization day to day from a funeral home while Avon is in prison. He reports to Avon on prison visits, but this season also acts behind Avon's back (the D.C. contract in ep 6, the Prop Joe deal in ep 9, the lie to Omar in ep 11).",
+      "members": [
+        "stringer"
+      ],
+      "startMembers": [
+        "stringer"
+      ],
+      "endMembers": [
+        "stringer"
+      ]
+    },
+    {
+      "id": "kingpin",
+      "org": "barksdale",
+      "title": "Kingpin",
+      "description": "Avon is in prison all season and the show still presents him as the boss: he chooses the new supplier (ep 2), orders the set-up of Tilghman (ep 3, \"Avon's call\"), vetoes the Prop Joe deal (eps 7 and 9) and hires Mouzone (ep 9). In ep 12 he delegates: \"You run it as you see fit. At least until I get home.\"",
+      "members": [
+        "avon"
+      ],
+      "startMembers": [
+        "avon"
+      ],
+      "endMembers": [
+        "avon"
+      ]
+    },
+    {
+      "id": "eastside_crew",
+      "org": "eastside",
+      "title": "East Side crew chief",
+      "description": "Cheese runs Prop Joe's crews on the street, collecting debts and, from ep 10, working three Barksdale towers until Mouzone drives him out.",
+      "members": [
+        "cheese"
+      ],
+      "startMembers": [],
+      "endMembers": [
+        "cheese"
+      ]
+    },
+    {
+      "id": "eastside_boss",
+      "org": "eastside",
+      "title": "East Side boss",
+      "description": "Prop Joe runs the East Side from his appliance shop. He gets his product through the Greeks (via Sergei and Vondas) and, from ep 9, supplies the Barksdale towers through Stringer.",
+      "members": [
+        "propjoe"
+      ],
+      "startMembers": [
+        "propjoe"
+      ],
+      "endMembers": [
+        "propjoe"
+      ]
+    }
+  ],
+  "howMovementWorks": [
+    "Prison does not end the chain of command. Avon gives orders through Stringer's and Brianna's visits (eps 1, 2, 5, 7, 9, 12), and inside he can arrange deaths and trade information for time: the Tilghman set-up (eps 2-4) moves his first parole hearing forward 12 months.",
+    "Stringer tests loyalty before trusting people: he has Tank and Country tail Bodie and Shamrock on the Philadelphia run and questions them separately (ep 1).",
+    "S1's arrests left vacancies that teenagers fill: Bodie runs a tower crew with Puddin' as his second, and Poot runs the Pit (eps 1, 5).",
+    "Supply decides who has power. The New York connection drops the Barksdales (ep 1), the Atlanta product is weak (eps 4-5) and rebranding does not fix it (eps 5, 9), so Stringer trades territory for product: Prop Joe's crew gets towers 734, 770 and 221 (eps 9-10).",
+    "With no muscle left inside the organization, Avon hires from outside rather than promoting: Brother Mouzone works on retainer (ep 9) and leaves when he is shot (eps 11-12), leaving the enforcer post empty again.",
+    "Violence that hurts business is punished: Bodie's turf war ends with a nine-year-old killed by a stray bullet and police sweeps; Stringer berates him, and Bodie is questioned but released (ep 9).",
+    "Leaving the family is dangerous. D'Angelo cuts himself off from Avon (eps 4, 6) and is strangled in the prison library the same episode Stringer pays a D.C. contact for a prison killing (ep 6); everyone in the organization treats it as suicide (ep 7).",
+    "Out by conviction: Bird is convicted of Gant's murder on Omar's testimony (ep 6). Tilghman, the outsider who crossed Avon, is arrested and charged (ep 4).",
+    "By the finale Stringer has more room: Avon accepts the Prop Joe partnership and tells him to run it as he sees fit until Avon gets home (ep 12).",
+    "On the East Side, Cheese moves into the towers when Joe gets them (ep 10) and is pushed out by Mouzone the same episode; Joe answers with a deal, not a war, by having Butchie set up the Stringer–Omar meeting (eps 10-11)."
+  ],
+  "newRelationshipTypes": [
+    {
+      "type": "setup",
+      "meaning": "Source deliberately frames or manipulates the target into harm (a frame-up, or false information meant to provoke). Used here as 'conflict'.",
+      "examples": [
+        {
+          "source": "avon",
+          "target": "tilghman"
+        },
+        {
+          "source": "stringer",
+          "target": "omar"
+        },
+        {
+          "source": "stringer",
+          "target": "mouzone"
+        }
+      ]
+    },
+    {
+      "type": "contract",
+      "meaning": "Source is paid by the target for a specific job outside the regular chain: a hired gun, a contract killing, or a paid favor. Used here as 'command' or 'business'.",
+      "examples": [
+        {
+          "source": "mouzone",
+          "target": "avon"
+        },
+        {
+          "source": "leech",
+          "target": "stringer"
+        },
+        {
+          "source": "butchie",
+          "target": "stringer"
+        }
+      ]
+    },
+    {
+      "type": "supplies",
+      "meaning": "Source supplies drugs to the target; makes the supply chain readable (the Greeks to Joe to the Barksdale towers). Used here as 'business'.",
+      "examples": [
+        {
+          "source": "propjoe",
+          "target": "stringer"
+        },
+        {
+          "source": "vargas",
+          "target": "stringer"
+        },
+        {
+          "source": "butchie",
+          "target": "tilghman"
+        },
+        {
+          "source": "roberto",
+          "target": "avon"
+        }
+      ]
+    }
+  ],
+  "uncertainties": [
+    "D'ANGELO'S DEATH (ep 6, 'All Prologue'): Season 2 shows (a) Stringer giving an envelope of cash to a man from Washington, D.C. for 'this kind of work', telling him to get what he needs himself because 'I can't go through my people'; the man promises 'Nothing that might come back on you' and says 'My cousin up in there - he on it'. The target is never named in this scene. (b) Later in the same episode an inmate in the prison library asks D'Angelo for a newspaper, follows him into the back room, strangles him with a strap from behind, ties it to a doorknob and arranges the body to look like a hanging, then leaves undetected. No Season 2 character says it was murder or who arranged it: Avon, Wee-Bey, Bodie and Brianna all treat it as suicide (ep 7), and Stringer tells Avon 'It ain't on you. I would tell you if it was.' So the hiring is shown and the link to D'Angelo is implied only by the editing. I did NOT add a Stringer -> D'Angelo 'ordered/killed' edge; the data has stringer->leech (business, 'target not named') and mugs->dangelo (killed). The names 'Leech' and 'Mugs' come only from the uncredited cast lists (Wikipedia, fandom), not from dialogue, and dialogue does not confirm that Mugs is Leech's cousin. Recommend labels that describe only what is on screen.",
+    "Leech is also listed (uncredited) in ep 7; fandom says Stringer delivers the rest of the cash then. I could not confirm this from the dialogue.",
+    "Who planted the drugs in Tilghman's car (ep 4): fandom says Shamrock. On screen, Levy tells investigators that a search of Tilghman's 'vehicle, locker and person' will turn up evidence, and as the charges are announced on TV Shamrock tells Stringer 'Yo, String, I was subtle with that.' That implies Shamrock without saying it outright.",
+    "Poisoned drug: dialogue says 'tainted heroin' cut with rat poison (toxicology: strychnine); 'five in one night, and eight more in the infirmary'. The fandom ep 3 summary says cocaine, which is wrong.",
+    "Prison name: dialogue says 'MCI' (Levy) and 'the Cut' (Bodie, Bird). Fandom variously says MCI-Jessup or Maryland House of Correction. I used 'state prison' without a name.",
+    "Avon's deal: dialogue says his first parole hearing was due at 28 months; Levy asked for one year, and the state agreed to move the hearing forward 12 months and credit him with cooperation (ep 4). Fandom's claim that he 'is due to be out within a year' is not stated as fact; Avon only says 'until I get home' (ep 12).",
+    "Cheese and Prop Joe: summaries call Cheese Joe's nephew, but Season 2 dialogue I checked only has Joe calling him 'my boy Cheese' and Bubbles saying Cheese 'runs with Proposition Joe's mob'. I left out a family tie. Cheese's full name (Melvin Wagstaff) is not stated in Season 2.",
+    "Wounds: Cheese is shot with rat shot; he says 'Shoulder do hurt' (ep 10), while fandom says arm. Mouzone is shot at his motel door; fandom says abdomen, and Omar says the bullet 'bore clean through' to his back (ep 11). Mouzone is hospitalized (ep 12) and has 'booked out' of Baltimore by Avon's scene in ep 12.",
+    "Lamar's status at the end: not shown. I assumed he leaves with Mouzone (statusEnd 'gone', ep 12). Sources disagree on who knocks him out (Omar, or 'Omar's associates').",
+    "T.T. (ep 9): the name comes from his grandmother/mother calling 'T.T.' just before; cast lists say 'young boy' (Luke Montgomery III). The shot that killed him is not attributed to either side, so there is no 'killed' edge. Summaries call the rivals an 'independent crew'.",
+    "Poot reporting to Bodie: fandom says Poot runs the Pit and reports to Bodie. On screen Puddin' fetches Bodie when the Pit dealers beat an addict (ep 5), and Bodie and Poot act together (ep 8). I treated it as plausible, not confirmed.",
+    "Shamrock: credits give 'Sean' (Wikipedia) or 'Shaun' (fandom) McGinty. The surname is not spoken, so full = null. The actor is Richard Burton (not the Welsh actor).",
+    "Tilghman's first name 'Dwight' is from the credits only. Kevin Reynolds' name and agency are from the cast lists: Wikipedia has 'Officer Kevin Reynolds', fandom has a Maryland State Police homicide detective. His exact role on screen is unverified; drop him if needed.",
+    "Rico, Perry and Cherry: fandom says each appeared in Season 1 (e.g. 'Game Day'), but they are not in data/s1.js, so they get new ids with returning: true.",
+    "Registry characters NOT on screen in Season 2 (not seen and not named in dialogue): savino, sterling, cass, ronniemo, kevin, browning, walon. Roberto is named only (eps 1-2, full name 'Roberto Castellano y Silva' given by the Dominicans' lawyer), never seen; actor null. Dead characters mentioned: Brandon (eps 11-12), Stinkum (eps 9, 11), Gant (the trial).",
+    "Roberto's status: the lawyer says he 'has been targeted by the DEA' (ep 1). Wikipedia and fandom say he was arrested. I used 'gone' (out of the Barksdales' supply chain).",
+    "Vargas: subtitles spell it 'Vargus', Wikipedia 'Vargas'. Named only, never seen.",
+    "Named in passing and left out as characters: Moe Man and Mace (stash, eps 1 and 10), Butchie's nephew 'Heywood/Hayward' (security at the sit-down, ep 11), Mr. Lucas (Stringer's economics teacher, ep 5; actor unverified), Petey Dixon (East Side dealer named in eps 5 and 8), Tyrell (D'Angelo and Donette's infant son; uncredited, name not confirmed in dialogue).",
+    "Cross-domain references in relationships: mcnulty, kima, cole, norris, sergei, vondas, nick, ziggy. Records for nathan, phelan and santangelo are included only because they matter to this domain; prefer another agent's records if they exist.",
+    "Faction proposals: 'eastside' for propjoe and cheese (Season 1 had propjoe in 'street'/East Side); 'prison' for tilghman, reynolds and mugs; Mouzone and Lamar are put in 'barksdale' as hired muscle.",
+    "Not on screen in some episodes despite credits: Avon is absent from eps 8-11 and Stringer from ep 8. Episode lists come from fandom appearance tables.",
+    "Omar's testimony: he tells McNulty 'You really askin'?' when asked if he saw Bird shoot Gant, and Stringer says the word on the street is that Omar wasn't there (ep 6). The perjury is implied, not confirmed.",
+    "Other Season 2 street events in police domains, no edges added: Colvin's Western District sweep of the Pit after the boy's death (ep 9), and Shardene helping Kima with the strip clubs (ep 6)."
+  ],
+  "sources": [
+    "https://thewire.fandom.com/wiki/Ebb_Tide (and Collateral_Damage, Hot_Shots, Hard_Cases, Undertow, All_Prologue, Backwash, Duck_and_Cover, Stray_Rounds, Storm_Warnings, Bad_Dreams, Port_in_a_Storm) via api.php?action=parse&prop=wikitext",
+    "https://thewire.fandom.com/wiki/Season_2 (appearance tables)",
+    "https://thewire.fandom.com/wiki/Avon_Barksdale, Russell_Bell, D'Angelo_Barksdale, Roland_Brice, Marquis_Hilton, Preston_Broadus, Malik_Carr, Herbert_De'Rodd_Johnson, Brianna_Barksdale, Donette, Maurice_Levy, Omar_Little, Joseph_Stewart, Melvin_Wagstaff, Reginald_Cousins, Johnny_Weeks, Brother_Mouzone, Lamar, Shaun_McGinty, Dwight_Tilghman, Butchie, Dante, Kimmy, Tosha_Mitchell, Country, Tank, Rico, Perry, Cherry, Kevin_Reynolds, Mugs, Leech, Ilene_Nathan (via API)",
+    "https://en.wikipedia.org/wiki/Ebb_Tide_(The_Wire), Collateral_Damage_(The_Wire), Hot_Shots_(The_Wire), Hard_Cases, Undertow_(The_Wire), All_Prologue, Backwash_(The_Wire), Duck_and_Cover_(The_Wire), Stray_Rounds, Storm_Warnings_(The_Wire), Bad_Dreams_(The_Wire), Port_in_a_Storm (plots and cast lists)",
+    "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=the-wire&episode=s02e01 through s02e12 (subtitle transcripts; used to verify dialogue: the D.C. contract scene, 'Avon's call', the parole terms, the tower numbers, 'absolved', 'I was subtle with that')",
+    "http://sepinwall.blogspot.com/2009/07/wire-season-2-episode-6-all-prologue.html (review; used only to cross-check the ep 6 scene description; it contains later-season spoilers that were not used)",
+    "data/s1.js (Season 1 ids, full names and end-of-season roles for continuity)"
+  ]
+}

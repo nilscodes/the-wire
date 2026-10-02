@@ -1,0 +1,442 @@
+{
+  "characters": [
+    {
+      "id": "greek",
+      "name": "The Greek",
+      "alias": null,
+      "full": null,
+      "actor": "Bill Raymond",
+      "faction": "greeks",
+      "unit": "Leadership",
+      "returning": false,
+      "roleStart": "Head of an international smuggling organization; known only as the Greek",
+      "roleEnd": "Leaves Baltimore by plane with Vondas; the police never learn his name",
+      "reportsTo": null,
+      "statusEnd": "fugitive",
+      "statusEp": 12,
+      "firstEp": 1,
+      "bio": "A quiet older man who runs drugs, stolen goods and trafficked women through the port from a small diner, dealing mostly through Vondas. He questions the crewman behind the container deaths himself, and when an FBI contact warns him that the investigation has spread, he shuts the operation down. Frank Sobotka is killed after going to meet him, and the Greek leaves town, telling Vondas he is 'not even Greek'.",
+      "keyMoments": [
+        { "ep": 2, "text": "Questions Sam, the crewman behind the container deaths, in Greek; after Vondas cuts Sam's throat he tells Sergei to leave the body with no fingerprints and no face." },
+        { "ep": 8, "text": "Meets Frank and Nick for the first time this season and agrees to keep paying them to move clean containers while the police watch." },
+        { "ep": 9, "text": "Hands a Colombian cocaine shipment to his FBI contact Koutris to settle a debt; on hearing the FBI asked about San Diego, says 'San Diego was a long time ago.'" },
+        { "ep": 11, "text": "Tells Vondas there is 'only one sure way' to silence the Sobotkas; when Koutris calls to say Frank has agreed to cooperate, he tells Vondas 'Your way, it won't work.'" },
+        { "ep": 12, "text": "Decides to leave Nick alone and abandon a drug shipment on the docks, then flies out of Baltimore with Vondas before the detail reaches his hotel." }
+      ],
+      "careerMoves": [
+        { "ep": 12, "from": "Head of the Greek organization in Baltimore", "to": "Gone from Baltimore", "kind": "exit", "text": "Shuts down the Baltimore operation and leaves by plane with Vondas just ahead of a police raid." }
+      ]
+    },
+    {
+      "id": "vondas",
+      "name": "Spiros Vondopoulos",
+      "alias": "Vondas",
+      "full": null,
+      "actor": "Paul Ben-Victor",
+      "faction": "greeks",
+      "unit": "Leadership",
+      "returning": false,
+      "roleStart": "The Greek's second; runs the smuggling and drug business day to day",
+      "roleEnd": "Leaves Baltimore with the Greek after the operation is exposed",
+      "reportsTo": "greek",
+      "statusEnd": "fugitive",
+      "statusEp": 12,
+      "firstEp": 1,
+      "bio": "The Greek's second and the face of the organization for Frank and Nick Sobotka, Eton, Sergei and Glekas. Calm and careful about surveillance, he cuts the throat of the crewman who caused the container deaths and keeps Frank moving containers with ever higher fees. When the detail closes in he strips the warehouse, dumps the phones, tries to buy the Sobotkas' loyalty through Nick, and leaves with the Greek, admitting his name is not his real name.",
+      "keyMoments": [
+        { "ep": 2, "text": "Cuts the throat of Sam, the Atlantic Light crewman, after the Greek questions him." },
+        { "ep": 5, "text": "Doubles and then triples Frank's fee per container to keep the smuggling going, and asks Nick to steal chemicals that turn out to be for processing cocaine." },
+        { "ep": 6, "text": "Introduces Nick to Eton and offers to pay for the chemicals in heroin; sends Sergei to settle Ziggy's debt with Prop Joe." },
+        { "ep": 10, "text": "After Ziggy kills Glekas, orders the store and warehouse cleaned out; he and Eton throw away their phones." },
+        { "ep": 12, "text": "Tells Prop Joe that new people will find him within a week, then flies out with the Greek." }
+      ],
+      "careerMoves": [
+        { "ep": 12, "from": "The Greek's second", "to": "Gone from Baltimore", "kind": "exit", "text": "Leaves Baltimore with the Greek; the detail had left him free hoping he would lead them to his boss." }
+      ]
+    },
+    {
+      "id": "sergei",
+      "name": "Sergei Malatov",
+      "alias": "Serge",
+      "full": null,
+      "actor": "Chris Ashworth",
+      "faction": "greeks",
+      "unit": "Muscle",
+      "returning": false,
+      "roleStart": "Driver and muscle; trucks containers from the port to the warehouse",
+      "roleEnd": "In custody; names Vondas as the crewman's killer and leads police to the Greek's hotel",
+      "reportsTo": "vondas",
+      "statusEnd": "cooperating",
+      "statusEp": 12,
+      "firstEp": 1,
+      "bio": "A Ukrainian from Kyiv who hates being called Boris. He drives the containers off the docks and does the organization's rough work. He tracks down the crewman Sam in Philadelphia and backs Nick against Cheese's crew. Arrested in the warrant sweep, he holds out until security tapes put him at the abduction, then names Vondas as Sam's killer and shows the police where the Greek meets.",
+      "keyMoments": [
+        { "ep": 1, "text": "Leaves the container of women sitting on the dock when the crewman fails to signal, then drives off." },
+        { "ep": 2, "text": "Uses fake Coast Guard ID to snatch the crewman Sam in Philadelphia and beats him before the Greek arrives." },
+        { "ep": 6, "text": "His men draw guns on Cheese's crew; he then gets Prop Joe to pay Ziggy for his burned car." },
+        { "ep": 11, "text": "Arrested at home by Fitzhugh and McNulty; refuses to give even his name." },
+        { "ep": 12, "text": "Faced with the Philadelphia security tapes and a possible death sentence, says 'Vondas did. He cut his throat,' and leads the police to the Greek's hotel." }
+      ],
+      "careerMoves": [
+        { "ep": 11, "from": "Driver and muscle", "to": "In custody", "kind": "arrest", "text": "Arrested in the detail's warrant sweep." }
+      ]
+    },
+    {
+      "id": "eton",
+      "name": "Eton Ben-Eleazer",
+      "alias": null,
+      "full": null,
+      "actor": "Lev Gorn",
+      "faction": "greeks",
+      "unit": "Narcotics",
+      "returning": false,
+      "roleStart": "Israeli lieutenant who runs the organization's drug sales",
+      "roleEnd": "Arrested; on trial in the closing montage",
+      "reportsTo": "vondas",
+      "statusEnd": "arrested",
+      "statusEp": 11,
+      "firstEp": 6,
+      "bio": "The organization's drug lieutenant, an Israeli, who sells the Greeks' heroin wholesale to East Side dealers such as Prop Joe and White Mike. He pays Nick partly in heroin for the stolen chemicals and complains to Vondas about Colombian buyers who paid only half. He destroys evidence with Sergei after Glekas's death, is arrested with weapons in his home, and is prosecuted by Pearlman.",
+      "keyMoments": [
+        { "ep": 6, "text": "Vondas introduces him to Nick ('Eton is my friend'); he can pay for the chemicals in wholesale heroin." },
+        { "ep": 9, "text": "Tells Vondas the Colombians paid $200,000 of the $400,000 they owe for the chemicals." },
+        { "ep": 10, "text": "Destroys evidence with Sergei as the detail prepares its warrants." },
+        { "ep": 11, "text": "Arrested; weapons are found in his home and he will not give Herc and Carver his name." }
+      ],
+      "careerMoves": [
+        { "ep": 11, "from": "Drug lieutenant", "to": "In custody", "kind": "arrest", "text": "Arrested in the warrant sweep; Pearlman prosecutes him in the closing montage." }
+      ]
+    },
+    {
+      "id": "glekas",
+      "name": "George Glekas",
+      "alias": "Double G",
+      "full": null,
+      "actor": "Teddy Cañez",
+      "faction": "greeks",
+      "unit": "Fences",
+      "returning": false,
+      "roleStart": "Fence for stolen goods off the docks; runs an appliance store in Highlandtown",
+      "roleEnd": "Shot dead by Ziggy Sobotka in his store",
+      "reportsTo": "vondas",
+      "statusEnd": "dead",
+      "statusEp": 10,
+      "firstEp": 1,
+      "bio": "The organization's fence, who runs an appliance store in Highlandtown and checks big deals with Vondas. He buys stolen cameras from Nick and Ziggy, asks them for drug-processing chemicals, and agrees to buy stolen cars from Ziggy. When he pays Ziggy less than agreed and throws him out, Ziggy comes back with a gun and kills him.",
+      "keyMoments": [
+        { "ep": 3, "text": "Buys 400 stolen digital cameras from Nick and Ziggy and clears the deal with Vondas, calling Nick smart and Ziggy an idiot." },
+        { "ep": 4, "text": "Asks the cousins for tons of acetone, sulfuric acid and potassium permanganate." },
+        { "ep": 9, "text": "Agrees to buy stolen cars from Ziggy." },
+        { "ep": 10, "text": "Pays Ziggy less than agreed and mocks him; Ziggy shoots him dead and wounds a young clerk." }
+      ],
+      "careerMoves": [
+        { "ep": 10, "from": "Fence", "to": "Dead", "kind": "death", "text": "Shot dead by Ziggy Sobotka in an argument over payment for stolen cars." }
+      ]
+    },
+    {
+      "id": "koutris",
+      "name": "Kristos Koutris",
+      "alias": null,
+      "full": null,
+      "actor": "Tom Mardirosian",
+      "faction": "police",
+      "unit": "FBI counterterrorism",
+      "returning": false,
+      "roleStart": "FBI counterterrorism agent in Washington who secretly feeds the Greek information",
+      "roleEnd": "Still with FBI counterterrorism; Fitzhugh privately works out that he was the leak",
+      "reportsTo": null,
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 9,
+      "bio": "An FBI agent, working counterterrorism in Washington, who is the Greek's 'friend in Washington'. When Fitzhugh asks about Glekas, Koutris plays him down and warns the Greek. In return the Greek gives him a Colombian cocaine shipment to seize. He later tells the Greek that the FBI has joined the case and that Frank Sobotka has agreed to cooperate. Fitzhugh realizes the leak came from FBI counterterrorism, but nothing is done about it on screen.",
+      "keyMoments": [
+        { "ep": 9, "text": "Takes Fitzhugh's call about Glekas and downplays him; the Greek then hears that the FBI has been asking about San Diego." },
+        { "ep": 9, "text": "Seizes a Colombian cocaine shipment that the Greek tipped him to." },
+        { "ep": 10, "text": "Warns the Greek that the FBI is involved and the detail has wiretaps on several phones and addresses." },
+        { "ep": 11, "text": "Tips off the Greek that Frank has agreed to cooperate, as Frank arrives for his meeting." },
+        { "ep": 12, "text": "Fitzhugh learns Koutris left the San Diego field office more than a year ago for counterterrorism at FBI headquarters." }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "ilona",
+      "name": "Ilona Petrovna",
+      "alias": null,
+      "full": null,
+      "actor": "Gordana Rashovich",
+      "faction": "greeks",
+      "unit": "Brothels",
+      "returning": false,
+      "roleStart": "Madam of a brothel of trafficked Eastern European women",
+      "roleEnd": "Arrested again in the warrant sweep; tells the police nothing",
+      "reportsTo": null,
+      "statusEnd": "arrested",
+      "statusEp": 11,
+      "firstEp": 9,
+      "bio": "The madam who keeps Eastern European women in apartments leased to Pyramid Inc., the same company that holds the Greeks' warehouse. Her brothel is raided after McNulty goes in posing as a British customer. Because she has legal residency she is released on bail. She is arrested again in the warrant sweep and gives Greggs and Russell nothing but abuse.",
+      "keyMoments": [
+        { "ep": 9, "text": "Her brothel is raided after McNulty's undercover visit; immigration holds the women and she is freed on bail." },
+        { "ep": 11, "text": "Arrested again with the Greeks' other associates; refuses to talk." }
+      ],
+      "careerMoves": [
+        { "ep": 9, "from": "Madam", "to": "In custody", "kind": "arrest", "text": "Arrested in the brothel raid." },
+        { "ep": 9, "from": "In custody", "to": "Madam, out on bail", "kind": "release", "text": "Released after posting bail; she has legal residency." },
+        { "ep": 11, "from": "Madam, out on bail", "to": "In custody", "kind": "arrest", "text": "Arrested again in the detail's warrant sweep." }
+      ]
+    },
+    {
+      "id": "choksey",
+      "name": "Sam Choksey",
+      "alias": null,
+      "full": null,
+      "actor": "Gerard Ender",
+      "faction": "greeks",
+      "unit": "Ship's crew",
+      "returning": false,
+      "roleStart": "Crewman on the Atlantic Light, meant to watch over the women in the Greeks' container",
+      "roleEnd": "Killed by Vondas in Philadelphia",
+      "reportsTo": null,
+      "statusEnd": "dead",
+      "statusEp": 2,
+      "firstEp": 2,
+      "bio": "The Greeks' man aboard the freighter Atlantic Light, whom they call a Turk. He let the crew pay for sex with the women in the container. One woman was killed when she resisted, and the rest died in the sealed container, which Sergei later says Sam did to leave no witnesses. He jumps ship in Philadelphia, where Sergei catches him; he confesses to the Greek and Vondas cuts his throat.",
+      "keyMoments": [
+        { "ep": 2, "text": "Caught by Sergei after jumping ship in Philadelphia; tells the Greek the crew paid to use the women and one was killed when she fought; Vondas then cuts his throat." }
+      ],
+      "careerMoves": [
+        { "ep": 2, "from": "Crewman on the Atlantic Light", "to": "Dead", "kind": "death", "text": "Killed by Vondas after confessing to the Greek." }
+      ]
+    },
+    {
+      "id": "whitemike",
+      "name": "Michael McArdle",
+      "alias": "White Mike",
+      "full": null,
+      "actor": "Brook Yeaton",
+      "faction": "street",
+      "unit": "East Side",
+      "returning": false,
+      "roleStart": "Drug dealer who re-ups from the Greeks' warehouse",
+      "roleEnd": "Arrested; gives up Eton and Sergei in exchange for probation",
+      "reportsTo": null,
+      "statusEnd": "cooperating",
+      "statusEp": 11,
+      "firstEp": 2,
+      "bio": "A dealer who buys from the Greeks' warehouse on Newkirk Street. He has fronted Ziggy packages in the past but refuses him another after two failures. Vondas later passes Nick down to him as a small customer, and he sells Nick packages at a discount after Sergei vouches for Nick. Arrested in the sweep, he quickly gives up Eton and Sergei, but he knows nothing about anyone above them.",
+      "keyMoments": [
+        { "ep": 2, "text": "Refuses to front Ziggy another package after Ziggy botched his last two." },
+        { "ep": 9, "text": "Agrees to supply Nick at four a pack after Sergei vouches for him." },
+        { "ep": 11, "text": "Arrested; tells McNulty and Greggs that Eton runs the dope, Sergei is 'straight muscle' and Sergei's people killed Mau Mau Willis." }
+      ],
+      "careerMoves": [
+        { "ep": 11, "from": "Dealer supplied by the Greeks", "to": "In custody, cooperating", "kind": "arrest", "text": "Arrested in the warrant sweep and rolls on his suppliers." }
+      ]
+    },
+    {
+      "id": "frog",
+      "name": "Frog",
+      "alias": null,
+      "full": null,
+      "actor": "Gary \"D. Reign\" Senkus",
+      "faction": "street",
+      "unit": "Southeast",
+      "returning": false,
+      "roleStart": "Street dealer working Ziggy's packages",
+      "roleEnd": "Still dealing in Southeast Baltimore, now on packages from Nick",
+      "reportsTo": null,
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 5,
+      "bio": "A Southeast Baltimore street dealer at the bottom of the chain that runs from the Greeks through the Sobotka cousins. He comes up short on Ziggy's package, then takes packages from Nick. Herc and Carver try to bug his corner. In the closing montage his crew is still dealing.",
+      "keyMoments": [
+        { "ep": 5, "text": "Comes up short on Ziggy's package and claims his stash was stolen." },
+        { "ep": 7, "text": "Nick becomes his supplier; he tosses away the tennis ball that hides Herc and Carver's bug." }
+      ],
+      "careerMoves": []
+    }
+  ],
+  "relationships": [
+    { "source": "vondas", "target": "greek", "type": "command", "label": "Vondas is the Greek's second" },
+    { "source": "sergei", "target": "vondas", "type": "command", "label": "Sergei drives and does muscle work for Vondas" },
+    { "source": "glekas", "target": "vondas", "type": "command", "label": "Glekas fences for the Greeks and clears deals with Vondas", "ep": 3 },
+    { "source": "eton", "target": "vondas", "type": "command", "label": "Eton runs drug sales under Vondas", "ep": 6 },
+    { "source": "choksey", "target": "greek", "type": "business", "label": "Sam is the Greeks' man aboard the Atlantic Light", "ep": 2 },
+    { "source": "ilona", "target": "greek", "type": "business", "label": "Ilona's brothel uses apartments leased to the Greeks' front company", "ep": 9 },
+
+    { "source": "frank", "target": "greek", "type": "business", "label": "Frank's checkers move the Greek's containers for a fee per can" },
+    { "source": "frank", "target": "vondas", "type": "business", "label": "Vondas is Frank's contact and pays him per container" },
+    { "source": "nick", "target": "vondas", "type": "business", "label": "Nick carries Frank's container lists to Vondas" },
+    { "source": "nick", "target": "greek", "type": "business", "label": "Nick gets the Greek to keep paying for clean containers", "ep": 8 },
+    { "source": "nick", "target": "glekas", "type": "business", "label": "Glekas buys the cameras Nick and Ziggy steal", "ep": 3 },
+    { "source": "ziggy", "target": "glekas", "type": "business", "label": "Ziggy sells stolen cameras and cars to Glekas", "ep": 3 },
+    { "source": "nick", "target": "eton", "type": "business", "label": "Eton pays Nick for stolen chemicals partly in heroin", "ep": 6 },
+    { "source": "nick", "target": "sergei", "type": "business", "label": "Sergei handles Nick's drug re-ups", "ep": 8 },
+    { "source": "whitemike", "target": "nick", "type": "business", "label": "White Mike supplies Nick after Vondas passes Nick down to him", "ep": 9 },
+    { "source": "whitemike", "target": "eton", "type": "business", "label": "White Mike re-ups from Eton's warehouse", "ep": 8 },
+    { "source": "ziggy", "target": "whitemike", "type": "business", "label": "White Mike has fronted Ziggy packages but now refuses him", "ep": 2 },
+    { "source": "frog", "target": "ziggy", "type": "business", "label": "Frog works Ziggy's package and comes up short", "ep": 5 },
+    { "source": "frog", "target": "nick", "type": "business", "label": "Nick supplies Frog's corner", "ep": 7 },
+    { "source": "propjoe", "target": "sergei", "type": "friendship", "label": "Joe and Sergei are on friendly terms", "ep": 6 },
+    { "source": "propjoe", "target": "eton", "type": "business", "label": "Joe buys the Greeks' drugs by the kilo through Eton's warehouse", "ep": 8 },
+    { "source": "propjoe", "target": "vondas", "type": "business", "label": "Vondas promises Joe that new suppliers will find him within a week", "ep": 12 },
+    { "source": "propjoe", "target": "stringer", "type": "business", "label": "Joe and Stringer pool Joe's supply and the Barksdale towers", "ep": 9 },
+
+    { "source": "koutris", "target": "greek", "type": "informant", "label": "Koutris passes FBI information to the Greek", "ep": 9 },
+    { "source": "greek", "target": "koutris", "type": "informant", "label": "The Greek gives Koutris a Colombian cocaine shipment to seize", "ep": 9 },
+
+    { "source": "vondas", "target": "choksey", "type": "killed", "label": "Vondas cuts Sam's throat after the Greek questions him", "ep": 2 },
+    { "source": "ziggy", "target": "glekas", "type": "killed", "label": "Ziggy shoots Glekas dead in his store over the car money", "ep": 10 },
+    { "source": "sergei", "target": "choksey", "type": "conflict", "label": "Sergei hunts Sam down in Philadelphia and beats him", "ep": 2 },
+    { "source": "greek", "target": "choksey", "type": "conflict", "label": "The Greek questions Sam about the dead women", "ep": 2 },
+    { "source": "sergei", "target": "cheese", "type": "conflict", "label": "Sergei's men pull guns on Cheese's crew over Ziggy's debt", "ep": 6 },
+    { "source": "greek", "target": "frank", "type": "conflict", "label": "Frank is killed after going to meet the Greek and Vondas; the killer is not shown", "ep": 12 },
+
+    { "source": "whitemike", "target": "mcnulty", "type": "informant", "label": "White Mike gives McNulty and Greggs Eton and Sergei", "ep": 11 },
+    { "source": "sergei", "target": "daniels", "type": "informant", "label": "Sergei names Vondas as Sam's killer and leads the detail to the Greek's hotel", "ep": 12 },
+    { "source": "nick", "target": "daniels", "type": "informant", "label": "Nick gives up Vondas, Eton and Sergei and picks out the Greek's photo", "ep": 12 },
+
+    { "source": "daniels", "target": "vondas", "type": "investigates", "label": "The detail tracks Vondas, then leaves him free to lead them to his boss", "ep": 8 },
+    { "source": "daniels", "target": "greek", "type": "investigates", "label": "The detail hunts the man above Vondas", "ep": 11 },
+    { "source": "freamon", "target": "sergei", "type": "investigates", "label": "Freamon ties Sergei's truck and phone to the missing containers", "ep": 7 },
+    { "source": "bunk", "target": "choksey", "type": "investigates", "label": "Bunk and Freamon hunt the crewman who jumped ship", "ep": 3 },
+    { "source": "mcnulty", "target": "ilona", "type": "investigates", "label": "McNulty goes into the brothel posing as a customer", "ep": 9 },
+    { "source": "herc", "target": "frog", "type": "investigates", "label": "Herc and Carver try to bug Frog's corner", "ep": 7 },
+    { "source": "beadie", "target": "vondas", "type": "investigates", "label": "Beadie tails Vondas on foot to a hotel meeting", "ep": 11 },
+    { "source": "fitzhugh", "target": "glekas", "type": "investigates", "label": "Fitzhugh's records check on Glekas reaches Koutris", "ep": 9 },
+    { "source": "fitzhugh", "target": "koutris", "type": "investigates", "label": "Fitzhugh realizes Koutris was the leak", "ep": 12 },
+    { "source": "pearlman", "target": "eton", "type": "legal", "label": "Pearlman prosecutes Eton", "ep": 12 }
+  ],
+  "hierarchy": [
+    {
+      "id": "street",
+      "title": "Street retail",
+      "description": "Corner dealers selling packages that trace back to the Greeks through Nick Sobotka or White Mike. They never deal with the Greeks directly.",
+      "members": ["frog"]
+    },
+    {
+      "id": "contractors",
+      "title": "Port contractors",
+      "description": "Outsiders paid by the job, not members. Frank's union checkers 'lose' containers in the stacks for a fee per can and are told nothing about what is inside. Nick carries messages and lists, and later buys heroin. Ziggy freelances, selling stolen goods to Glekas. Sam, aboard the Atlantic Light, is supposed to watch over the women in transit.",
+      "members": ["frank", "horseface", "nick", "ziggy", "choksey"]
+    },
+    {
+      "id": "customers",
+      "title": "Wholesale buyers",
+      "description": "Independent dealers who buy the Greeks' heroin through Eton and the Newkirk Street warehouse. Prop Joe is the biggest and doubles his re-up to 12 kilos late in the season. White Mike is a smaller buyer, and Petey Dixon is named but never seen. Vondas tells Nick that the Greeks are 'wholesalers' and passes small buyers down the chain.",
+      "members": ["propjoe", "whitemike"]
+    },
+    {
+      "id": "fronts",
+      "title": "Fronts and specialists",
+      "description": "People running the businesses that turn cargo into money. Glekas fences stolen goods through his Highlandtown appliance store. Ilona runs a brothel of trafficked women in apartments leased to Pyramid Inc., the company that also holds the warehouse.",
+      "members": ["glekas", "ilona"]
+    },
+    {
+      "id": "lieutenants",
+      "title": "Lieutenants",
+      "description": "Vondas's two working hands. Sergei drives the containers off the docks and handles violence; he is the closest match to Season 1's enforcer rung. Eton runs drug sales and collections. Both are arrested in episode 11.",
+      "members": ["sergei", "eton"]
+    },
+    {
+      "id": "second",
+      "title": "Second",
+      "description": "Vondas runs the day-to-day business and is the only senior member most associates ever meet. He buffers the Greek, who in episode 5 refuses to meet Frank and has Vondas raise his fee instead.",
+      "members": ["vondas"]
+    },
+    {
+      "id": "kingpin",
+      "title": "The Greek",
+      "description": "The boss, known only as the Greek. He rarely shows himself, sits unnoticed in his own diner, and makes the big decisions himself: what happens to the crewman, the shutdown, Frank, and leaving.",
+      "members": ["greek"]
+    },
+    {
+      "id": "protection",
+      "title": "Law-enforcement source (outside the ladder)",
+      "description": "Not a rung. Koutris, an FBI counterterrorism agent, warns the Greek about the investigation and receives drug-seizure tips in return. Fitzhugh guesses the Greek or Vondas was an asset to the FBI's counterterrorism side.",
+      "members": ["koutris"]
+    }
+  ],
+  "howMovementWorks": [
+    "No one is promoted on screen. The organization changes through pay, demotion down the supply chain, arrest, death and flight.",
+    "Failure is fatal: Sam, the crewman blamed for the 14 dead women, is hunted down by Sergei and killed by Vondas in front of the Greek (ep 2).",
+    "Outsiders are kept loyal with money, not rank: Frank's fee per container is doubled and then tripled (ep 5), and in ep 8 the Greek agrees to keep paying for clean containers while police watch.",
+    "Nick moves from messenger to buyer when he takes part of the chemicals payment in Eton's heroin (ep 6). In ep 9 Vondas tells him small orders should not come to the 'wholesalers' and passes him down to White Mike.",
+    "Glekas is removed by an outsider, not by the Greeks: Ziggy kills him over car money (ep 10). Vondas has the store and warehouse stripped so the killing cannot be traced back to the organization.",
+    "Warned by Koutris that the FBI has joined the case (ep 10), the leadership dumps its phones, stops using the warehouse phone and meets in hotel rooms.",
+    "The warrant sweep (ep 11) takes out the middle layer: Eton, Sergei, Ilona and White Mike are arrested. The detail leaves Vondas free on purpose. The Greek expects his arrested men to 'stand for us'. White Mike talks at once; Sergei holds out until episode 12.",
+    "Frank agrees to cooperate (ep 11) and Koutris tips off the Greek as Frank arrives for a meeting under the Key Bridge. Frank's body is pulled from the harbor in episode 12, and the Greek's side admits they weighted it down. Who killed him is not shown.",
+    "The leadership escapes (ep 12): the Greek and Vondas decide Nick knows only aliases and leave him alone. They abandon a large drug shipment on the docks and fly out of Baltimore before the detail raids the hotel Sergei gave up.",
+    "The business carries on (ep 12): Vondas tells Prop Joe that 'new faces' will find him in about a week, and the closing montage shows Joe taking drugs from a truck that also unloads newly arrived women.",
+    "The leak stays in place: Fitzhugh learns Koutris is at FBI counterterrorism headquarters and privately tells Daniels the leak was not Daniels's people (ep 12)."
+  ],
+  "newRelationshipTypes": [
+    {
+      "type": "leak",
+      "meaning": "Source is a law-enforcement insider who secretly passes investigative information to the target (a criminal). Different from 'informant', where a criminal informs to police.",
+      "examples": [ { "source": "koutris", "target": "greek" } ]
+    },
+    {
+      "type": "supplies",
+      "meaning": "Source sells drugs or goods wholesale to the target for resale. Shows the distribution chain more clearly than 'business'.",
+      "examples": [
+        { "source": "eton", "target": "propjoe" },
+        { "source": "eton", "target": "whitemike" },
+        { "source": "whitemike", "target": "nick" },
+        { "source": "nick", "target": "frog" }
+      ]
+    }
+  ],
+  "uncertainties": [
+    "Frank Sobotka's killer is not shown. At the end of ep 11 Frank walks toward the Greek and Vondas under the Key Bridge just after Koutris's call, and the Greek tells Vondas 'Your way, it won't work.' In ep 12 his body is pulled from the harbor, and one of the pair says 'We weighted him down pretty good... Sergei would've done better.' The Greek's decision is implied, not explicit. Wikipedia and the fan wiki say Vondas killed him; that is not verified on screen, so no 'killed' edge was added.",
+    "Sam Choksey's killing: Vondas cuts his throat on screen right after the Greek promises Sam 'you're done, I give you my word'. No explicit order is given. Sergei later says 'He had to die.' The Greek explicitly orders only the disposal: no fingerprints, no face.",
+    "Container deaths: Sam says 'this one guy got rough with her' and that one woman died, then confirms the rest died to silence witnesses. Sergei (ep 12) says one woman was killed when she fought 'and this idiot kills the rest to make no witnesses'. The first woman's killer is never identified on screen; the fan wiki says Sam beat her, which conflicts with the dialogue. Count: 13 women in the container plus the harbor floater make 14 Jane Does.",
+    "Possible second missing crewman: in ep 3 the Atlantic Light's mate mentions two missing men and Osman's belongings left behind. Osman is never linked to the deaths on screen.",
+    "The madam's surname is spoken as 'Ilona Petrovna' in the ep 10 briefing, but Wikipedia and IMDb credit 'Ilona Petrovich'. Her superior in the organization is never shown. Her link to the Greeks comes from the Pyramid Inc. lease (ep 8) and from the detail listing her among the Greek targets (ep 10), so reportsTo is null.",
+    "Koutris's first name ('Kristos') comes from secondary sources. On screen and in the credits he is 'Agent Koutris', and one subtitle track renders Fitzhugh's request in ep 9 as 'Agent Ernest Koutris'.",
+    "The Greek's identity and nationality are never given. On screen: Vondas says 'Well, I'm Greek anyway' when Ziggy assumes he is the Greek (ep 1). The Greek speaks Greek with Sam and tells him he has 'nothing against the Turks... that's the old world' (ep 2). He says 'San Diego was a long time ago' (ep 9) and 'Of course, I'm not even Greek' (ep 12). No ethnicity should be inferred.",
+    "Vondas's real name is unknown: 'my name is not my name' (ep 12), 'many names, many passports' (ep 11), and Nick says 'these guys collect passports'. Secondary sources name specific passports and aliases (e.g. 'Kirko Skaddeng'); not verified, so they were left out. 'full' is null.",
+    "Where the Greek and Vondas go is not stated. They are seen at an airport in ep 12, and Daniels mentions interstate flight warrants. Wikipedia's episode summary says they leave the country and its Greek article says Chicago.",
+    "Mau Mau Willis: White Mike says 'Sergei and them did Mau Mau Willis' for 'welshing on the Jew' (Eton) in ep 11. This is hearsay, not shown, and Willis never appears, so no relationship was added. The fan wiki's claim that Eton took part is unverified.",
+    "Eton's first episode: he is first identified on screen in ep 6. Wikipedia lists an uncredited appearance in ep 5, which could not be confirmed.",
+    "Glekas's actor is credited as Ted Feldman in several episodes and as Teddy Cañez in ep 10 (the same person). Glekas's ownership of Pyramid Inc. comes only from the fan wiki. On screen, the warehouse is 'Pyramid Inc., 5605 Newkirk' (ep 7), the brothel apartments are leased to Pyramid Inc. (ep 8), and Glekas and Sergei both work the warehouse.",
+    "Wikipedia says Fitzhugh found Glekas's FBI file 'sealed' by Koutris (ep 9). The episode dialogue instead has Fitzhugh find a San Diego record, phone Koutris, and Koutris dismiss Glekas as a 'mope'. The dialogue version is used here.",
+    "Wikipedia says Frank stays 'defiant' about the tripled fee in ep 5. The dialogue shows him accepting it ('It's now or never... Tell him he's working the Wilhelmina').",
+    "Sergei's end status: arrested in ep 11 and talks in ep 12 under threat of a death-penalty charge. It is not stated whether he has a formal cooperation deal; 'cooperating' was used.",
+    "Omitted for lack of on-screen verification or weight: 'Dmitri' (the fan wiki lists an uncredited enforcer played by Eric Trosman in eps 11-12), 'Stefanos' (a man at the diner addressed by name in eps 3 and 10 and sent to fetch Eton), Petey Dixon (an East Side customer named but never seen), Stephen Rados (Vondas's D.C. lawyer, whom the detail briefly mistakes for the boss, ep 11), and Sergei's unnamed partner in the Philadelphia abduction.",
+    "Closing montage (ep 12): Prop Joe takes drugs from a truck that also unloads newly arrived women. The tie to the Greeks' new people is implied visually, not stated.",
+    "Relationship 'ep' values: ties visible from ep 1 that predate the season have no ep. Ties that probably predate the season but are first shown later (e.g. Eton to Vondas, Koutris to the Greek) use the first episode where they appear on screen."
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/The_Wire_season_2",
+    "https://en.wikipedia.org/wiki/The_Greek",
+    "https://en.wikipedia.org/wiki/Spiros_Vondas",
+    "https://en.wikipedia.org/wiki/Ebb_Tide_(The_Wire)",
+    "https://en.wikipedia.org/wiki/Collateral_Damage_(The_Wire)",
+    "https://en.wikipedia.org/wiki/Hot_Shots_(The_Wire)",
+    "https://en.wikipedia.org/wiki/Hard_Cases",
+    "https://en.wikipedia.org/wiki/Undertow_(The_Wire)",
+    "https://en.wikipedia.org/wiki/All_Prologue",
+    "https://en.wikipedia.org/wiki/Backwash_(The_Wire)",
+    "https://en.wikipedia.org/wiki/Duck_and_Cover_(The_Wire)",
+    "https://en.wikipedia.org/wiki/Stray_Rounds",
+    "https://en.wikipedia.org/wiki/Storm_Warnings",
+    "https://en.wikipedia.org/wiki/Bad_Dreams_(The_Wire)",
+    "https://en.wikipedia.org/wiki/Port_in_a_Storm",
+    "https://thewire.fandom.com/wiki/The_Greek",
+    "https://thewire.fandom.com/wiki/The_Greeks",
+    "https://thewire.fandom.com/wiki/Spiros_Vondas",
+    "https://thewire.fandom.com/wiki/Sergei_Malatov",
+    "https://thewire.fandom.com/wiki/Eton_Ben-Eleazer",
+    "https://thewire.fandom.com/wiki/George_Glekas",
+    "https://thewire.fandom.com/wiki/Kristos_Koutris",
+    "https://thewire.fandom.com/wiki/Ilona_Petrovna",
+    "https://thewire.fandom.com/wiki/Sam_Choksey",
+    "https://thewire.fandom.com/wiki/Mike_McArdle",
+    "https://thewire.fandom.com/wiki/Frog",
+    "https://thewire.fandom.com/wiki/Bad_Dreams",
+    "https://thewire.fandom.com/wiki/Port_in_a_Storm",
+    "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=the-wire&episode=s02e01 (episode dialogue transcripts s02e01 to s02e12, used to verify names and quotes)",
+    "https://www.imdb.com/title/tt0749423/characters/nm0711170/ (Gordana Rashovich credited as Ilona Petrovich)",
+    "https://m.imdb.com/title/tt0749428/characters/nm1563373/ (Teddy Cañez as George 'Double G' Glekas)"
+  ]
+}

@@ -1,0 +1,1554 @@
+{
+  "characters": [
+    {
+      "id": "frank",
+      "name": "Frank Sobotka",
+      "alias": null,
+      "full": "Francis Sobotka",
+      "actor": "Chris Bauer",
+      "faction": "union",
+      "unit": "Local 1514 officers",
+      "returning": false,
+      "roleStart": "Secretary-treasurer of IBS Local 1514, the checkers' local; quietly runs the Greek's smuggling through the port",
+      "roleEnd": "Murdered; re-elected secretary-treasurer after his death, and the local faces decertification",
+      "reportsTo": null,
+      "statusEnd": "dead",
+      "statusEp": 12,
+      "firstEp": 1,
+      "bio": "Secretary-treasurer of the checkers' local of the International Brotherhood of Stevedores. He takes the Greek's money per container and spends it on the union: lobbyists, campaign contributions and cash for members who cannot get work, all to get the C&D canal dredged and the grain pier rebuilt. A church-window feud with Major Valchek, the thirteen dead women in a Greek can and his son's and nephew's crimes bring the police and the FBI down on him; arrested, he agrees to cooperate, goes alone to meet the Greek to save Ziggy, and is found dead in the harbor the next morning.",
+      "keyMoments": [
+        {
+          "ep": 1,
+          "text": "Pays for a stained-glass window at St. Casimir's to win a meeting with a senator, taking the spot Valchek wanted for his own window. Has Horseface \"lose\" the Greek's can in the stacks; it turns out to hold thirteen dead women."
+        },
+        {
+          "ep": 2,
+          "text": "Confronts Vondas over the dead women. When Valchek's officers start ticketing and breath-testing his men, he tells Nick that if Valchek wants a war he has one, and helps load Valchek's stolen surveillance van into a container."
+        },
+        {
+          "ep": 7,
+          "text": "Leaves a seminar on automated terminals shaken, asks Nat for one more year as secretary-treasurer, pushes lobbyist DiBiago on the canal and brings cash to injured New Charles's family."
+        },
+        {
+          "ep": 11,
+          "text": "Arrested by the FBI at the union hall with Horseface while Valchek looks on; released at a detention hearing. Visits Ziggy in jail, hears from DiBiago that his votes are gone, and agrees to cooperate with the detail as long as he gives up no union men. Then goes alone to meet the Greek and Vondas under the Key Bridge after they promise help for Ziggy."
+        },
+        {
+          "ep": 12,
+          "text": "His body is pulled from the harbor in front of his men, stabbed with his throat cut. The members re-elect him anyway, defying federal warnings that the local will be decertified."
+        }
+      ],
+      "careerMoves": [
+        {
+          "ep": 11,
+          "from": "Secretary-treasurer, Local 1514",
+          "to": "Secretary-treasurer under federal charges",
+          "kind": "arrest",
+          "text": "Arrested by the FBI at the union hall, charged for now with customs violations; released after a detention hearing the same day."
+        },
+        {
+          "ep": 11,
+          "from": "Smuggler for the Greek",
+          "to": "Agreed to cooperate with the detail",
+          "kind": "exit",
+          "text": "Agrees to give up the Greek and the dead-girls case in return for probation for Nick and a safer jail for Ziggy, refusing to name union men; asked to come back with a lawyer the next day."
+        },
+        {
+          "ep": 12,
+          "from": "Secretary-treasurer",
+          "to": "Dead",
+          "kind": "death",
+          "text": "Body found in the harbor after his meeting with the Greek and Vondas; the killing itself is not shown."
+        },
+        {
+          "ep": 12,
+          "from": "Dead",
+          "to": "Re-elected secretary-treasurer after his death",
+          "kind": "restructure",
+          "text": "The members back the dead Frank rather than elect new officers, after the FBI warns the local will be decertified."
+        }
+      ]
+    },
+    {
+      "id": "nick",
+      "name": "Nick Sobotka",
+      "alias": "Nicky",
+      "full": "Nicholas Andrew Sobotka",
+      "actor": "Pablo Schreiber",
+      "faction": "union",
+      "unit": "Longshoremen (Local 47)",
+      "returning": false,
+      "roleStart": "Low-seniority longshoreman who carries container numbers between Frank and Vondas",
+      "roleEnd": "Cooperating witness in protective custody with Aimee and their daughter",
+      "reportsTo": "frank",
+      "statusEnd": "cooperating",
+      "statusEp": 12,
+      "firstEp": 1,
+      "bio": "Frank's nephew, a longshoreman too junior to get more than a day or two of work, who still lives in his parents' basement and wants a home for Aimee and their daughter. He is Frank's go-between with Vondas, then steps out on his own: stolen cameras, drug-making chemicals paid half in heroin, and a steady trade supplying the dealer Frog. After the raids and Frank's murder his father makes him turn himself in, and he gives the detail everything he knows about the Greeks.",
+      "keyMoments": [
+        {
+          "ep": 1,
+          "text": "Goes to see Vondas at the Greek's cafe for the next container number; works his first day in two weeks, as a lasher on Big Roy's crew."
+        },
+        {
+          "ep": 3,
+          "text": "With Ziggy and Johnny Fifty, steals a container of digital cameras and sells it to Glekas."
+        },
+        {
+          "ep": 6,
+          "text": "Asks Vondas for help with Cheese; Sergei backs him at a sit-down where Prop Joe settles Ziggy's debt. Delivers the chemicals and takes half the payment in heroin, keeping Ziggy away from the package."
+        },
+        {
+          "ep": 11,
+          "text": "Police raid his parents' house and find heroin and cash while he is away. Carries Vondas's offer of help for Ziggy to Frank."
+        },
+        {
+          "ep": 12,
+          "text": "After Frank's body is found, his father makes him surrender. He names Vondas, Eton and Sergei, picks the Greek out of a photo and goes into protective custody; the next day there is still no work for him at the docks."
+        }
+      ],
+      "careerMoves": [
+        {
+          "ep": 6,
+          "from": "Go-between for Frank",
+          "to": "Go-between and heroin supplier",
+          "kind": "promotion",
+          "text": "Takes half his payment for the chemicals in heroin and starts selling it himself."
+        },
+        {
+          "ep": 7,
+          "from": "Heroin supplier",
+          "to": "Supplier to Frog's corner",
+          "kind": "assignment",
+          "text": "Sets up the dealer Frog with packages and pays Ziggy a share."
+        },
+        {
+          "ep": 9,
+          "from": "Re-ups through Eton",
+          "to": "Re-ups through White Mike",
+          "kind": "restructure",
+          "text": "Vondas passes him down to White Mike for his small orders."
+        },
+        {
+          "ep": 11,
+          "from": "Longshoreman and heroin supplier",
+          "to": "Wanted on a drug warrant",
+          "kind": "arrest",
+          "text": "Detectives search his room and find heroin and cash; he avoids the raid and a warrant is issued."
+        },
+        {
+          "ep": 12,
+          "from": "Wanted",
+          "to": "Cooperating witness in protective custody",
+          "kind": "exit",
+          "text": "Turns himself in at the Southeastern District and cooperates under the deal Frank had arranged."
+        }
+      ]
+    },
+    {
+      "id": "ziggy",
+      "name": "Ziggy Sobotka",
+      "alias": "Ziggy",
+      "full": "Chester Karol Sobotka",
+      "actor": "James Ransone",
+      "faction": "union",
+      "unit": "Checkers (Local 1514)",
+      "returning": false,
+      "roleStart": "Low-seniority checker and small-time drug dealer, the butt of the bar's jokes",
+      "roleEnd": "Jailed for killing Glekas",
+      "reportsTo": "frank",
+      "statusEnd": "imprisoned",
+      "statusEp": 10,
+      "firstEp": 1,
+      "bio": "Frank's oldest son, a checker in his father's local who gets few days and keeps trying to prove himself with schemes that go wrong. He gets shorted by his dealer Frog, loses his car to Cheese and a fight to Maui, and resents Nick for running the heroin better than he did. When Glekas shorts him on a load of stolen cars and beats him, he shoots Glekas dead, wounds a young clerk and waits for the police.",
+      "keyMoments": [
+        {
+          "ep": 1,
+          "text": "Loses track of a container; Frank fires him on the spot, and the other men point out he isn't really fired because Frank is his father."
+        },
+        {
+          "ep": 5,
+          "text": "Cheese's crew beats him over an unpaid drug debt and takes his Camaro, then burns it."
+        },
+        {
+          "ep": 8,
+          "text": "Egged on by the stevedores, he fights Maui and is left stranded on top of a container. Buys a duck that drinks with him at the bar."
+        },
+        {
+          "ep": 10,
+          "text": "Glekas pays him 10 percent instead of the agreed price for stolen cars and throws him out. Ziggy comes back with a gun, kills Glekas, wounds a clerk, then signs a full confession for Sgt. Landsman."
+        },
+        {
+          "ep": 11,
+          "text": "Beaten in jail, he tells Frank the union and the canal always came before him."
+        }
+      ],
+      "careerMoves": [
+        {
+          "ep": 10,
+          "from": "Checker",
+          "to": "Jailed, charged with murder",
+          "kind": "arrest",
+          "text": "Arrested at the scene after shooting Glekas and a clerk; confesses."
+        }
+      ]
+    },
+    {
+      "id": "horseface",
+      "name": "Thomas Pakusa",
+      "alias": "Horseface",
+      "full": "Thomas Pakusa",
+      "actor": "Charley Scalies",
+      "faction": "union",
+      "unit": "Checkers (Local 1514)",
+      "returning": false,
+      "roleStart": "Veteran checker and Frank's old friend; the man who makes the Greek's containers disappear",
+      "roleEnd": "Arrested by the FBI and awaiting indictment",
+      "reportsTo": "frank",
+      "statusEnd": "arrested",
+      "statusEp": 11,
+      "firstEp": 1,
+      "bio": "A senior checker and Frank's loyal friend. Frank makes sure he is the checker on ships carrying the Greek's cans, and he \"loses\" them in the stacks and the port computer so Sergei can drive them out. He steals Valchek's surveillance van in the union's feud with the major, stonewalls the detectives and the grand jury, and is arrested alongside Frank.",
+      "keyMoments": [
+        {
+          "ep": 1,
+          "text": "On Frank's order, \"loses\" the Greek's container in the stacks after Sergei leaves it sitting on the dock."
+        },
+        {
+          "ep": 2,
+          "text": "Steals a surveillance van from Valchek's district lot; Frank, Nick and La La help him load it into a container bound overseas."
+        },
+        {
+          "ep": 4,
+          "text": "Refuses to go downtown with Bunk and Freamon unless arrested, asking for his shop steward and an IBS lawyer."
+        },
+        {
+          "ep": 7,
+          "text": "Freamon and Beadie watch on the cloned port computer as he drops a container out of the system."
+        },
+        {
+          "ep": 11,
+          "text": "Arrested with Frank when the FBI raids the union hall."
+        }
+      ],
+      "careerMoves": [
+        {
+          "ep": 11,
+          "from": "Checker",
+          "to": "Arrested; indictment pending",
+          "kind": "arrest",
+          "text": "Arrested in the FBI raid on the union hall; in the finale the FBI refers to his pending indictment and he is shown in court."
+        }
+      ]
+    },
+    {
+      "id": "coxson",
+      "name": "Nat Coxson",
+      "alias": null,
+      "full": null,
+      "actor": "Luray Cooper",
+      "faction": "union",
+      "unit": "Local 47 officers",
+      "returning": false,
+      "roleStart": "President of IBS Local 47, the longshoremen's local",
+      "roleEnd": "President of Local 47",
+      "reportsTo": null,
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 1,
+      "bio": "President of Local 47 and Frank's counterpart and sparring partner. He thinks the canal is out of reach and wants the union's effort on rebuilding the grain pier before developers turn it into condominiums. He holds Frank to their deal that the secretary-treasurer post goes to Ott this time, and asks where Frank's money is coming from.",
+      "keyMoments": [
+        {
+          "ep": 1,
+          "text": "Argues with Frank that they should push for the grain pier, not the canal, and walks out."
+        },
+        {
+          "ep": 7,
+          "text": "Refuses Frank's request for one more year: it is Ott's turn. At New Charles's home he asks Frank where the cash comes from."
+        },
+        {
+          "ep": 11,
+          "text": "Will not look at Frank after his arrest, but nods when Frank works a ship."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "ott",
+      "name": "Vernon Motley",
+      "alias": "Ott",
+      "full": null,
+      "actor": "Bus Howard",
+      "faction": "union",
+      "unit": "Checkers (Local 1514)",
+      "returning": false,
+      "roleStart": "Senior Black union member promised the next turn as secretary-treasurer",
+      "roleEnd": "Stands behind Frank's name after his death",
+      "reportsTo": "frank",
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 1,
+      "bio": "A senior member and regular at Delores's bar. Under the union's understanding that the secretary-treasurer post passes between a Polish and a Black officer, this election is supposed to be his, with Nat Coxson's backing. When Frank decides to run again he confronts him; after Frank's murder he and the members stand behind Frank instead.",
+      "keyMoments": [
+        {
+          "ep": 2,
+          "text": "Complains to Frank about police tickets and the breath-test checkpoint on the way to work."
+        },
+        {
+          "ep": 10,
+          "text": "Confronts Frank for running again, asking whether Frank thinks he is not good enough to handle the job."
+        },
+        {
+          "ep": 12,
+          "text": "With the other members, backs the dead Frank when the FBI demands new officers."
+        }
+      ],
+      "careerMoves": [
+        {
+          "ep": 12,
+          "from": "Expected next secretary-treasurer",
+          "to": "Stood aside for the dead Frank",
+          "kind": "restructure",
+          "text": "Stands with the members behind Frank instead of taking the post (Frank is re-elected after his death)."
+        }
+      ]
+    },
+    {
+      "id": "johnnyfifty",
+      "name": "Johnny Spamanto",
+      "alias": "Johnny Fifty",
+      "full": null,
+      "actor": "Jeffrey Pratt Gordon",
+      "faction": "union",
+      "unit": "Checkers (Local 1514)",
+      "returning": false,
+      "roleStart": "Young checker and drinking buddy of Nick and Ziggy",
+      "roleEnd": "Checker; not charged",
+      "reportsTo": "frank",
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 1,
+      "bio": "A young checker and friend of the cousins who helps with their side jobs: the camera container, the chemicals and Ziggy's stolen cars. He is served with a grand jury summons over the dead women but is never arrested this season.",
+      "keyMoments": [
+        {
+          "ep": 3,
+          "text": "Helps Nick and Ziggy move the stolen camera container through the port."
+        },
+        {
+          "ep": 5,
+          "text": "Served a grand jury summons with Horseface and other checkers."
+        },
+        {
+          "ep": 10,
+          "text": "Steals cars from the port lot with Ziggy for Glekas."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "maui",
+      "name": "Maui",
+      "alias": null,
+      "full": null,
+      "actor": "Lance Irwin",
+      "faction": "union",
+      "unit": "Checkers (Local 1514)",
+      "returning": false,
+      "roleStart": "Checker",
+      "roleEnd": "Checker",
+      "reportsTo": "frank",
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 4,
+      "bio": "A big checker who despises Ziggy's stealing and makes him a running joke, from a fake paternity suit to stranding him on a container. Beadie Russell's old boyfriend, he refuses to inform on union men but tells her the port computer keeps records that can track containers.",
+      "keyMoments": [
+        {
+          "ep": 4,
+          "text": "Spills coffee on Ziggy's new coat and mocks him for stealing; Ziggy fills his monitor with pictures of his genitals."
+        },
+        {
+          "ep": 5,
+          "text": "Won't inform for Beadie, but points her to the port computer."
+        },
+        {
+          "ep": 8,
+          "text": "Beats Ziggy in a fight and strands him on top of a container with a forklift."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "lala",
+      "name": "La La",
+      "alias": null,
+      "full": null,
+      "actor": "Kelvin Davis",
+      "faction": "union",
+      "unit": "Longshoremen (Local 47)",
+      "returning": false,
+      "roleStart": "Young, low-seniority dockworker and Nick's friend",
+      "roleEnd": "Still looking for days on the docks",
+      "reportsTo": "coxson",
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 1,
+      "bio": "One of the young union men who struggle to get work and a friend of Nick's. He helps load Valchek's stolen van, goes with Nick to plead Ziggy's case with Cheese, and in the finale tells Nick the only ship of the day went to the graybeards.",
+      "keyMoments": [
+        {
+          "ep": 2,
+          "text": "Held after Valchek's breath-test checkpoint on an old warrant; later helps load the stolen surveillance van into a can."
+        },
+        {
+          "ep": 5,
+          "text": "Goes with Nick to Cheese to try to get Ziggy's car back; Cheese has burned it."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "littlebigroy",
+      "name": "Little Big Roy",
+      "alias": null,
+      "full": null,
+      "actor": "Richard Pelzman",
+      "faction": "union",
+      "unit": "Longshoremen (Local 47)",
+      "returning": false,
+      "roleStart": "Senior stevedore",
+      "roleEnd": "Senior stevedore",
+      "reportsTo": "coxson",
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 1,
+      "bio": "A big, bald, senior Polish stevedore and bar regular who tells old waterfront stories at Delores's. After Frank's arrest he lends Frank his union card so Frank can work a ship.",
+      "keyMoments": [
+        {
+          "ep": 11,
+          "text": "Lends Frank his union card at the hiring hall so Frank can work a ship."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "bigroy",
+      "name": "Big Roy",
+      "alias": null,
+      "full": null,
+      "actor": "Doug Lory",
+      "faction": "union",
+      "unit": "Longshoremen (Local 47)",
+      "returning": false,
+      "roleStart": "Stevedore with a work crew",
+      "roleEnd": "Stevedore",
+      "reportsTo": "coxson",
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 1,
+      "bio": "A stevedore and bar regular, not to be confused with Little Big Roy. In the premiere Nick gets a day as a lasher on \"Big Roy's crew.\"",
+      "keyMoments": [
+        {
+          "ep": 1,
+          "text": "Nick works as a lasher on his crew."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "newcharles",
+      "name": "New Charles",
+      "alias": null,
+      "full": null,
+      "actor": "Stan Stewart",
+      "faction": "union",
+      "unit": "Longshoremen (Local 47)",
+      "returning": false,
+      "roleStart": "Longshoreman",
+      "roleEnd": "Lost his leg in a dock accident",
+      "reportsTo": "coxson",
+      "statusEnd": "injured",
+      "statusEp": 7,
+      "firstEp": 1,
+      "bio": "A longshoreman, nicknamed because he started work the day a crane dropped a hatch cover on another man named Charlie. His leg is crushed under cargo and he loses it; Frank brings his family an envelope of cash, and Nat gets him a lawyer through the union.",
+      "keyMoments": [
+        {
+          "ep": 7,
+          "text": "Crushed under a load while working; Frank and Nat visit his family and Frank hands over cash."
+        },
+        {
+          "ep": 9,
+          "text": "Back at the bar on one leg, with a lawyer Nat found through the union."
+        }
+      ],
+      "careerMoves": [
+        {
+          "ep": 7,
+          "from": "Longshoreman",
+          "to": "Injured, off the docks",
+          "kind": "exit",
+          "text": "Leg crushed on the job; it is later said he lost it."
+        }
+      ]
+    },
+    {
+      "id": "ringo",
+      "name": "Ringo",
+      "alias": null,
+      "full": null,
+      "actor": "Jon Garcia",
+      "faction": "union",
+      "unit": "Checkers (Local 1514)",
+      "returning": false,
+      "roleStart": "Checker getting almost no days",
+      "roleEnd": "Checker",
+      "reportsTo": "frank",
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 3,
+      "bio": "A checker with 60 men above him in seniority who worked five days in a month and is ready to switch to Local 47. Frank sends him to Delores's bar, where she hands him a bundle of Frank's cash.",
+      "keyMoments": [
+        {
+          "ep": 3,
+          "text": "Tells Frank he is going with Local 47; Frank sends him to Delores, who gives him cash."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "delores",
+      "name": "Delores",
+      "alias": null,
+      "full": null,
+      "actor": "Jill Redding",
+      "faction": "civilian",
+      "unit": "Clement Street bar",
+      "returning": false,
+      "roleStart": "Runs the stevedores' bar on Clement Street",
+      "roleEnd": "Runs the stevedores' bar",
+      "reportsTo": null,
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 1,
+      "bio": "Runs the bar where the stevedores drink from breakfast on. She holds Frank's cash and hands it to struggling members he sends her way, and puts up with Ziggy's antics.",
+      "keyMoments": [
+        {
+          "ep": 3,
+          "text": "Hands Ringo a bundle of cash when he orders a shot and a beer on Frank."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "louis",
+      "name": "Louis Sobotka",
+      "alias": null,
+      "full": null,
+      "actor": "Robert Hogan",
+      "faction": "civilian",
+      "unit": "Sobotka family",
+      "returning": false,
+      "roleStart": "Retired shipyard worker; his union went under when the dry dock closed",
+      "roleEnd": "Retired",
+      "reportsTo": null,
+      "statusEnd": "retired",
+      "statusEp": 0,
+      "firstEp": 4,
+      "bio": "Frank's brother and Nick's father, out of work and out of the union since the dry dock closed; he spends his days at the bar handicapping horses. He turns down a port advisory board seat Frank arranged, insisting everything he has came straight, and blames Frank for letting Nick slide into drugs. After Frank's murder he takes Nick to turn himself in.",
+      "keyMoments": [
+        {
+          "ep": 8,
+          "text": "Refuses the paid port advisory board seat Frank got him."
+        },
+        {
+          "ep": 11,
+          "text": "Shows Frank the search warrant from the raid on his house and blames him for Nick."
+        },
+        {
+          "ep": 12,
+          "text": "Takes Nick to the Southeastern District to surrender on the warrant."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "joan",
+      "name": "Joan Sobotka",
+      "alias": null,
+      "full": null,
+      "actor": "Elisabeth Noone",
+      "faction": "civilian",
+      "unit": "Sobotka family",
+      "returning": false,
+      "roleStart": "Nick's mother, Louis's wife",
+      "roleEnd": "Nick's mother",
+      "reportsTo": null,
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 1,
+      "bio": "Louis's wife and Nick's mother, who nags him to get up for whatever work there is. She is left cleaning up after the police search her house and find heroin and cash in Nick's room.",
+      "keyMoments": [
+        {
+          "ep": 11,
+          "text": "Cleans up with Louis after the raid on their house and will not speak to Nick at first."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "aimee",
+      "name": "Aimee",
+      "alias": null,
+      "full": null,
+      "actor": "Kristin Proctor",
+      "faction": "civilian",
+      "unit": "Sobotka family",
+      "returning": false,
+      "roleStart": "Nick's girlfriend and the mother of his daughter",
+      "roleEnd": "In protective custody with Nick",
+      "reportsTo": null,
+      "statusEnd": "gone",
+      "statusEp": 12,
+      "firstEp": 3,
+      "bio": "Nick's girlfriend and the mother of their young daughter, Ashley; she wants them to have a home together. She questions the cash she finds in his room, is there when the police search it, and goes into protective custody with him.",
+      "keyMoments": [
+        {
+          "ep": 5,
+          "text": "Looks at a house with Nick; they settle on renting."
+        },
+        {
+          "ep": 12,
+          "text": "Moves with Nick and Ashley into a motel under protective custody."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "ashley",
+      "name": "Ashley",
+      "alias": null,
+      "full": null,
+      "actor": null,
+      "faction": "civilian",
+      "unit": "Sobotka family",
+      "returning": false,
+      "roleStart": "Nick and Aimee's young daughter",
+      "roleEnd": "In protective custody with her parents",
+      "reportsTo": null,
+      "statusEnd": "gone",
+      "statusEp": 12,
+      "firstEp": 3,
+      "bio": "Nick and Aimee's preschool-age daughter, who tells her class her parents don't live together.",
+      "keyMoments": [],
+      "careerMoves": []
+    },
+    {
+      "id": "prissy",
+      "name": "Prissy Katlow",
+      "alias": "Prissy",
+      "full": "Priscilla Katlow",
+      "actor": "Merritt Wever",
+      "faction": "civilian",
+      "unit": "Neighborhood",
+      "returning": false,
+      "roleStart": "Old friend of Nick and Ziggy from the Point",
+      "roleEnd": "Friend of Nick",
+      "reportsTo": null,
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 10,
+      "bio": "A woman from the neighborhood whom Ziggy slept with once; Maui's fake paternity papers name her as the mother. After Ziggy's arrest she finds Nick drinking alone, they talk about old times, and Nick is at her place when the police raid his house.",
+      "keyMoments": [
+        {
+          "ep": 10,
+          "text": "Reminisces with Nick about Ziggy after the shooting."
+        },
+        {
+          "ep": 11,
+          "text": "Nick is with her the night of the raids and so escapes arrest."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "lewandowski",
+      "name": "Jerome Lewandowski",
+      "alias": "Father Lew",
+      "full": null,
+      "actor": "Tel Monks",
+      "faction": "civilian",
+      "unit": "St. Casimir's Church",
+      "returning": false,
+      "roleStart": "Parish priest at St. Casimir's",
+      "roleEnd": "Parish priest",
+      "reportsTo": null,
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 1,
+      "bio": "The Polish parish priest who accepts Frank's stained-glass window, which takes the spot Valchek had planned for his own. Frank asks him for time with a senator who attends the Polish mass, and he hosts the union's political gathering.",
+      "keyMoments": [
+        {
+          "ep": 1,
+          "text": "Shows Frank his new window; Valchek's arrives too late and is offered the rectory instead."
+        },
+        {
+          "ep": 3,
+          "text": "Hosts the meeting where Frank and DiBiago work the room of legislators."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "dibiago",
+      "name": "Bruce DiBiago",
+      "alias": null,
+      "full": null,
+      "actor": "Keith Flippen",
+      "faction": "politics",
+      "unit": "Lobbyists",
+      "returning": false,
+      "roleStart": "Annapolis lobbyist hired by the IBS",
+      "roleEnd": "Distances himself from Frank after the arrest",
+      "reportsTo": null,
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 3,
+      "bio": "The lobbyist the IBS hires to work Annapolis. He steers Frank's money and attention toward legislators who would not otherwise back the port, such as Clay Davis, and gets the grain-pier money into the budget. After Frank's arrest he tells him the votes have walked away.",
+      "keyMoments": [
+        {
+          "ep": 3,
+          "text": "Tells Frank to work the uncommitted legislators, Clay Davis among them, after $40,000 has gone to Davis's organization."
+        },
+        {
+          "ep": 7,
+          "text": "Frank chews him out and hands him more cash to push the canal."
+        },
+        {
+          "ep": 11,
+          "text": "Tells Frank the grain pier is dead because the legislators are afraid of the FBI."
+        }
+      ],
+      "careerMoves": [
+        {
+          "ep": 11,
+          "from": "Union lobbyist",
+          "to": "Cuts ties with Frank",
+          "kind": "exit",
+          "text": "Settles up with Frank and says he should not even be seen with him."
+        }
+      ]
+    },
+    {
+      "id": "davis",
+      "name": "Clay Davis",
+      "alias": null,
+      "full": "R. Clayton Davis",
+      "actor": "Isiah Whitlock Jr.",
+      "faction": "politics",
+      "unit": "Maryland Senate",
+      "returning": true,
+      "roleStart": "Maryland state senator from Baltimore's west side",
+      "roleEnd": "State senator; breaks ground on the waterfront condos",
+      "reportsTo": null,
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 3,
+      "bio": "A state senator whose organization takes $40,000 of union money and still wants more before he votes for the port. Once the FBI arrests Frank the support dries up, and in the finale Davis breaks ground on condominiums at the grain-pier site.",
+      "keyMoments": [
+        {
+          "ep": 3,
+          "text": "Greets Frank at the union's gathering and hints that more money should come his way."
+        },
+        {
+          "ep": 12,
+          "text": "Shovels dirt at the groundbreaking for the waterfront condos (closing montage)."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "krawczyk",
+      "name": "Andy Krawczyk",
+      "alias": null,
+      "full": null,
+      "actor": "Michael Willis",
+      "faction": "politics",
+      "unit": "Developers",
+      "returning": false,
+      "roleStart": "Property developer and political fundraiser",
+      "roleEnd": "Developer of the condos replacing the grain pier",
+      "reportsTo": null,
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 2,
+      "bio": "A developer with pull at City Hall and a friend of Valchek's, who tells Valchek how much money Frank's union is spreading around. The union fears he will win the votes to put condominiums on the grain pier before it can be rebuilt; in the finale ground is broken on the condos.",
+      "keyMoments": [
+        {
+          "ep": 2,
+          "text": "Tells Valchek that Frank's struggling union has hired a lobbyist and is making big political contributions."
+        },
+        {
+          "ep": 12,
+          "text": "At the condo groundbreaking with Davis (uncredited)."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "valchek",
+      "name": "Stanislaus Valchek",
+      "alias": null,
+      "full": null,
+      "actor": "Al Brown",
+      "faction": "police",
+      "unit": "Southeastern District",
+      "returning": true,
+      "roleStart": "Major, Southeastern District",
+      "roleEnd": "Major, Southeastern District",
+      "reportsTo": "burrell",
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 1,
+      "bio": "Commander of the Southeastern District and Prez's father-in-law, who grew up in the same neighborhood as Frank. When Frank's union window takes the spot at St. Casimir's he wanted for the police, he has the union's cars ticketed and its men breath-tested, then trades his council support for Burrell's commissionership in return for a detail on Frank. His stolen surveillance van keeps sending him photos from ports around the world.",
+      "keyMoments": [
+        {
+          "ep": 1,
+          "text": "Delivers his own window to St. Casimir's and learns Frank's local beat him to it."
+        },
+        {
+          "ep": 2,
+          "text": "Has his officers paper the union's cars and run a breath-test checkpoint; gets a six-man detail on Frank from Burrell. His surveillance van is stolen."
+        },
+        {
+          "ep": 10,
+          "text": "Brings in the FBI when the detail drifts from Frank to the Greeks."
+        },
+        {
+          "ep": 11,
+          "text": "Gloats as the FBI arrests Frank at the union hall."
+        },
+        {
+          "ep": 12,
+          "text": "Gets one more photo of his van, now in Australia."
+        }
+      ],
+      "careerMoves": []
+    },
+    {
+      "id": "propjoe",
+      "name": "Proposition Joe",
+      "alias": "Prop Joe",
+      "full": null,
+      "actor": "Robert F. Chew",
+      "faction": "street",
+      "unit": "East Side",
+      "returning": true,
+      "roleStart": "East Side drug boss",
+      "roleEnd": "East Side drug boss, buying from the Greek",
+      "reportsTo": null,
+      "statusEnd": "active",
+      "statusEp": 0,
+      "firstEp": 6,
+      "bio": "The East Side boss whose nephew Cheese burned Ziggy's car. Because his supply comes from the Greeks, he settles Ziggy's debt at a sit-down with Nick and Sergei and pays for the car, telling Nick the cousins would be dead without the Greek connection.",
+      "keyMoments": [
+        {
+          "ep": 6,
+          "text": "Meets Nick and Sergei, calls Ziggy's debt square and pays $2,400 for the burned car."
+        }
+      ],
+      "careerMoves": []
+    }
+  ],
+  "relationships": [
+    {
+      "source": "frank",
+      "target": "ziggy",
+      "type": "family",
+      "label": "Frank is Ziggy's father"
+    },
+    {
+      "source": "frank",
+      "target": "louis",
+      "type": "family",
+      "label": "Frank and Louis are brothers"
+    },
+    {
+      "source": "louis",
+      "target": "nick",
+      "type": "family",
+      "label": "Louis is Nick's father"
+    },
+    {
+      "source": "joan",
+      "target": "nick",
+      "type": "family",
+      "label": "Joan is Nick's mother"
+    },
+    {
+      "source": "louis",
+      "target": "joan",
+      "type": "family",
+      "label": "Louis and Joan are married"
+    },
+    {
+      "source": "frank",
+      "target": "nick",
+      "type": "family",
+      "label": "Frank is Nick's uncle"
+    },
+    {
+      "source": "nick",
+      "target": "ziggy",
+      "type": "family",
+      "label": "Nick and Ziggy are cousins"
+    },
+    {
+      "source": "nick",
+      "target": "ashley",
+      "type": "family",
+      "label": "Nick is Ashley's father"
+    },
+    {
+      "source": "aimee",
+      "target": "ashley",
+      "type": "family",
+      "label": "Aimee is Ashley's mother"
+    },
+    {
+      "source": "nick",
+      "target": "aimee",
+      "type": "romance",
+      "label": "Nick and Aimee are a couple raising their daughter"
+    },
+    {
+      "source": "ziggy",
+      "target": "prissy",
+      "type": "romance",
+      "label": "Ziggy once slept with Prissy; Maui's fake paternity suit names her"
+    },
+    {
+      "source": "nick",
+      "target": "prissy",
+      "type": "friendship",
+      "label": "Old friends from the Point; Nick is at her place the night of the raids"
+    },
+    {
+      "source": "nick",
+      "target": "frank",
+      "type": "command",
+      "label": "Nick carries messages and container numbers for Frank"
+    },
+    {
+      "source": "ziggy",
+      "target": "frank",
+      "type": "command",
+      "label": "Ziggy is a checker in Frank's local"
+    },
+    {
+      "source": "horseface",
+      "target": "frank",
+      "type": "command",
+      "label": "Horseface is the checker Frank puts on the Greek's ships"
+    },
+    {
+      "source": "johnnyfifty",
+      "target": "frank",
+      "type": "command",
+      "label": "Johnny Fifty is a checker in Frank's local"
+    },
+    {
+      "source": "maui",
+      "target": "frank",
+      "type": "command",
+      "label": "Maui is a checker in Frank's local"
+    },
+    {
+      "source": "ott",
+      "target": "frank",
+      "type": "command",
+      "label": "Ott is a member of Frank's local"
+    },
+    {
+      "source": "ringo",
+      "target": "frank",
+      "type": "command",
+      "label": "Ringo is a checker in Frank's local; Frank slips him cash through Delores"
+    },
+    {
+      "source": "lala",
+      "target": "coxson",
+      "type": "command",
+      "label": "La La is a junior member under Nat's Local 47"
+    },
+    {
+      "source": "littlebigroy",
+      "target": "coxson",
+      "type": "command",
+      "label": "Little Big Roy is a senior member of Nat's Local 47"
+    },
+    {
+      "source": "bigroy",
+      "target": "coxson",
+      "type": "command",
+      "label": "Big Roy is a member of Nat's Local 47"
+    },
+    {
+      "source": "newcharles",
+      "target": "coxson",
+      "type": "command",
+      "label": "New Charles is a longshoreman in Nat's Local 47"
+    },
+    {
+      "source": "nick",
+      "target": "bigroy",
+      "type": "command",
+      "label": "Nick works a day as a lasher on Big Roy's crew",
+      "ep": 1
+    },
+    {
+      "source": "frank",
+      "target": "coxson",
+      "type": "alliance",
+      "label": "Frank and Nat lead the two Baltimore IBS locals"
+    },
+    {
+      "source": "frank",
+      "target": "coxson",
+      "type": "conflict",
+      "label": "Frank and Nat clash over the canal versus the grain pier and over Frank's money",
+      "ep": 1
+    },
+    {
+      "source": "coxson",
+      "target": "ott",
+      "type": "alliance",
+      "label": "Nat backs Ott to take his turn as secretary-treasurer",
+      "ep": 7
+    },
+    {
+      "source": "frank",
+      "target": "ott",
+      "type": "political",
+      "label": "Frank wants another term as secretary-treasurer although it is agreed to be Ott's turn",
+      "ep": 7
+    },
+    {
+      "source": "ott",
+      "target": "frank",
+      "type": "conflict",
+      "label": "Ott confronts Frank for going back on the deal",
+      "ep": 10
+    },
+    {
+      "source": "frank",
+      "target": "horseface",
+      "type": "friendship",
+      "label": "Frank and Horseface are old friends"
+    },
+    {
+      "source": "frank",
+      "target": "delores",
+      "type": "alliance",
+      "label": "Delores holds Frank's cash for members who need it",
+      "ep": 3
+    },
+    {
+      "source": "frank",
+      "target": "newcharles",
+      "type": "friendship",
+      "label": "Frank brings cash to New Charles's family after his injury",
+      "ep": 7
+    },
+    {
+      "source": "littlebigroy",
+      "target": "frank",
+      "type": "friendship",
+      "label": "Little Big Roy lends Frank his union card to work a ship",
+      "ep": 11
+    },
+    {
+      "source": "frank",
+      "target": "louis",
+      "type": "conflict",
+      "label": "Louis refuses the board seat Frank bought and blames him for Nick",
+      "ep": 8
+    },
+    {
+      "source": "frank",
+      "target": "lewandowski",
+      "type": "political",
+      "label": "Frank pays for a church window in return for access to a senator",
+      "ep": 1
+    },
+    {
+      "source": "frank",
+      "target": "dibiago",
+      "type": "business",
+      "label": "The union pays DiBiago to lobby Annapolis for the canal and the grain pier",
+      "ep": 3
+    },
+    {
+      "source": "dibiago",
+      "target": "davis",
+      "type": "political",
+      "label": "DiBiago routes $40,000 of union money to Davis's organization",
+      "ep": 3
+    },
+    {
+      "source": "frank",
+      "target": "davis",
+      "type": "political",
+      "label": "Frank courts Davis, who wants more money before he votes for the port",
+      "ep": 3
+    },
+    {
+      "source": "krawczyk",
+      "target": "frank",
+      "type": "conflict",
+      "label": "Krawczyk's condo plans threaten the grain pier Frank is fighting for",
+      "ep": 6
+    },
+    {
+      "source": "krawczyk",
+      "target": "davis",
+      "type": "political",
+      "label": "Davis and Krawczyk break ground on condos at the grain-pier site",
+      "ep": 12
+    },
+    {
+      "source": "valchek",
+      "target": "krawczyk",
+      "type": "political",
+      "label": "Valchek leans on his friend Krawczyk for City Hall pull and union gossip",
+      "ep": 2
+    },
+    {
+      "source": "valchek",
+      "target": "frank",
+      "type": "conflict",
+      "label": "Valchek and Frank feud over whose window goes in St. Casimir's",
+      "ep": 1
+    },
+    {
+      "source": "valchek",
+      "target": "frank",
+      "type": "investigates",
+      "label": "Valchek trades his council support to Burrell for a detail on Frank",
+      "ep": 2
+    },
+    {
+      "source": "horseface",
+      "target": "valchek",
+      "type": "conflict",
+      "label": "Horseface steals Valchek's surveillance van and ships it overseas",
+      "ep": 2
+    },
+    {
+      "source": "nick",
+      "target": "ziggy",
+      "type": "partner",
+      "label": "Nick and Ziggy steal and sell cameras and chemicals together",
+      "ep": 3
+    },
+    {
+      "source": "nick",
+      "target": "ziggy",
+      "type": "conflict",
+      "label": "Ziggy resents Nick for cutting him out of the heroin trade",
+      "ep": 7
+    },
+    {
+      "source": "johnnyfifty",
+      "target": "nick",
+      "type": "partner",
+      "label": "Johnny Fifty helps Nick and Ziggy with the camera theft and the chemicals",
+      "ep": 3
+    },
+    {
+      "source": "johnnyfifty",
+      "target": "ziggy",
+      "type": "partner",
+      "label": "Johnny Fifty helps Ziggy steal cars from the port lot",
+      "ep": 10
+    },
+    {
+      "source": "maui",
+      "target": "ziggy",
+      "type": "conflict",
+      "label": "Maui and Ziggy feud: coffee, pranks, a fake paternity suit and a fight",
+      "ep": 4
+    },
+    {
+      "source": "ziggy",
+      "target": "cheese",
+      "type": "conflict",
+      "label": "Ziggy owes Cheese for a package; Cheese beats him and burns his car",
+      "ep": 5
+    },
+    {
+      "source": "nick",
+      "target": "cheese",
+      "type": "conflict",
+      "label": "Nick tries to bargain over Ziggy's debt; Cheese shows him the burned car",
+      "ep": 5
+    },
+    {
+      "source": "lala",
+      "target": "nick",
+      "type": "friendship",
+      "label": "La La is Nick's friend and goes with him to Cheese"
+    },
+    {
+      "source": "nick",
+      "target": "sergei",
+      "type": "alliance",
+      "label": "Sergei backs Nick at gunpoint against Cheese and brokers the sit-down",
+      "ep": 6
+    },
+    {
+      "source": "propjoe",
+      "target": "nick",
+      "type": "business",
+      "label": "Prop Joe settles Ziggy's debt with Nick and pays for the car",
+      "ep": 6
+    },
+    {
+      "source": "horseface",
+      "target": "sergei",
+      "type": "business",
+      "label": "Horseface drops the Greek's cans out of the system for Sergei to haul away"
+    },
+    {
+      "source": "frank",
+      "target": "vondas",
+      "type": "conflict",
+      "label": "Frank confronts Vondas over the dead women and later says he wants out",
+      "ep": 2
+    },
+    {
+      "source": "vondas",
+      "target": "nick",
+      "type": "business",
+      "label": "Vondas offers Nick help for Ziggy in exchange for the Sobotkas' silence",
+      "ep": 11
+    },
+    {
+      "source": "ziggy",
+      "target": "glekas",
+      "type": "killed",
+      "label": "Ziggy shoots Glekas dead in his store over the car money",
+      "ep": 10
+    },
+    {
+      "source": "beadie",
+      "target": "frank",
+      "type": "friendship",
+      "label": "Port police officer Beadie and Frank know each other from the docks"
+    },
+    {
+      "source": "beadie",
+      "target": "maui",
+      "type": "romance",
+      "label": "Maui is Beadie's old boyfriend; he won't inform but tips her to the port computer"
+    },
+    {
+      "source": "bunk",
+      "target": "horseface",
+      "type": "investigates",
+      "label": "Bunk and Freamon press Horseface about the dead women's container",
+      "ep": 4
+    },
+    {
+      "source": "freamon",
+      "target": "horseface",
+      "type": "investigates",
+      "label": "Freamon and Beadie tie the missing containers to Horseface",
+      "ep": 6
+    },
+    {
+      "source": "beadie",
+      "target": "horseface",
+      "type": "investigates",
+      "label": "Beadie and Freamon watch Horseface lose cans on the port computer",
+      "ep": 6
+    },
+    {
+      "source": "daniels",
+      "target": "frank",
+      "type": "investigates",
+      "label": "Daniels' detail is set up to investigate Frank",
+      "ep": 4
+    },
+    {
+      "source": "herc",
+      "target": "nick",
+      "type": "investigates",
+      "label": "Herc and Carver tie Nick to Frog",
+      "ep": 7
+    },
+    {
+      "source": "frank",
+      "target": "daniels",
+      "type": "informant",
+      "label": "Frank agrees to cooperate with Daniels' detail but will not name union men",
+      "ep": 11
+    },
+    {
+      "source": "frank",
+      "target": "pearlman",
+      "type": "legal",
+      "label": "Pearlman offers straight probation for Frank and Nick in return for Frank's cooperation",
+      "ep": 11
+    },
+    {
+      "source": "nick",
+      "target": "daniels",
+      "type": "informant",
+      "label": "Nick gives up Vondas, Eton and Sergei and picks out the Greek's photo",
+      "ep": 12
+    },
+    {
+      "source": "nick",
+      "target": "pearlman",
+      "type": "legal",
+      "label": "Pearlman honors Frank's probation deal for Nick",
+      "ep": 12
+    }
+  ],
+  "hierarchy": [
+    {
+      "id": "junior",
+      "title": "Low-seniority members",
+      "chain": "union",
+      "description": "Union-card holders without seniority. Work is handed out at the hiring hall by seniority rating, so they get a day or two when ships are plentiful and nothing when they are not (\"Seniority sucks.\" \"If you ain't senior.\"). They drink at Delores's bar waiting for days and depend on Frank's handouts.",
+      "members": [
+        "nick",
+        "lala",
+        "ziggy",
+        "ringo",
+        "johnnyfifty"
+      ]
+    },
+    {
+      "id": "gangs",
+      "title": "Longshoremen in work gangs (Local 47)",
+      "chain": "union",
+      "description": "Local 47 men load and unload ships in crews named after the man who leads them (\"Big Roy's crew\", a man who \"works for Mutt\"), as lashers, on break-bulk, roll-on/roll-off car ships or the cranes. A senior man can give back his hours and they pass to someone else in his crew.",
+      "members": [
+        "nick",
+        "lala",
+        "bigroy",
+        "littlebigroy",
+        "newcharles"
+      ]
+    },
+    {
+      "id": "checkers",
+      "title": "Checkers (Local 1514)",
+      "chain": "union",
+      "description": "Checkers match manifests, tally cargo and track every container through the port computer: \"nothing goes in or out without them putting it down somewhere\". That makes them the key to smuggling. Fewer than 100 dues-paying checkers are left, and the longshoremen call the checkers' local stuck-up.",
+      "members": [
+        "horseface",
+        "maui",
+        "johnnyfifty",
+        "ringo",
+        "ziggy",
+        "ott"
+      ]
+    },
+    {
+      "id": "senior",
+      "title": "Senior members (\"graybeards\")",
+      "chain": "union",
+      "description": "The oldest card holders take first pick of the available work and carry weight in union votes.",
+      "members": [
+        "horseface",
+        "ott",
+        "littlebigroy"
+      ]
+    },
+    {
+      "id": "steward",
+      "title": "Shop steward and IBS lawyer",
+      "chain": "union",
+      "description": "A member questioned by police can call his shop steward and an IBS lawyer (Horseface does, ep 4). Nat finds New Charles a lawyer through the union. No steward is named on screen.",
+      "members": []
+    },
+    {
+      "id": "officers",
+      "title": "Local officers",
+      "chain": "union",
+      "description": "Each local elects its officers. Frank is secretary-treasurer of Local 1514, controls its money and acts as its leader; Nat Coxson is president of Local 47. By an informal understanding the secretary-treasurer post passes between a Polish and a Black officer, and Nat's side delivered the votes last time on the understanding that Ott runs next.",
+      "members": [
+        "frank",
+        "coxson"
+      ]
+    },
+    {
+      "id": "district",
+      "title": "IBS District Council and national office",
+      "chain": "union",
+      "description": "Above the locals sits the IBS District Council (Nat threatens to take the grain pier to it) and the national office, which helped fund the lobbying. The IBS books are open to the Justice Department under a racketeering case from New York, so the detail can read what the Baltimore locals have filed; campaign finance records show about $70,000 in union contributions (ep 6).",
+      "members": []
+    },
+    {
+      "id": "smuggling",
+      "title": "Smuggling chain, union side",
+      "chain": "smuggling",
+      "description": "Vondas gives Nick the numbers of incoming Greek containers at the Greek's cafe; Nick brings them to Frank; Frank makes sure Horseface is the checker on that ship; Horseface \"loses\" the can in the stacks and the computer; Sergei drives it out to Glekas's warehouse. The union side is paid by the container (\"We got paid by the can to creep shit off the docks\"), and Frank spends his share on the union and its lobbying. Nick and Ziggy also run their own thefts through Glekas and their own heroin trade.",
+      "members": [
+        "nick",
+        "frank",
+        "horseface"
+      ]
+    }
+  ],
+  "howMovementWorks": [
+    {
+      "title": "Seniority and the hiring hall",
+      "eps": [
+        1,
+        2,
+        3,
+        12
+      ],
+      "text": "Work goes by seniority at the hiring hall, and only working stevedores with a card can take a job there. Juniors like Nick, La La and Ringo get a few days a month; Ringo (60 checkers above him) thinks about switching to Local 47 (ep 3). Frank defends it: \"Seniority prevails... it's the only way to keep it halfway honest\" (ep 6). In the finale Nick, now a protected witness, still cannot get a day."
+    },
+    {
+      "title": "Frank's patronage",
+      "eps": [
+        1,
+        3,
+        7,
+        8
+      ],
+      "text": "Frank keeps loyalty with the Greek's money: cash left with Delores for members who are not getting work (ep 3), an envelope for New Charles's family after his injury (ep 7), a paid port advisory board seat for his brother Louis (ep 8, refused). He fires Ziggy for losing a can (ep 1), but everyone knows the firing will not stick because Frank is his father."
+    },
+    {
+      "title": "The secretary-treasurer election",
+      "eps": [
+        7,
+        9,
+        10,
+        11,
+        12
+      ],
+      "text": "An informal deal alternates the post between Polish and Black officers, and this time is Ott's turn. Frank asks Nat for one more year to finish the dredging fight (eps 7, 9), then decides to run anyway (ep 10). His arrest wrecks his campaign and his standing (ep 11). After his murder the FBI tells the local to elect new officers or be decertified; the members re-elect the dead Frank, and in the closing montage U.S. Marshals padlock the union hall (ep 12)."
+    },
+    {
+      "title": "Political influence",
+      "eps": [
+        1,
+        3,
+        6,
+        7,
+        9,
+        11,
+        12
+      ],
+      "text": "The union hires lobbyist Bruce DiBiago and gives money to legislators (at least $40,000 to Davis's organization, ep 3). Grain-pier money gets into the budget ($4.5 million set to pass both houses, ep 9), but the canal never does. Once the FBI arrests Frank, the legislators who took his money back away (ep 11), and the grain-pier site goes to condominiums (ep 12)."
+    },
+    {
+      "title": "Grand jury, arrests and indictments",
+      "eps": [
+        5,
+        10,
+        11,
+        12
+      ],
+      "text": "Bunk serves grand jury summonses on Horseface, Johnny Fifty and other checkers, who say little (ep 5). Ziggy is arrested for killing Glekas and confesses (ep 10). In the raids the FBI arrests Frank and Horseface at the union hall, and police search Nick's house and find heroin and cash, leading to a warrant (ep 11). Horseface faces indictment and is shown in court (ep 12)."
+    },
+    {
+      "title": "Cooperation",
+      "eps": [
+        11,
+        12
+      ],
+      "text": "Beadie persuades Frank to come in; he agrees to cooperate for probation for Nick and a county jail for Ziggy, refusing to name union men (ep 11), but goes to the Greek first and is killed. Nick surrenders and accepts the same deal, gives up the Greeks and enters protective custody (ep 12)."
+    },
+    {
+      "title": "Deaths and injuries",
+      "eps": [
+        7,
+        10,
+        12
+      ],
+      "text": "New Charles loses a leg on the job (ep 7). Ziggy kills Glekas and wounds a clerk (ep 10). Frank's body is pulled from the harbor (ep 12)."
+    },
+    {
+      "title": "Nick's rise in the drug trade",
+      "eps": [
+        3,
+        6,
+        7,
+        9
+      ],
+      "text": "From go-between to thief (cameras, ep 3) to supplier: paid half in heroin for the chemicals (ep 6), he supplies Frog (ep 7) and is then handed down to White Mike for re-ups (ep 9), while Ziggy, who failed with his own packages, is cut out."
+    }
+  ],
+  "newRelationshipTypes": [
+    {
+      "type": "patronage",
+      "meaning": "A union boss gives cash or favors to a member or family to keep their loyalty, outside any formal duty (Frank's handouts paid from smuggling money). Used \"command\", \"alliance\" or \"friendship\" instead in the relationships array.",
+      "examples": [
+        {
+          "source": "frank",
+          "target": "ringo"
+        },
+        {
+          "source": "frank",
+          "target": "newcharles"
+        },
+        {
+          "source": "frank",
+          "target": "louis"
+        }
+      ]
+    }
+  ],
+  "uncertainties": [
+    "Local numbers: Wikipedia and the fandom wiki contradict each other. Dialogue settles it: Local 1514 is the checkers' local and Frank is its secretary-treasurer (Beadie, ep 4; \"Talking trash about 1514\", ep 1); Frank calls Nat Coxson \"the president of Local 47\" (ep 1); Ziggy says he is in the checkers' local and calls Nick one of the \"Local 47 boys\" (ep 5). The union name \"International Brotherhood of Stevedores\" (IBS) is from dialogue and credits.",
+    "Which local each minor member belongs to is never stated for Ott, La La, Little Big Roy, Big Roy or New Charles. I put Ott with the checkers (he stands for Frank's post) and the others in Local 47, following the fandom wiki and context (Frank borrows Little Big Roy's card to work as a longshoreman; Nat gets New Charles a lawyer). Wikipedia calls La La a checker.",
+    "Nick is formally in Local 47, whose president is Nat, but on screen he takes orders from Frank as his go-between, so I set reportsTo \"frank\".",
+    "Why Nat's votes decide Frank's post is not explained: the dialogue only says \"when we gave you the votes... this time would be Ott's turn\" and \"Then Ott stays Secretary-Treasurer for the next two\" (ep 7).",
+    "Frank's murder happens off screen. In ep 11 the Greek tells Vondas \"there is only one sure way\" and Vondas argues for buying Frank's silence; as Frank walks up, Koutris's call tells the Greek that Frank has been to the police. In ep 12 the Greek and Vondas discuss the body coming up (\"We weighted him down... Sergei would've done better\"), so the Greek's side is implied. Who killed him and who gave the order is not shown, so there is no \"killed\" edge and no orderedBy. The fandom wiki's claim that Vondas cut his throat is not supported by what is shown. The ME finds stab wounds, a cut throat and defensive wounds.",
+    "Frank's death is shown in ep 12 (body found), although he was presumably killed the night of ep 11; statusEp is 12.",
+    "The van theft: Frank tells Nick that if Valchek wants a war he has one, Horseface steals the van, and Frank, Nick and La La help load it (ep 2, per Wikipedia and the fandom wiki). Frank giving the order is implied, not stated. Valchek tells the FBI \"Sobotka stole it\" (ep 10).",
+    "The posthumous election: Wikipedia and the fandom wiki say the members, including Ott (who the fandom wiki says withdrew), back the dead Frank and the local is shut down. In the transcript I saw the FBI warning (\"elect new officers or the US Attorney will padlock the door\"), not the vote.",
+    "Ziggy's trial and sentence are not shown. He is held from his arrest (ep 10; his jail is referred to as Eager Street in ep 12) and appears in prison in the closing montage, so statusEnd is \"imprisoned\" from ep 10. The clerk he shot survives (Nick, ep 12: \"the one that didn't die\").",
+    "Horseface: arrested ep 11, indictment pending ep 12, shown in court in the montage; outcome not shown. Johnny Fifty is never arrested on screen.",
+    "The brief listed \"joan\" as Frank's wife. She is Louis's wife and Nick's mother. Frank's wife is never seen or named (Ziggy mentions her taking Nembutals, ep 11). Ziggy is Frank's \"oldest\"; a brother at community college is mentioned but never seen.",
+    "Names from credits rather than dialogue: Ott = Vernon Motley (IMDb; some Wikipedia credits spell it Mottley), Johnny Fifty = Johnny Spamanto, Father Lewandowski's first name Jerome. The bar owner is credited as Delores; subtitles spell it Dolores. Prissy's surname is Katlow in the subtitles and Catlow on the fandom wiki.",
+    "Little Big Roy versus Big Roy: Wikipedia's credits sometimes swap the actors. Most credits give Little Big Roy = Richard Pelzman and Big Roy = Doug Lory. The fandom wiki surname \"Pelzman\" for Little Big Roy looks borrowed from the actor and is left out.",
+    "The senator Frank wants to meet through Father Lewandowski is called only \"Barbara\", who attends the Polish mass (ep 1), an allusion to Sen. Barbara Mikulski; she never appears, so she is not included.",
+    "Chemicals: Glekas first asks the cousins for acetone, sulfuric acid and potassium permanganate (ep 4); Vondas follows up with Nick (ep 5). Nick and Ziggy work out that they are for processing cocaine. A contact at Fairfield (Ott's brother-in-law) is mentioned as the source.",
+    "White Mike, Frog, the Greeks, Cheese and Prop Joe's Greek dealings are covered in greeks.json. To avoid duplicates I left out Greek-side edges already there (frank-greek, frank-vondas business, nick-vondas, nick-greek, nick/ziggy-glekas business, nick-eton, the White Mike and Frog edges, herc-frog). I kept two exact duplicates on purpose: ziggy->glekas (killed) and nick->daniels (informant).",
+    "Clay Davis is reused from season 1 as \"davis\" (returning). Season 1 put him in faction \"law\"; I used \"politics\". Valchek and Prop Joe are included with their season 1 ids; other agents may also describe them.",
+    "Frank's arrest: dialogue at the raid (\"Big man on the docks. You don't look so big now\") is attributed to Valchek by the fandom wiki and Wikipedia; the FBI supervisor holds the walk-out until the press arrives."
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/The_Wire_season_2",
+    "https://en.wikipedia.org/wiki/Frank_Sobotka",
+    "https://en.wikipedia.org/wiki/Nick_Sobotka",
+    "https://en.wikipedia.org/wiki/Ziggy_Sobotka",
+    "https://en.wikipedia.org/wiki/Ebb_Tide_(The_Wire)",
+    "https://en.wikipedia.org/wiki/Collateral_Damage_(The_Wire)",
+    "https://en.wikipedia.org/wiki/Hot_Shots_(The_Wire)",
+    "https://en.wikipedia.org/wiki/Hard_Cases",
+    "https://en.wikipedia.org/wiki/Undertow_(The_Wire)",
+    "https://en.wikipedia.org/wiki/All_Prologue",
+    "https://en.wikipedia.org/wiki/Backwash_(The_Wire)",
+    "https://en.wikipedia.org/wiki/Duck_and_Cover_(The_Wire)",
+    "https://en.wikipedia.org/wiki/Stray_Rounds",
+    "https://en.wikipedia.org/wiki/Storm_Warnings",
+    "https://en.wikipedia.org/wiki/Bad_Dreams_(The_Wire)",
+    "https://en.wikipedia.org/wiki/Port_in_a_Storm",
+    "https://thewire.fandom.com/api.php?action=parse&page=Frank_Sobotka&prop=wikitext&format=json",
+    "https://thewire.fandom.com/api.php?action=parse&page=Nick_Sobotka&prop=wikitext&format=json",
+    "https://thewire.fandom.com/api.php?action=parse&page=Ziggy_Sobotka&prop=wikitext&format=json",
+    "https://thewire.fandom.com/api.php?action=parse&page=International_Brotherhood_of_Stevedores&prop=wikitext&format=json",
+    "https://thewire.fandom.com/api.php?action=parse&page=Vernon_Motley&prop=wikitext&format=json",
+    "https://thewire.fandom.com/api.php?action=parse&page=Nat_Coxson&prop=wikitext&format=json",
+    "https://thewire.fandom.com (character pages: Thomas_Pakusa, Johnny_Fifty, Maui, La_La, Little_Big_Roy, Big_Roy, New_Charles, Ringo, Delores, Joan_Sobotka, Louis_Sobotka, Aimee, Prissy, Bruce_DiBiago, Andy_Krawczyk, Jerome_Lewandowski, Clay_Davis; episode pages Ebb_Tide to Port_in_a_Storm, via the MediaWiki API)",
+    "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?tv-show=the-wire&episode=s02e01 (episode transcripts s02e01 to s02e12, used to check dialogue)",
+    "https://www.imdb.com/title/tt0306414/characters/nm0397173 (Bus Howard as Vernon \"Ott\" Motley)"
+  ]
+}

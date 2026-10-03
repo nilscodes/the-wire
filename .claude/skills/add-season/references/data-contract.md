@@ -65,10 +65,10 @@ Everything is self-contained per season: a returning character gets a fresh reco
 |---|---|---|
 | `id` | yes | Stable across seasons. Lowercase letters, digits, `_`. |
 | `name` | yes | As commonly known ("Bodie Broadus", "Stringer Bell"). No nickname in quotes. |
-| `full` | no | Full legal name when it differs and is stated on screen. |
-| `alias` | no | Nickname shown in quotes in the dossier ("Prop Joe", "Fitz"). |
+| `full` | no | Full legal name when it differs and is stated on screen. Carried over from earlier seasons by the build. |
+| `alias` | no | Nickname shown in quotes in the dossier ("Prop Joe", "Fitz"). Carried over like `full`; `alias: null` in curation drops it. |
 | `short` | yes | Label on Web nodes, chips and chains ("Bodie", "McNulty"). |
-| `initials` | no | Override when the derived initials read badly ("BU" for Bubbles). |
+| `initials` | no | Override when the derived initials read badly ("BU" for Bubbles). Carried over like `full`. |
 | `actor` | yes, or `null` | `null` shows "Not seen on screen" (characters who are only named). |
 | `faction` | yes | Key in this season's `factions`. Sets the color everywhere. |
 | `unit` | yes | Sub-group or posting this season ("The Pit", "Homicide", "The detail"). |

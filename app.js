@@ -96,6 +96,28 @@
   const avatar = (c, cls = '', ctx) =>
     `<span class="avatar ${cls}" style="--fc:${fColor(c.faction, ctx)}" aria-hidden="true">${esc(initials(c))}</span>`;
 
+  // one picture per character, shown only in the detail headers next to the avatar, always with its credit:
+  // a still from the show (data/stills.js, local only) or else a free-licensed photo of the actor (data/photos.js)
+  const STILLS = window.WIRE_STILLS || {};
+  const PHOTOS = window.WIRE_PHOTOS || {};
+  const photoOf = c => {
+    const s = STILLS[c.id];
+    if (s && s.src) return { ...s, still: true };
+    const p = c.actor && PHOTOS[c.actor];
+    return p && p.src ? p : null;
+  };
+  const photo = c => {
+    const p = photoOf(c);
+    return p ? `<img class="photo" src="${esc(p.src)}" alt="${esc(p.still ? c.name : c.actor)}" loading="lazy"${p.pos ? ` style="object-position:${esc(p.pos)}"` : ''}>` : '';
+  };
+  const photoCredit = c => {
+    const p = photoOf(c);
+    if (!p) return '';
+    if (p.still) return `<p class="photo-credit">Still from <i>The Wire</i> &copy; HBO &middot; via <a href="${esc(p.source)}" target="_blank" rel="noopener">The Wire Wiki</a></p>`;
+    const lic = p.licenseUrl ? `<a href="${esc(p.licenseUrl)}" target="_blank" rel="noopener">${esc(p.license)}</a>` : esc(p.license);
+    return `<p class="photo-credit">Photo of ${esc(c.actor)}: <a href="${esc(p.source)}" target="_blank" rel="noopener">${esc(p.author || 'Wikimedia Commons')}</a>${p.license ? ` &middot; ${lic}` : ''}</p>`;
+  };
+
   function statusAt(c, ep) {
     let cur = { s: 'active', ep: 0 };
     for (const st of c.status || []) if (st.ep <= ep) cur = st;
@@ -1207,7 +1229,9 @@
             <div class="label">${esc(seasonsTxt)}</div>
             <h2 class="dz-name">${esc(c.name)}</h2>
             <div class="dz-alias">${c.full ? `<i>${esc(c.full)}</i> &middot; ` : ''}${c.actor ? `Played by ${esc(c.actor)}` : 'Not seen on screen'}</div>
+            ${photoCredit(c)}
           </div>
+          ${photo(c)}
         </header>
         <section class="arc-sec">
           <h5 class="label">Position by season <span class="arc-key"><i class="k-start"></i>season start <i class="k-end"></i>finale</span></h5>
@@ -1462,6 +1486,7 @@
               <h2 class="dz-name">${esc(c.name)}</h2>
               <div class="dz-alias">${c.full ? `<i>${esc(c.full)}</i> &middot; ` : ''}${c.alias ? `<i>&ldquo;${esc(c.alias)}&rdquo;</i> &middot; ` : ''}${c.actor ? `Played by ${esc(c.actor)}` : 'Not seen on screen'}</div>
             </div>
+            ${photo(c)}
           </div>
           <div class="dz-chips">
             <span class="fchip" style="--fc:${fColor(c.faction)}">${esc(fShort(c.faction))}</span>
@@ -1469,6 +1494,7 @@
             ${!unseen && c.firstEp > 1 ? `<span class="fchip">From ep ${c.firstEp}</span>` : ''}
             ${also.length ? `<span class="fchip">Also in S${also.join(', S')}</span>` : ''}
           </div>
+          ${photoCredit(c)}
         </header>
 
         <section class="dz-sec">

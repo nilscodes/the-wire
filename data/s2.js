@@ -101,6 +101,7 @@
     {
       "id": "stringer",
       "name": "Stringer Bell",
+      "full": "Russell Bell",
       "short": "Stringer",
       "actor": "Idris Elba",
       "faction": "barksdale",
@@ -177,6 +178,7 @@
     {
       "id": "weebey",
       "name": "Wee-Bey Brice",
+      "full": "Roland Brice",
       "short": "Wee-Bey",
       "actor": "Hassan Johnson",
       "faction": "barksdale",
@@ -305,6 +307,7 @@
     {
       "id": "bodie",
       "name": "Bodie Broadus",
+      "full": "Preston Broadus",
       "short": "Bodie",
       "actor": "J. D. Williams",
       "faction": "barksdale",
@@ -370,6 +373,7 @@
     {
       "id": "poot",
       "name": "Poot Carr",
+      "full": "Malik Carr",
       "short": "Poot",
       "actor": "Tray Chaney",
       "faction": "barksdale",
@@ -530,6 +534,7 @@
     {
       "id": "propjoe",
       "name": "Proposition Joe",
+      "alias": "Prop Joe",
       "short": "Prop Joe",
       "actor": "Robert F. Chew",
       "faction": "street",
@@ -1523,6 +1528,7 @@
     {
       "id": "bunk",
       "name": "Bunk Moreland",
+      "full": "William Moreland",
       "short": "Bunk",
       "actor": "Wendell Pierce",
       "faction": "police",
@@ -1654,6 +1660,7 @@
     {
       "id": "kima",
       "name": "Kima Greggs",
+      "full": "Shakima Greggs",
       "short": "Kima",
       "actor": "Sonja Sohn",
       "faction": "police",
@@ -1725,6 +1732,7 @@
     {
       "id": "herc",
       "name": "Herc Hauk",
+      "full": "Thomas Hauk",
       "short": "Herc",
       "actor": "Domenick Lombardozzi",
       "faction": "police",
@@ -1843,6 +1851,7 @@
     {
       "id": "prez",
       "name": "Prez Pryzbylewski",
+      "full": "Roland Pryzbylewski",
       "short": "Prez",
       "actor": "Jim True-Frost",
       "faction": "police",
@@ -2027,6 +2036,7 @@
     {
       "id": "fitzhugh",
       "name": "Terrance Fitzhugh",
+      "alias": "Fitz",
       "short": "Fitz",
       "actor": "Doug Olear",
       "faction": "police",
@@ -2169,6 +2179,7 @@
     {
       "id": "davis",
       "name": "Clay Davis",
+      "full": "R. Clayton Davis",
       "short": "Clay Davis",
       "actor": "Isiah Whitlock Jr.",
       "faction": "law",

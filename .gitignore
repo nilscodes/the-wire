@@ -4,6 +4,10 @@
 # Stale bundle of the original single-season build
 index.zip
 
+# Show stills (HBO's, not free-licensed): local only. tools/fetch-stills.js writes them.
+#data/stills.js
+#img/stills/
+
 # Personal Claude Code settings
 .claude/settings.local.json
 

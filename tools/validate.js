@@ -173,7 +173,8 @@ for (const S of seasons) {
     if (prev) {
       if (prev.name !== c.name) W(`s${S.season}.${c.id}`, `name changed from "${prev.name}" (S${prev.season})`);
       if (prev.actor && c.actor && prev.actor !== c.actor) W(`s${S.season}.${c.id}`, `actor changed from ${prev.actor} (S${prev.season})`);
-    } else firstSeen.set(c.id, { name: c.name, actor: c.actor, season: S.season });
+      for (const k of ['full', 'alias']) if (prev[k] && !c[k]) W(`s${S.season}.${c.id}`, `${k} "${prev[k]}" from S${prev.season} is missing`);
+    } else firstSeen.set(c.id, { name: c.name, actor: c.actor, full: c.full, alias: c.alias, season: S.season });
     if (deadAt.has(c.id) && !c.flashback) E(`s${S.season}.${c.id}`, `died in Season ${deadAt.get(c.id)} but appears again (set flashback: true if that is right)`);
     const last = (c.status || []).filter(st => st.ep <= maxEp).slice(-1)[0];
     if (last && last.s === 'dead' && !deadAt.has(c.id)) deadAt.set(c.id, S.season);
@@ -196,6 +197,30 @@ seasons.forEach(S => Object.entries(S.factions).forEach(([id, f]) => {
   if (o && o !== id) W(`s${S.season}.factions.${id}`, `shares color ${f.color} with ${o}`);
   else colorOwners.set(f.color, id);
 }));
+
+// ------------------------------------------------------------ pictures for the detail headers
+// data/photos.js: actor photos by actor (tools/fetch-photos.js). data/stills.js: show stills by id, local only (tools/fetch-stills.js).
+function checkPictures(file, name, dir, keys, credit) {
+  const f = path.join(lib.DATA_DIR, file);
+  if (!fs.existsSync(f)) return;
+  const sandbox = { window: {} };
+  require('vm').runInNewContext(fs.readFileSync(f, 'utf8'), sandbox, { filename: f });
+  const used = new Set();
+  Object.entries(sandbox.window[name] || {}).forEach(([k, p]) => {
+    const w = `${file} ${k}`;
+    if (!keys.has(k)) W(w, 'matches no on-screen character');
+    if (!p) return;
+    if (!p.src) { W(w, `has no image yet; run tools/fetch-${file}`); return; }
+    used.add(p.src);
+    if (!fs.existsSync(path.join(lib.ROOT, p.src))) E(w, `${p.src} does not exist`);
+    credit.forEach(c => { if (!p[c]) E(w, `needs ${c} for the credit`); });
+  });
+  const abs = path.join(lib.ROOT, dir);
+  if (fs.existsSync(abs)) fs.readdirSync(abs).forEach(x => { if (!used.has(`${dir}/${x}`)) W(`${dir}/${x}`, `not used by data/${file}`); });
+}
+const onScreen = seasons.flatMap(S => S.characters.filter(c => c.actor));
+checkPictures('photos.js', 'WIRE_PHOTOS', 'img/actors', new Set(onScreen.map(c => c.actor)), ['source', 'license']);
+checkPictures('stills.js', 'WIRE_STILLS', 'img/stills', new Set(onScreen.map(c => c.id)), ['source']);
 
 // ------------------------------------------------------------ spoiler scan
 const spoilerFile = flag('--spoilers');

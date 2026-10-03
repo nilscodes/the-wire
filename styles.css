@@ -992,6 +992,23 @@ kbd {
 .dz-alias { margin-top: 4px; font-size: 13px; color: var(--dim); }
 .dz-alias i { color: var(--paper-2); font-style: normal; font-weight: 600; }
 .dz-chips { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 14px; }
+/* actor photo (data/photos.js): beside the avatar in the dossier and Arcs headers, never instead of it */
+.photo {
+  flex: none;
+  width: 76px;
+  height: 95px;
+  margin-left: auto;
+  object-fit: cover;
+  object-position: 50% 25%;
+  border: 3px solid var(--paper-2);
+  border-radius: 2px;
+  background: var(--night-2);
+  box-shadow: 0 10px 20px -10px rgba(0, 0, 0, .9);
+  transform: rotate(2deg);
+}
+.photo-credit { margin: 12px 0 0; font: 500 10px/1.45 var(--f-mono); letter-spacing: .02em; color: var(--faint); }
+.photo-credit a { color: var(--dim); text-decoration: underline; text-decoration-color: var(--wire-2); text-underline-offset: 2px; }
+.photo-credit a:hover { color: var(--paper); }
 .fchip {
   display: inline-flex;
   align-items: center;
@@ -1332,6 +1349,7 @@ kbd {
   animation: step-in .45s var(--ease) both;
 }
 .arc-head .dz-name { font-size: 36px; }
+.arc-head .photo-credit { margin-top: 8px; }
 .arc-sec { margin-top: 22px; }
 .arc-sec > h5 { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 16px; margin: 0 0 10px; }
 .arc-key { display: inline-flex; align-items: center; gap: 6px; text-transform: none; letter-spacing: .04em; }

@@ -91,4 +91,19 @@ function syncIndexScripts() {
   return seasonFiles().map(f => f.n);
 }
 
-module.exports = { ROOT, DATA_DIR, RESEARCH_DIR, INDEX, SCHEMA, loadSeasonFile, loadAllSeasons, seasonFiles, formatSeason, writeSeasonFile, syncIndexScripts };
+// HTTP for the image tools (tools/fetch-photos.js, tools/fetch-stills.js): a descriptive User-Agent, as
+// Wikimedia and Fandom ask, and a few retries on rate limits and server errors.
+const UA = 'WireCaseBoard/0.1 (https://github.com/nilscodes/the-wire)';
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+async function get(url, opts = {}) {
+  for (let attempt = 0; ; attempt++) {
+    const res = await fetch(url, { ...opts, headers: { 'User-Agent': UA, ...(opts.headers || {}) } });
+    if (res.ok) return res;
+    if ((res.status === 429 || res.status >= 500) && attempt < 4) { await sleep(2000 * (attempt + 1)); continue; }
+    throw new Error(`${res.status} ${res.statusText} for ${url.slice(0, 120)}`);
+  }
+}
+// MediaWiki API call, e.g. api('https://commons.wikimedia.org/w/api.php', { action: 'query', ... })
+const api = async (endpoint, params) => (await get(`${endpoint}?` + new URLSearchParams({ format: 'json', formatversion: '2', ...params }))).json();
+
+module.exports = { ROOT, DATA_DIR, RESEARCH_DIR, INDEX, SCHEMA, loadSeasonFile, loadAllSeasons, seasonFiles, formatSeason, writeSeasonFile, syncIndexScripts, sleep, get, api };

@@ -39,17 +39,21 @@ for (const s of sources) for (const c of s.data.characters || []) {
 
 // ------------------------------------------------------------ characters
 const cleanName = name => String(name || '').replace(/\s*["“][^"”]*["”]\s*/g, ' ').replace(/\s+/g, ' ').trim();
+// full name, alias and initials carry over from the character's latest earlier season unless curation sets them
+const earlier = new Map();
+lib.loadAllSeasons().filter(S => S.season < n).forEach(S => S.characters.forEach(c => earlier.set(c.id, c)));
 const characters = (cur.characters || []).map(([id, o]) => {
   const r = research.get(id) || {};
+  const prev = earlier.get(id) || {};
   if (!research.has(id) && !o.name) err(`character ${id}: no research record and no name in curation`);
   const mapRef = ref => (ref && r._src ? r._src.mapId(ref) : ref) || null;
   const c = {
     id,
     name: o.name || cleanName(r.name),
-    full: o.full || null,
-    alias: o.alias !== undefined ? o.alias : null,
+    full: o.full || prev.full || null,
+    alias: o.alias !== undefined ? o.alias : (prev.alias || null),
     short: o.short,
-    initials: o.initials,
+    initials: o.initials || prev.initials,
     actor: o.actor !== undefined ? o.actor : (r.actor || null),
     faction: o.faction || factionMap[r.faction] || r.faction,
     unit: o.unit || r.unit,
